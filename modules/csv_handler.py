@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 
 class CsvWriter(object):
     def __init__(self, csv_file):
@@ -9,9 +8,9 @@ class CsvWriter(object):
         self.mode = 'w'
 
     def write_to_csv(self, data_dict):
-        if os.path.exists(self.csv_file):
-            print("Waring: File exists, skip writing {0}".format(self.csv_file))
-            return
+        #if os.path.exists(self.csv_file):
+        #    print("Waring: File exists, skip writing {0}".format(self.csv_file))
+        #    return
         DataFrame = pd.DataFrame(data_dict)
         DataFrame.to_csv(self.csv_file, mode=self.mode, index=False, header=self.write_header, sep=",")
         if not self.has_header:
@@ -23,3 +22,4 @@ class CsvWriter(object):
         data = pd.read_csv(self.csv_file)
         data.sort_values(by='model', ascending=True, inplace=True)
         data.to_csv(self.csv_file, index=False)
+        print("sorted %s" % self.csv_file)

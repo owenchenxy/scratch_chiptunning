@@ -5,8 +5,8 @@ from modules.generation import Generation
 
 # e.g. "2.0 TS 150hp"
 class Para(Generation):
-    def __init__(self, brand_url, model_url, generation_url, para_url):
-        super(Para, self).__init__(brand_url, model_url, generation_url)
+    def __init__(self, generation_url, para_url):
+        super(Para, self).__init__(generation_url)
         self.para_url = "{0}{1}".format(self.base_url, para_url)
         self.relative_para_url = para_url
         self.soup = self.get_soup(self.para_url)

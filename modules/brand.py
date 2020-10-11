@@ -15,10 +15,8 @@ class Brand(Spider):
         self.get_brand_name()
         
     def get_model_urls(self):
-        items = self.soup.find('ul', {"class": "content"}).find_all('a')
-        for i in items:
+        for i in self.soup.find('ul', {"class": "content"}).find_all('a'):
             self.model_urls.append(i.get('href'))
 
     def get_brand_name(self):
-        item = self.soup.find('article').find('h2')
-        self.brand_name = item.get_text()
+        self.brand_name = self.soup.find('article').find('h2').get_text()

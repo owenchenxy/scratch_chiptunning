@@ -4,14 +4,19 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen,Request
 from retrying import retry
+import multiprocessing
+from gevent import monkey
+from importlib import reload
+import socket
 
 class Spider(object):
     def __init__(self):
         self.base_url = 'https://www.br-performance.be/en-be/'
         # if has Chinese, apply decode()
         self.headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
-        self.writer_dict = dict()
-        self.collect_threads = list()
+        reload(socket)
+        self.writer_dict = multiprocessing.Manager().dict()
+        monkey.patch_socket()
 
     @retry
     def get_soup(self, url, timeout=12):
