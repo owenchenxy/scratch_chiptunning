@@ -1,0 +1,59 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Jeep,Cherokee,2005>2008,Diesel,2.8 CRD,158 hp,190 hp,+ 32 hp,400 Nm,460 Nm,+ 60 Nm
+Jeep,Cherokee,06/2014>2018,Diesel,2.2 Mjet,185 hp,200 hp,+ 15 hp,440 Nm,500 Nm,+ 60 Nm
+Jeep,Cherokee,09/2018>...,Diesel,2.2 Mjet²,195 hp, hp,0 hp, Nm, Nm,0 Nm
+Jeep,Cherokee,09/2018>...,Diesel,2.2 Mjet²,150 hp, hp,0 hp, Nm, Nm,0 Nm
+Jeep,Cherokee,06/2014>2018,Diesel,2.0 Mjet,170 hp,185 hp,+ 15 hp,350 Nm,430 Nm,+ 80 Nm
+Jeep,Cherokee,2005>2008,Diesel,2.8 CRD,177 hp,200 hp,+ 23 hp,410 Nm,500 Nm,+ 90 Nm
+Jeep,Cherokee,2010>2014,Diesel,2.8 CRD,200 hp,235 hp,+ 35 hp,410 Nm,520 Nm,+ 110 Nm
+Jeep,Cherokee,06/2014>2018,Diesel,2.2 Mjet,200 hp,210 hp,+ 10 hp,440 Nm,500 Nm,+ 60 Nm
+Jeep,Cherokee,2010>2014,Diesel,2.8 CRD,177 hp,205 hp,+ 28 hp,410 Nm,520 Nm,+ 110 Nm
+Jeep,Cherokee,2005>2008,Diesel,2.8 CRD,163 hp,200 hp,+ 37 hp,410 Nm,500 Nm,+ 90 Nm
+Jeep,Cherokee,09/2018>...,Gasoline,2.0 T,270 hp, hp,0 hp, Nm, Nm,0 Nm
+Jeep,Cherokee,06/2014>2018,Diesel,2.0 Mjet,140 hp,175 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Jeep,Commander,2006>...,Diesel,3.0crd,218 hp,265 hp,+ 47 hp,510 Nm,600 Nm,+ 90 Nm
+Jeep,Commander,2011>...,Diesel,2.2 CRDi,136 hp,180 hp,+ 44 hp,320 Nm,400 Nm,+ 80 Nm
+Jeep,Commander,2006>...,Diesel,2.2crd,136 hp,180 hp,+ 44 hp,320 Nm,380 Nm,+ 60 Nm
+Jeep,Commander,2006>...,Diesel,3.0crd,211 hp,265 hp,+ 54 hp,510 Nm,600 Nm,+ 90 Nm
+Jeep,Compass,2020>...,Gasoline,1.4 Multiair,170 hp,180 hp,+ 10 hp,250 Nm,300 Nm,+ 50 Nm
+Jeep,Compass,2020>...,Gasoline,1.3 GSE T4,150 hp,170 hp,+ 20 hp,270 Nm,310 Nm,+ 40 Nm
+Jeep,Compass,2017>2020,Gasoline,1.4 Multiair,140 hp,165 hp,+ 25 hp,230 Nm,300 Nm,+ 70 Nm
+Jeep,Compass,2017>2020,Diesel,2.0 MultiJet,140 hp,175 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Jeep,Compass,2017>2020,Diesel,1.6 MultiJet,120 hp,155 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Jeep,Compass,2017>2020,Gasoline,1.4 Multiair,170 hp,180 hp,+ 10 hp,250 Nm,300 Nm,+ 50 Nm
+Jeep,Compass,2011>2017,Diesel,2.2 CRDi,163 hp,200 hp,+ 37 hp,320 Nm,420 Nm,+ 100 Nm
+Jeep,Compass,2017>2020,Diesel,2.0 MultiJet,170 hp,185 hp,+ 15 hp,350 Nm,430 Nm,+ 80 Nm
+Jeep,Compass,2020>...,Gasoline,1.4 Multiair,140 hp,165 hp,+ 25 hp,230 Nm,300 Nm,+ 70 Nm
+Jeep,Compass,2011>2017,Diesel,2.2 CRDi,136 hp,180 hp,+ 44 hp,320 Nm,400 Nm,+ 80 Nm
+Jeep,Compass,...>2006,Diesel,2.0 CRD,140 hp,175 hp,+ 35 hp,310 Nm,380 Nm,+ 70 Nm
+Jeep,Grand Cherokee,2011>...,Gasoline,3.6 V6 VVT,286 hp, hp,0 hp,347 Nm, Nm,0 Nm
+Jeep,Grand Cherokee,2011>...,Diesel,3.0 CRD,250 hp,280 hp,+ 30 hp,570 Nm,630 Nm,+ 60 Nm
+Jeep,Grand Cherokee,2011>...,Diesel,2.0 Mjet,170 hp,185 hp,+ 15 hp,350 Nm,430 Nm,+ 80 Nm
+Jeep,Grand Cherokee,2011>...,Gasoline,6.4 V8 SRT8,468 hp,488 hp,+ 20 hp,624 Nm,654 Nm,+ 30 Nm
+Jeep,Grand Cherokee,2011>...,Diesel,2.0 Mjet,140 hp,175 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Jeep,Grand Cherokee,2005>2011,Diesel,3.0 CRD,211 hp,265 hp,+ 54 hp,510 Nm,600 Nm,+ 90 Nm
+Jeep,Grand Cherokee,2011>...,Diesel,3.0 CRD,190 hp,270 hp,+ 80 hp,440 Nm,630 Nm,+ 190 Nm
+Jeep,Grand Cherokee,2005>2011,Diesel,3.0 CRD,218 hp,265 hp,+ 47 hp,510 Nm,600 Nm,+ 90 Nm
+Jeep,Grand Cherokee,2011>...,Diesel,3.0 CRD,241 hp,270 hp,+ 29 hp,550 Nm,630 Nm,+ 80 Nm
+Jeep,Patriot,2007>2013,Diesel,2.0 CRD,136 hp,175 hp,+ 39 hp,310 Nm,380 Nm,+ 70 Nm
+Jeep,Patriot,2007>2013,Diesel,2.0 CRD,140 hp,175 hp,+ 35 hp,310 Nm,380 Nm,+ 70 Nm
+Jeep,Patriot,2007>2013,Diesel,2.2 CRD,163 hp,200 hp,+ 37 hp,320 Nm,450 Nm,+ 130 Nm
+Jeep,Renegade,2018>...,Gasoline,1.3 T,180 hp, hp,0 hp, Nm, Nm,0 Nm
+Jeep,Renegade,2014>2018,Diesel,1.6 JTDM,115 hp,145 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Jeep,Renegade,2014>2018,Diesel,1.6 JTDM,120 hp,155 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Jeep,Renegade,2018>...,Diesel,2.0 MJT,140 hp,175 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Jeep,Renegade,2014>2018,Diesel,2.0 JTDM,120 hp,165 hp,+ 45 hp,350 Nm,420 Nm,+ 70 Nm
+Jeep,Renegade,2014>2018,Diesel,2.0 JTDM,140 hp,175 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Jeep,Renegade,2018>...,Diesel,1.6 MJT,120 hp,155 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Jeep,Renegade,2014>2018,Diesel,1.6 JTDM,95 hp,155 hp,+ 60 hp,320 Nm,380 Nm,+ 60 Nm
+Jeep,Renegade,2014>2018,Gasoline,1.4 Multiair,170 hp,185 hp,+ 15 hp,250 Nm,290 Nm,+ 40 Nm
+Jeep,Renegade,2018>...,Gasoline,1.0 GSE T3,120 hp,140 hp,+ 20 hp,190 Nm,230 Nm,+ 40 Nm
+Jeep,Renegade,2014>2018,Gasoline,1.4 Multiair,136 hp,165 hp,+ 29 hp,230 Nm,300 Nm,+ 70 Nm
+Jeep,Renegade,2018>...,Diesel,2.0 MJT,170 hp,185 hp,+ 15 hp,350 Nm,430 Nm,+ 80 Nm
+Jeep,Renegade,2018>...,Gasoline,1.3 GSE T4,150 hp,170 hp,+ 20 hp,270 Nm,310 Nm,+ 40 Nm
+Jeep,Renegade,2014>2018,Diesel,2.0 JTDM,170 hp,185 hp,+ 15 hp,350 Nm,430 Nm,+ 80 Nm
+Jeep,Wrangler,2018>...,Diesel,2.8 CRD,200 hp,235 hp,+ 35 hp,410 Nm,520 Nm,+ 110 Nm
+Jeep,Wrangler,2016>2018,Diesel,2.8 CRD,200 hp,235 hp,+ 35 hp,410 Nm,520 Nm,+ 110 Nm
+Jeep,Wrangler,2018>...,Diesel,2.2 Mjet,200 hp,230 hp,+ 30 hp,450 Nm,480 Nm,+ 30 Nm
+Jeep,Wrangler,2010>2016,Diesel,2.8 CRD,200 hp,235 hp,+ 35 hp,410 Nm,520 Nm,+ 110 Nm
+Jeep,Wrangler,2007>2010,Diesel,2.8CRD,177 hp,210 hp,+ 33 hp,410 Nm,520 Nm,+ 110 Nm

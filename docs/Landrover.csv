@@ -1,0 +1,89 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Landrover,Defender,2019>...,Diesel,D240,240 hp, hp,0 hp,500 Nm, Nm,0 Nm
+Landrover,Defender,2011>2019,Gasoline,5.0 V8,405 hp, hp,0 hp,515 Nm, Nm,0 Nm
+Landrover,Defender,2019>...,Gasoline,P400,400 hp, hp,0 hp, Nm, Nm,0 Nm
+Landrover,Defender,2019>...,Diesel,D200,200 hp, hp,0 hp, Nm, Nm,0 Nm
+Landrover,Defender,2000>2007,Diesel,2.5 TD5,122 hp,152 hp,+ 30 hp,300 Nm,365 Nm,+ 65 Nm
+Landrover,Defender,2007>2011,Diesel,2.4 TD4,122 hp,155 hp,+ 33 hp,360 Nm,420 Nm,+ 60 Nm
+Landrover,Defender,2019>...,Diesel,D300,300 hp, hp,0 hp, Nm, Nm,0 Nm
+Landrover,Defender,2011>2019,Diesel,2.2 TD4,122 hp,160 hp,+ 38 hp,360 Nm,420 Nm,+ 60 Nm
+Landrover,Discovery,...>2016,Diesel,3.0 SDV6,255 hp,300 hp,+ 45 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Discovery,2017>...,Diesel,2.0 TD4,180 hp,210 hp,+ 30 hp,420 Nm,490 Nm,+ 70 Nm
+Landrover,Discovery,2017>...,Diesel,3.0 SD6,306 hp,330 hp,+ 24 hp,700 Nm,750 Nm,+ 50 Nm
+Landrover,Discovery,...>2016,Diesel,TD5 AUT,139 hp,159 hp,+ 20 hp,340 Nm,385 Nm,+ 45 Nm
+Landrover,Discovery,...>2016,Diesel,2.5 TD5,138 hp,160 hp,+ 22 hp,300 Nm,350 Nm,+ 50 Nm
+Landrover,Discovery,2017>...,Gasoline,2.0 Si4,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Landrover,Discovery,...>2016,Diesel,2.7 TDV6,190 hp,240 hp,+ 50 hp,440 Nm,520 Nm,+ 80 Nm
+Landrover,Discovery,...>2016,Diesel,3.0 TDV6,245 hp,290 hp,+ 45 hp,520 Nm,660 Nm,+ 140 Nm
+Landrover,Discovery,2017>...,Diesel,3.0 TD6,258 hp,300 hp,+ 42 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Discovery,...>2016,Diesel,3.0 TDV6,211 hp,290 hp,+ 79 hp,520 Nm,660 Nm,+ 140 Nm
+Landrover,Discovery,2017>...,Diesel,2.0 SD4,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Landrover,Discovery Sport,2019>...,Gasoline,P250,250 hp,270 hp,+ 20 hp,365 Nm,440 Nm,+ 75 Nm
+Landrover,Discovery Sport,2015>2019,Diesel,2.0 TD4,180 hp,210 hp,+ 30 hp,420 Nm,490 Nm,+ 70 Nm
+Landrover,Discovery Sport,2015>2019,Gasoline,2.0 Si4,290 hp,320 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Landrover,Discovery Sport,2015>2019,Diesel,2.0 TD4/ED4,150 hp,190 hp,+ 40 hp,380 Nm,460 Nm,+ 80 Nm
+Landrover,Discovery Sport,2019>...,Diesel,D180,180 hp, hp,0 hp,430 Nm, Nm,0 Nm
+Landrover,Discovery Sport,2015>2019,Diesel,2.2 SD4,190 hp,215 hp,+ 25 hp,420 Nm,470 Nm,+ 50 Nm
+Landrover,Discovery Sport,2015>2019,Diesel,2.0 SD4,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Landrover,Discovery Sport,2019>...,Diesel,D240,240 hp, hp,0 hp,500 Nm, Nm,0 Nm
+Landrover,Discovery Sport,2015>2019,Gasoline,2.0 SI4,240 hp,260 hp,+ 20 hp,340 Nm,440 Nm,+ 100 Nm
+Landrover,Discovery Sport,2019>...,Gasoline,P200,200 hp, hp,0 hp,320 Nm, Nm,0 Nm
+Landrover,Discovery Sport,2015>2019,Diesel,2.2 TD4,150 hp,215 hp,+ 65 hp,400 Nm,470 Nm,+ 70 Nm
+Landrover,Discovery Sport,2019>...,Diesel,D150,150 hp, hp,0 hp,380 Nm, Nm,0 Nm
+Landrover,Evoque,2011>2015,Diesel,2.2 SD4,190 hp,215 hp,+ 25 hp,420 Nm,470 Nm,+ 50 Nm
+Landrover,Evoque,2011>2015,Diesel,2.2 TD4,150 hp,215 hp,+ 65 hp,400 Nm,470 Nm,+ 70 Nm
+Landrover,Evoque,08/2015>2019,Diesel,2.0 TD4,180 hp,210 hp,+ 30 hp,430 Nm,490 Nm,+ 60 Nm
+Landrover,Evoque,08/2015>2019,Diesel,2.0 TD4,150 hp,180 hp,+ 30 hp,380 Nm,440 Nm,+ 60 Nm
+Landrover,Evoque,2011>2015,Gasoline,2.0 Si4,240 hp,260 hp,+ 20 hp,340 Nm,440 Nm,+ 100 Nm
+Landrover,Evoque,08/2015>2019,Gasoline,2.0 Si4,240 hp,260 hp,+ 20 hp,340 Nm,440 Nm,+ 100 Nm
+Landrover,Evoque,08/2015>2019,Diesel,2.0 ED4,150 hp,180 hp,+ 30 hp,380 Nm,440 Nm,+ 60 Nm
+Landrover,Evoque,2011>2015,Diesel,2.2 ED4,150 hp,215 hp,+ 65 hp,380 Nm,470 Nm,+ 90 Nm
+Landrover,Freelander,2010>...,Diesel,2.2 TD4,190 hp,215 hp,+ 25 hp,420 Nm,470 Nm,+ 50 Nm
+Landrover,Freelander,2007>2010,Diesel,2.2 TD4,160 hp,185 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Landrover,Freelander,2007>2010,Diesel,2.2 TD4,150 hp,185 hp,+ 35 hp,400 Nm,460 Nm,+ 60 Nm
+Landrover,Freelander,2010>...,Diesel,2.2 TD4,150 hp,215 hp,+ 65 hp,420 Nm,470 Nm,+ 50 Nm
+Landrover,Freelander,10/2003>01/2007,Diesel,2.0 TD4,112 hp,140 hp,+ 28 hp,260 Nm,340 Nm,+ 80 Nm
+Landrover,Range Rover,2002>2012,Diesel,3.6 TDV8,272 hp,310 hp,+ 38 hp,640 Nm,750 Nm,+ 110 Nm
+Landrover,Range Rover,11/2013>2018,Diesel,3.0 SDV6,255 hp,300 hp,+ 45 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Range Rover,2021>...,Gasoline,5.0 V8 Supercharged,525 hp, hp,0 hp,680 Nm, Nm,0 Nm
+Landrover,Range Rover,2002>2012,Diesel,4.4 TDV8,313 hp,380 hp,+ 67 hp,700 Nm,800 Nm,+ 100 Nm
+Landrover,Range Rover,11/2013>2018,Diesel,3.0 TDV6,258 hp,300 hp,+ 42 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Range Rover,2012>10/2013,Diesel,4.4 TDV8,338 hp,390 hp,+ 52 hp,700 Nm,820 Nm,+ 120 Nm
+Landrover,Range Rover,11/2013>2018,Diesel,3.0 TDV6,211 hp,300 hp,+ 89 hp,520 Nm,650 Nm,+ 130 Nm
+Landrover,Range Rover,2021>...,Gasoline,5.0 V8 Supercharged,575 hp, hp,0 hp,700 Nm, Nm,0 Nm
+Landrover,Range Rover,11/2013>2018,Diesel,3.0 SDV6,292 hp,320 hp,+ 28 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Range Rover,2018>...,Gasoline,5.0 V8 Supercharged SVR,575 hp,590 hp,+ 15 hp,700 Nm,720 Nm,+ 20 Nm
+Landrover,Range Rover,11/2013>2018,Gasoline,5.0 V8 Supercharged SVR,550 hp,570 hp,+ 20 hp,680 Nm,720 Nm,+ 40 Nm
+Landrover,Range Rover,2018>...,Diesel,2.0 TD4,180 hp,210 hp,+ 30 hp,420 Nm,490 Nm,+ 70 Nm
+Landrover,Range Rover,2018>...,Diesel,2.0 SD4,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Landrover,Range Rover,11/2013>2018,Diesel,3.0 SDV6,306 hp,330 hp,+ 24 hp,700 Nm,750 Nm,+ 50 Nm
+Landrover,Range Rover,2018>...,Diesel,3.0 SDV6,249 hp,305 hp,+ 56 hp,600 Nm,675 Nm,+ 75 Nm
+Landrover,Range Rover,11/2013>2018,Diesel,4.4 SDV8,339 hp,390 hp,+ 51 hp,700 Nm,820 Nm,+ 120 Nm
+Landrover,Range Rover,2018>...,Diesel,3.0 TDV6,258 hp,300 hp,+ 42 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Range Rover,2018>...,Diesel,3.0 SDV6,275 hp,305 hp,+ 30 hp,625 Nm,675 Nm,+ 50 Nm
+Landrover,Range Rover,2018>...,Gasoline,5.0 V8 Supercharged,525 hp,570 hp,+ 45 hp,680 Nm,720 Nm,+ 40 Nm
+Landrover,Range Rover,2002>2012,Diesel,3.0 TDV6,245 hp,295 hp,+ 50 hp,600 Nm,680 Nm,+ 80 Nm
+Landrover,Range Rover,11/2013>2018,Gasoline,5.0 V8 Supercharged,510 hp,550 hp,+ 40 hp,625 Nm,700 Nm,+ 75 Nm
+Landrover,Range Rover,2021>...,Gasoline,P300 - 2.0T,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Landrover,Range Rover,2002>2012,Diesel,2.7 TDV6,190 hp,240 hp,+ 50 hp,440 Nm,520 Nm,+ 80 Nm
+Landrover,Range Rover,2002>2012,Diesel,2.5 TD,136 hp,165 hp,+ 29 hp,275 Nm,360 Nm,+ 85 Nm
+Landrover,Range Rover,2002>2012,Diesel,3.0 TD6,177 hp,204 hp,+ 27 hp,390 Nm,470 Nm,+ 80 Nm
+Landrover,Range Rover,2018>...,Diesel,3.0 SDV6,306 hp,330 hp,+ 24 hp,700 Nm,750 Nm,+ 50 Nm
+Landrover,Range Rover,2002>2012,Gasoline,4.2 V8 Supercharged,396 hp,450 hp,+ 54 hp,560 Nm,650 Nm,+ 90 Nm
+Landrover,Range Rover,2012>10/2013,Gasoline,5.0 V8 Supercharged,510 hp,560 hp,+ 50 hp,625 Nm,700 Nm,+ 75 Nm
+Landrover,Range Rover,2018>...,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Landrover,Range Rover,2012>10/2013,Diesel,3.0 SDV6,256 hp,300 hp,+ 44 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Range Rover,2002>2012,Diesel,3.0 TDV6,211 hp,295 hp,+ 84 hp,600 Nm,680 Nm,+ 80 Nm
+Landrover,Range Rover,2018>...,Gasoline,2.0 Si4,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Landrover,Range Rover,2012>10/2013,Diesel,3.0 TDV6,256 hp,300 hp,+ 44 hp,600 Nm,650 Nm,+ 50 Nm
+Landrover,Range Rover,11/2013>2018,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Landrover,Range Rover,2018>...,Diesel,4.4 SDV8,339 hp,390 hp,+ 51 hp,700 Nm,820 Nm,+ 120 Nm
+Landrover,Velar,2017>...,Gasoline,SVR 5.0 V8 Supercharged,550 hp,600 hp,+ 50 hp,700 Nm,750 Nm,+ 50 Nm
+Landrover,Velar,2017>...,Diesel,2.0 TD4,180 hp,210 hp,+ 30 hp,430 Nm,490 Nm,+ 60 Nm
+Landrover,Velar,2017>...,Diesel,3.0 SD6,300 hp,330 hp,+ 30 hp,700 Nm,750 Nm,+ 50 Nm
+Landrover,Velar,2017>...,Gasoline,3.0 Si6,380 hp,400 hp,+ 20 hp,460 Nm,500 Nm,+ 40 Nm
+Landrover,Velar,2017>...,Gasoline,3.0 Si6,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Landrover,Velar,2017>...,Gasoline,2.0 Si4,250 hp,270 hp,+ 20 hp,365 Nm,440 Nm,+ 75 Nm
+Landrover,Velar,2017>...,Gasoline,2.0 Si4,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Landrover,Velar,2017>...,Diesel,2.0 SD4,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Landrover,Velar,2017>...,Diesel,3.0 SD6,275 hp,305 hp,+ 30 hp,625 Nm,675 Nm,+ 50 Nm

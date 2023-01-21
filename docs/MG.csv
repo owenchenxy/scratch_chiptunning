@@ -1,0 +1,2 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+MG,3 SW,2008>...,Gasoline,1.6 Turbo,156 hp,186 hp,+ 30 hp,250 Nm,300 Nm,+ 50 Nm

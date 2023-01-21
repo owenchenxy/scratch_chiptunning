@@ -1,0 +1,27 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Bentley,Bacalar,2020>...,Gasoline,6.0 W12 Bi-Turbo,659 hp, hp,0 hp,900 Nm, Nm,0 Nm
+Bentley,Bentayga,2016>...,Gasoline,4.0 V8 Bi-Turbo,550 hp, hp,0 hp,770 Nm, Nm,0 Nm
+Bentley,Bentayga,2016>...,Gasoline,"6.0 W12 Bi Turbo ""Speed""",635 hp, hp,0 hp, Nm, Nm,0 Nm
+Bentley,Bentayga,2016>...,Gasoline,6.0 W12 Bi Turbo,608 hp,670 hp,+ 62 hp,900 Nm,1000 Nm,+ 100 Nm
+Bentley,Continental Flying Spur,All,Gasoline,4.0 TFSi V8,507 hp,680 hp,+ 173 hp,660 Nm,900 Nm,+ 240 Nm
+Bentley,Continental Flying Spur,All,Gasoline,6.0 W12 Bi-Turbo,610 hp,680 hp,+ 70 hp,750 Nm,900 Nm,+ 150 Nm
+Bentley,Continental Flying Spur,All,Gasoline,6.0 W12 Bi-Turbo,560 hp,680 hp,+ 120 hp,650 Nm,900 Nm,+ 250 Nm
+Bentley,Continental Flying Spur,All,Gasoline,6.0 W12 Bi-Turbo,625 hp,680 hp,+ 55 hp,800 Nm,900 Nm,+ 100 Nm
+Bentley,Continental GT / S,2003>2019,Gasoline,6.0 W12 Bi-Turbo,575 hp,680 hp,+ 105 hp,700 Nm,900 Nm,+ 200 Nm
+Bentley,Continental GT / S,2003>2019,Gasoline,6.0 W12 Bi-Turbo,630 hp,680 hp,+ 50 hp,800 Nm,900 Nm,+ 100 Nm
+Bentley,Continental GT / S,2003>2019,Gasoline,6.0 W12 Bi-Turbo,590 hp,680 hp,+ 90 hp,720 Nm,900 Nm,+ 180 Nm
+Bentley,Continental GT / S,2003>2019,Gasoline,6.0 W12 Bi-Turbo,610 hp,680 hp,+ 70 hp,750 Nm,900 Nm,+ 150 Nm
+Bentley,Continental GT / S,2003>2019,Gasoline,4.0 TFSi V8 S,528 hp,680 hp,+ 152 hp,680 Nm,900 Nm,+ 220 Nm
+Bentley,Continental GT / S,2020>...,Gasoline,4.0 TFSI V8,550 hp, hp,0 hp,770 Nm, Nm,0 Nm
+Bentley,Continental GT / S,2003>2019,Gasoline,4.0 TFSi V8,507 hp,680 hp,+ 173 hp,660 Nm,900 Nm,+ 240 Nm
+Bentley,Continental GT / S,2003>2019,Gasoline,6.0 W12 Bi-Turbo,560 hp,680 hp,+ 120 hp,650 Nm,900 Nm,+ 250 Nm
+Bentley,Continental GT Speed,All,Gasoline,6.0 W12 Bi-Turbo,635 hp,680 hp,+ 45 hp,820 Nm,900 Nm,+ 80 Nm
+Bentley,Continental GT3-R,All,Gasoline,4.0 TFSi V8,580 hp,680 hp,+ 100 hp,700 Nm,900 Nm,+ 200 Nm
+Bentley,Continental GTC,All,Gasoline,6.0 W12 Bi-Turbo,610 hp,680 hp,+ 70 hp,750 Nm,900 Nm,+ 150 Nm
+Bentley,Continental GTC,All,Gasoline,6.0 W12 Bi-Turbo,630 hp,680 hp,+ 50 hp,800 Nm,900 Nm,+ 100 Nm
+Bentley,Continental GTC,All,Gasoline,4.0 TFSi V8 S,528 hp,680 hp,+ 152 hp,680 Nm,900 Nm,+ 220 Nm
+Bentley,Continental GTC,All,Gasoline,4.0 TFSi V8,507 hp,680 hp,+ 173 hp,660 Nm,900 Nm,+ 240 Nm
+Bentley,Continental GTC,All,Gasoline,6.0 W12 Bi-Turbo,560 hp,680 hp,+ 120 hp,650 Nm,900 Nm,+ 250 Nm
+Bentley,Continental Supersports,2017>...,Gasoline,W12 6.0,710 hp, hp,0 hp,1017 Nm, Nm,0 Nm
+Bentley,Mulsanne,2016>...,Gasoline,6.75 V8,512 hp,550 hp,+ 38 hp,1020 Nm,1150 Nm,+ 130 Nm
+Bentley,Mulsanne,...>2016,Gasoline,6.75 V8 Bi-Turbo,537 hp,650 hp,+ 113 hp,1100 Nm,1300 Nm,+ 200 Nm

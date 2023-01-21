@@ -1,0 +1,4 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Alpine,A110,2017>...,Gasoline,1.8T,252 hp,280 hp,+ 28 hp,320 Nm,400 Nm,+ 80 Nm
+Alpine,A110,2017>...,Gasoline,1.8T (GPF),252 hp,280 hp,+ 28 hp,320 Nm,400 Nm,+ 80 Nm
+Alpine,A110,2017>...,Gasoline,S - 1.8T (GPF),292 hp,310 hp,+ 18 hp,320 Nm,400 Nm,+ 80 Nm

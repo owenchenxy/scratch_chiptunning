@@ -1,0 +1,5 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+KTM,X-Bow,2012>...,Gasoline,X-Bow R,300 hp,340 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+KTM,X-Bow,2008>...,Gasoline,2.0TFSI,240 hp,260 hp,+ 20 hp,310 Nm,370 Nm,+ 60 Nm
+KTM,X-Bow,2014>...,Gasoline,X-Bow GT,285 hp,340 hp,+ 55 hp,420 Nm,460 Nm,+ 40 Nm
+KTM,X-Bow,2014>...,Gasoline,X-Bow R,300 hp,340 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm

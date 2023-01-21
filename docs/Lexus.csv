@@ -1,0 +1,6 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Lexus,GS,2005>2010,Gasoline,300,249 hp,270 hp,+ 21 hp,310 Nm,330 Nm,+ 20 Nm
+Lexus,IS,2005>2013,Gasoline,250,208 hp,228 hp,+ 20 hp,252 Nm,272 Nm,+ 20 Nm
+Lexus,IS,2005>2013,Gasoline,F 5.0 V8,423 hp,448 hp,+ 25 hp,505 Nm,525 Nm,+ 20 Nm
+Lexus,IS,2005>2013,Diesel,200D,150 hp,190 hp,+ 40 hp,340 Nm,440 Nm,+ 100 Nm
+Lexus,IS,2005>2013,Diesel,220D,177 hp,190 hp,+ 13 hp,400 Nm,440 Nm,+ 40 Nm

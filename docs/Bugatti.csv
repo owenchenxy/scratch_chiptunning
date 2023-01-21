@@ -1,0 +1,4 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Bugatti,Chiron,2016>...,Gasoline,8.0 W16,1500 hp,1750 hp,+ 250 hp,1600 Nm,1800 Nm,+ 200 Nm
+Bugatti,Veyron,All,Gasoline,8.0L,1001 hp,1200 hp,+ 199 hp,1250 Nm,1400 Nm,+ 150 Nm
+Bugatti,Veyron,All,Gasoline,SS - 8.0L W16,1200 hp,1300 hp,+ 100 hp,1500 Nm,1600 Nm,+ 100 Nm

@@ -1,0 +1,16 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+McLaren,Sports Series,2015>2019,Gasoline,540C,540 hp,620 hp,+ 80 hp,540 Nm,680 Nm,+ 140 Nm
+McLaren,Sports Series,2021>...,Gasoline,620R,620 hp,660 hp,+ 40 hp,620 Nm,720 Nm,+ 100 Nm
+McLaren,Sports Series,2015>2019,Gasoline,570S / Sprint / GT4,570 hp,620 hp,+ 50 hp,600 Nm,680 Nm,+ 80 Nm
+McLaren,Sports Series,2015>2019,Gasoline,570GT,570 hp,620 hp,+ 50 hp,600 Nm,680 Nm,+ 80 Nm
+McLaren,Sports Series,2015>2019,Gasoline,570LT,570 hp,620 hp,+ 50 hp,600 Nm,680 Nm,+ 80 Nm
+McLaren,Sports Series,2015>2019,Gasoline,600LT,600 hp,660 hp,+ 60 hp,620 Nm,720 Nm,+ 100 Nm
+McLaren,Super Series,2011>2014,Gasoline,MP4-12C,625 hp,680 hp,+ 55 hp,600 Nm,720 Nm,+ 120 Nm
+McLaren,Super Series,2014>2018,Gasoline,GT,620 hp,820 hp,+ 200 hp,630 Nm,880 Nm,+ 250 Nm
+McLaren,Super Series,2020>...,Gasoline,765 LT,765 hp, hp,0 hp,800 Nm, Nm,0 Nm
+McLaren,Super Series,2014>2018,Gasoline,625C,625 hp,680 hp,+ 55 hp,600 Nm,720 Nm,+ 120 Nm
+McLaren,Super Series,2014>2018,Gasoline,650S,650 hp,700 hp,+ 50 hp,678 Nm,740 Nm,+ 62 Nm
+McLaren,Super Series,2014>2018,Gasoline,675LT,675 hp,700 hp,+ 25 hp,700 Nm,750 Nm,+ 50 Nm
+McLaren,Super Series,2014>2018,Gasoline,688HS (limited edition),688 hp, hp,0 hp,688 Nm, Nm,0 Nm
+McLaren,Super Series,2014>2018,Gasoline,MSO R (limited edition),688 hp, hp,0 hp,688 Nm, Nm,0 Nm
+McLaren,Super Series,2014>2018,Gasoline,720S,720 hp,820 hp,+ 100 hp,770 Nm,880 Nm,+ 110 Nm

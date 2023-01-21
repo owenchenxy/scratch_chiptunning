@@ -1,0 +1,28 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Lamborghini,Aventador,All,Gasoline,LP-700 (6.5 V12),700 hp,730 hp,+ 30 hp,690 Nm,720 Nm,+ 30 Nm
+Lamborghini,Aventador,All,Gasoline,LP-740-S (6.5 V12),740 hp,760 hp,+ 20 hp,690 Nm,720 Nm,+ 30 Nm
+Lamborghini,Aventador,All,Gasoline,LP-750-SV (6.5 V12),750 hp,760 hp,+ 10 hp,690 Nm,720 Nm,+ 30 Nm
+Lamborghini,Aventador,All,Gasoline,LP-757-SVJ (6.5 V12),770 hp,790 hp,+ 20 hp,690 Nm,720 Nm,+ 30 Nm
+Lamborghini,Aventador,All,Gasoline,LP-800-SVR (6.5 V12),800 hp, hp,0 hp, Nm, Nm,0 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 550-2 BICOLORE,550 hp,585 hp,+ 35 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 570-4 SUPER TROFEO STRADALE,570 hp,595 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 550-2 SPYDER,550 hp,575 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 560-4 SPYDER,560 hp,575 hp,+ 15 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 570-4 SPYDER PERFORMANTE,570 hp,595 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 550-2,550 hp,575 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 570-4 SUPERLEGGERA,570 hp,595 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 560-4,560 hp,585 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,SESTO ELEMENTO,570 hp,595 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 530-4 SUPERLEGGERA,530 hp,555 hp,+ 25 hp,510 Nm,535 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,SUPERLEGGERA,530 hp,555 hp,+ 25 hp,510 Nm,535 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,SPYDER,520 hp,543 hp,+ 23 hp,510 Nm,535 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 520,520 hp,543 hp,+ 23 hp,510 Nm,535 Nm,+ 25 Nm
+Lamborghini,Gallardo,All,Gasoline,COUPE,500 hp,520 hp,+ 20 hp,510 Nm,531 Nm,+ 21 Nm
+Lamborghini,Gallardo,All,Gasoline,LP 550-2 TRICOLORE,550 hp,575 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Lamborghini,Huracan,2014>...,Gasoline,LP 640-4 Performante,640 hp,655 hp,+ 15 hp,600 Nm,630 Nm,+ 30 Nm
+Lamborghini,Huracan,2014>...,Gasoline,LP 610-4,610 hp,630 hp,+ 20 hp,560 Nm,580 Nm,+ 20 Nm
+Lamborghini,Huracan,2014>...,Gasoline,LP 580-2,580 hp,630 hp,+ 50 hp,540 Nm,580 Nm,+ 40 Nm
+Lamborghini,Murcielago,All,Gasoline,LP640 - 6.5 V12,641 hp,665 hp,+ 24 hp,660 Nm,688 Nm,+ 28 Nm
+Lamborghini,Murcielago,All,Gasoline,6.2 V12,579 hp,602 hp,+ 23 hp,650 Nm,679 Nm,+ 29 Nm
+Lamborghini,Sian,2020>...,Gasoline,FKP37 (6.5 V12),785 hp, hp,0 hp,720 Nm, Nm,0 Nm
+Lamborghini,Urus,2018>...,Gasoline,4.0 V8 Bi-Turbo,650 hp,720 hp,+ 70 hp,850 Nm,1000 Nm,+ 150 Nm

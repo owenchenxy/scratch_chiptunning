@@ -1,0 +1,2 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+JAC,X200,All,Diesel,2.8 TD,91 hp,130 hp,+ 39 hp,216 Nm,300 Nm,+ 84 Nm

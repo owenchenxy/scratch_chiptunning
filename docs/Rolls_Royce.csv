@@ -1,0 +1,3 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Rolls Royce,Dawn,All,Gasoline,6.6 V12,571 hp,700 hp,+ 129 hp,780 Nm,950 Nm,+ 170 Nm
+Rolls Royce,Wraith,All,Gasoline,6.6 V12,633 hp,700 hp,+ 67 hp,795 Nm,950 Nm,+ 155 Nm

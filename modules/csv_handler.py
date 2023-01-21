@@ -2,24 +2,36 @@ import pandas as pd
 import os
 
 class CsvWriter(object):
-    def __init__(self, csv_file):
-        self.csv_file = csv_file
-        self.has_header = False
-        self.write_header = True
+    def __init__(self, base_dir):
+        if base_dir[-1] == '/':
+            base_dir = base_dir[:-1]
+        self.base_dir = base_dir
         self.mode = 'w'
+        self.write_header = True
 
     def write_to_csv(self, data_dict):
-        if os.path.exists(self.csv_file):
-            print("Waring: File exists, skip writing {0}".format(self.csv_file))
-            return
-        DataFrame = pd.DataFrame(data_dict)
-        DataFrame.to_csv(self.csv_file, mode=self.mode, index=False, header=self.write_header, sep=",")
-        if not self.has_header:
-            self.has_header = True
+        csv_file = "{0}/{1}.csv".format(self.base_dir, data_dict['brand'][0].replace(' ', '_'))
+        if os.path.exists(csv_file):
             self.write_header = False
             self.mode = 'a'
+        else:
+            self.write_header = True
+            self.mode = 'w'
+        try:
+            DataFrame = pd.DataFrame(data_dict)
+            DataFrame.to_csv(csv_file, mode=self.mode, index=False, header=self.write_header, sep=",")
+        except Exception:
+            print("Data invalid")
+            print(data_dict)
 
     def sort_csv(self):
-        data = pd.read_csv(self.csv_file)
-        data.sort_values(by='model', ascending=True, inplace=True)
-        data.to_csv(self.csv_file, index=False)
+        count = 0
+        for f in os.listdir(self.base_dir):
+            if f[-4:] != ".csv":
+                continue
+            count += 1
+            f = "{0}/{1}".format(self.base_dir, f)
+            data = pd.read_csv(f)
+            data.sort_values(by='model', ascending=True, inplace=True)
+            data.to_csv(f, index=False)
+            print("sorted %s" % f)

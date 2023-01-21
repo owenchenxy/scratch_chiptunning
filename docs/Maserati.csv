@@ -1,0 +1,31 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Maserati,3200 GT,All,Gasoline,3.2 V8,370 hp,400 hp,+ 30 hp,500 Nm,530 Nm,+ 30 Nm
+Maserati,4200 GT / Coupé,2003>2007,Gasoline,4.2 V8,390 hp,422 hp,+ 32 hp,451 Nm,475 Nm,+ 24 Nm
+Maserati,Ghibli,2013>2016,Gasoline,3.0 V6 Bi-Turbo,330 hp,380 hp,+ 50 hp,500 Nm,600 Nm,+ 100 Nm
+Maserati,Ghibli,2017>...,Gasoline,3.0 V6 Bi-Turbo,350 hp,420 hp,+ 70 hp,500 Nm,600 Nm,+ 100 Nm
+Maserati,Ghibli,2017>...,Diesel,3.0 D,275 hp,305 hp,+ 30 hp,600 Nm,660 Nm,+ 60 Nm
+Maserati,Ghibli,2017>...,Gasoline,3.0 V6 S Q4 Bi-Turbo,430 hp,460 hp,+ 30 hp,580 Nm,700 Nm,+ 120 Nm
+Maserati,Ghibli,2013>2016,Gasoline,3.0 V6 S Bi-Turbo,410 hp,460 hp,+ 50 hp,550 Nm,700 Nm,+ 150 Nm
+Maserati,Ghibli,2013>2016,Diesel,3.0 D,275 hp,305 hp,+ 30 hp,600 Nm,660 Nm,+ 60 Nm
+Maserati,Ghibli,2017>...,Gasoline,3.0 V6 S Bi-Turbo,410 hp,460 hp,+ 50 hp,550 Nm,700 Nm,+ 150 Nm
+Maserati,Gransport,2004>2006,Gasoline,V8,400 hp,425 hp,+ 25 hp,451 Nm,475 Nm,+ 24 Nm
+Maserati,Granturismo,2008>...,Gasoline,4.7 V8,460 hp,485 hp,+ 25 hp,520 Nm,550 Nm,+ 30 Nm
+Maserati,Granturismo,2008>...,Gasoline,4.7 V8 MC Stradale,450 hp,485 hp,+ 35 hp,510 Nm,550 Nm,+ 40 Nm
+Maserati,Granturismo,2008>...,Gasoline,4.7 V8,440 hp,484 hp,+ 44 hp,490 Nm,553 Nm,+ 63 Nm
+Maserati,Granturismo,2008>...,Gasoline,4.2 V8,405 hp,432 hp,+ 27 hp,460 Nm,495 Nm,+ 35 Nm
+Maserati,Levante,2016>...,Gasoline,Trofeo / GTS 3.8 Bi-Turbo,590 hp, hp,0 hp,730 Nm, Nm,0 Nm
+Maserati,Levante,2016>...,Diesel,3.0 D,250 hp,305 hp,+ 55 hp,600 Nm,660 Nm,+ 60 Nm
+Maserati,Levante,2016>...,Gasoline,3.0 V6 S Bi-Turbo,430 hp,460 hp,+ 30 hp,580 Nm,700 Nm,+ 120 Nm
+Maserati,Levante,2016>...,Diesel,3.0 D,275 hp,305 hp,+ 30 hp,600 Nm,660 Nm,+ 60 Nm
+Maserati,Levante,2016>...,Gasoline,3.0 V6 Bi-Turbo,350 hp,420 hp,+ 70 hp,500 Nm,600 Nm,+ 100 Nm
+Maserati,Quattroporte,2017>...,Gasoline,3.0 V6 SQ4 Bi-Turbo,410 hp,460 hp,+ 50 hp,550 Nm,700 Nm,+ 150 Nm
+Maserati,Quattroporte,11/2004>2016,Gasoline,4.7 V8,430 hp,447 hp,+ 17 hp,490 Nm,510 Nm,+ 20 Nm
+Maserati,Quattroporte,11/2004>2016,Gasoline,4.2 V8,400 hp,428 hp,+ 28 hp,460 Nm,485 Nm,+ 25 Nm
+Maserati,Quattroporte,11/2004>2016,Gasoline,3.8 V8 Bi-Turbo GTS,530 hp,570 hp,+ 40 hp,710 Nm,800 Nm,+ 90 Nm
+Maserati,Quattroporte,2017>...,Diesel,3.0 D,275 hp,305 hp,+ 30 hp,600 Nm,660 Nm,+ 60 Nm
+Maserati,Quattroporte,11/2004>2016,Gasoline,3.0 V6 S Bi-Turbo,410 hp,460 hp,+ 50 hp,550 Nm,700 Nm,+ 150 Nm
+Maserati,Quattroporte,11/2004>2016,Gasoline,3.0 V6 Bi-Turbo,330 hp,350 hp,+ 20 hp,500 Nm,600 Nm,+ 100 Nm
+Maserati,Quattroporte,2017>...,Gasoline,3.8 V8 GTS Bi-Turbo,530 hp,570 hp,+ 40 hp,710 Nm,800 Nm,+ 90 Nm
+Maserati,Quattroporte,11/2004>2016,Gasoline,4.7 V8,440 hp,460 hp,+ 20 hp,490 Nm,510 Nm,+ 20 Nm
+Maserati,Quattroporte,2017>...,Gasoline,3.0 V6 S Bi-Turbo,430 hp,460 hp,+ 30 hp,550 Nm,700 Nm,+ 150 Nm
+Maserati,Quattroporte,11/2004>2016,Diesel,3.0 D,275 hp,305 hp,+ 30 hp,600 Nm,660 Nm,+ 60 Nm

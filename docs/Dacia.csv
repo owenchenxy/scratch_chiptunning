@@ -1,0 +1,64 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Dacia,Dokker,2010>2017,Diesel,1.5 DCi,75 hp,90 hp,+ 15 hp,160 Nm,200 Nm,+ 40 Nm
+Dacia,Dokker,2010>2017,Diesel,1.5 DCi,90 hp,110 hp,+ 20 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Dokker,2017>...,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Dacia,Dokker,2017>...,Diesel,1.5 DCI,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Dacia,Dokker,2017>...,Diesel,1.5 BlueDCI,75 hp,110 hp,+ 35 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Dokker,2017>...,Diesel,1.5 DCI,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Dokker,2017>...,Gasoline,1.2 TCE (Euro 6),115 hp,140 hp,+ 25 hp,190 Nm,230 Nm,+ 40 Nm
+Dacia,Duster,2018>...,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Dacia,Duster,2018>...,Diesel,1.5 DCI,90 hp,135 hp,+ 45 hp,200 Nm,310 Nm,+ 110 Nm
+Dacia,Duster,2018>...,Gasoline,1.3 TCE,150 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Dacia,Duster,...>2017,Diesel,1.5 dci,110 hp,130 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Dacia,Duster,2018>...,Gasoline,1.3 TCE,130 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Dacia,Duster,...>2017,Diesel,1.5 dci,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Dacia,Duster,2018>...,Diesel,1.5 DCI,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Dacia,Duster,2018>...,Gasoline,1.0 TCE,100 hp, hp,0 hp,160 Nm, Nm,0 Nm
+Dacia,Duster,...>2017,Diesel,1.5 dci,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Dacia,Duster,2018>...,Gasoline,1.2 TCE,125 hp,140 hp,+ 15 hp,205 Nm,230 Nm,+ 25 Nm
+Dacia,Duster,2018>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Dacia,Duster,...>2017,Gasoline,1.2 TCe,125 hp,140 hp,+ 15 hp,205 Nm,230 Nm,+ 25 Nm
+Dacia,Duster,...>2017,Diesel,1.5 dci,85 hp,105 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Dacia,Lodgy,2012>2017,Gasoline,1.2 TCe (Euro 5),115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Dacia,Lodgy,2012>2017,Gasoline,1.2 TCe (Euro 6),115 hp,140 hp,+ 25 hp,190 Nm,230 Nm,+ 40 Nm
+Dacia,Lodgy,2017>2018,Gasoline,1.2 TCE (Euro 6),115 hp,140 hp,+ 25 hp,190 Nm,230 Nm,+ 40 Nm
+Dacia,Lodgy,2018>...,Gasoline,1.3 TCE,100 hp, hp,0 hp, Nm, Nm,0 Nm
+Dacia,Lodgy,2017>2018,Diesel,1.5 DCI,90 hp,135 hp,+ 45 hp,220 Nm,310 Nm,+ 90 Nm
+Dacia,Lodgy,2017>2018,Diesel,1.5 DCI,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Dacia,Lodgy,2018>...,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Dacia,Lodgy,2012>2017,Diesel,1.5 Dci,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Dacia,Lodgy,2018>...,Gasoline,1.3 TCE,130 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Dacia,Lodgy,2018>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Dacia,Lodgy,2012>2017,Diesel,1.5 Dci,110 hp,130 hp,+ 20 hp,240 Nm,300 Nm,+ 60 Nm
+Dacia,Logan,2004>2012,Diesel,1.5 dci,75 hp,95 hp,+ 20 hp,180 Nm,220 Nm,+ 40 Nm
+Dacia,Logan,2016>...,Gasoline,0.9 TCE,90 hp,100 hp,+ 10 hp,135 Nm,155 Nm,+ 20 Nm
+Dacia,Logan,2004>2012,Diesel,1.5 dci,90 hp,110 hp,+ 20 hp,200 Nm,240 Nm,+ 40 Nm
+Dacia,Logan,2004>2012,Diesel,1.5 dci,88 hp,110 hp,+ 22 hp,200 Nm,240 Nm,+ 40 Nm
+Dacia,Logan,2016>...,Diesel,1.5 DCi,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Logan,2013>2016,Gasoline,1.2 16v,75 hp,82 hp,+ 7 hp,107 Nm,117 Nm,+ 10 Nm
+Dacia,Logan,2004>2012,Diesel,1.5 dci,85 hp,105 hp,+ 20 hp,200 Nm,240 Nm,+ 40 Nm
+Dacia,Logan,2013>2016,Diesel,1.5 DCI,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Dacia,Logan,2013>2016,Gasoline,0.9 TCE,90 hp,100 hp,+ 10 hp,135 Nm,155 Nm,+ 20 Nm
+Dacia,Logan,2016>...,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Dacia,Logan,2016>...,Diesel,1.5 DCi,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Dacia,Logan,2016>...,Diesel,1.5 BlueDCI,75 hp,110 hp,+ 35 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Logan,2004>2012,Diesel,1.5 dci,68 hp,90 hp,+ 22 hp,160 Nm,200 Nm,+ 40 Nm
+Dacia,Logan,2013>2016,Diesel,1.5 DCI,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Logan,2004>2012,Diesel,1.5 dci,70 hp,90 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Dacia,Sandero,2016>2020,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Dacia,Sandero,2013>2016,Gasoline,0.9 TCE,90 hp,100 hp,+ 10 hp,135 Nm,155 Nm,+ 20 Nm
+Dacia,Sandero,2016>2020,Diesel,1.5 DCi,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Dacia,Sandero,2013>2016,Diesel,1.5 DCI,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Dacia,Sandero,2007>2012,Diesel,1.5 dci,85 hp,105 hp,+ 20 hp,200 Nm,240 Nm,+ 40 Nm
+Dacia,Sandero,2016>2020,Diesel,1.5 BlueDCI,75 hp,110 hp,+ 35 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Sandero,2020>...,Diesel,1.5 BlueDCI,85 hp,140 hp,+ 55 hp,220 Nm,320 Nm,+ 100 Nm
+Dacia,Sandero,2016>2020,Diesel,1.5 DCi,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Sandero,2007>2012,Diesel,1.5 dci,75 hp,95 hp,+ 20 hp,180 Nm,220 Nm,+ 40 Nm
+Dacia,Sandero,2013>2016,Gasoline,2.0i RS,145 hp,155 hp,+ 10 hp,195 Nm,203 Nm,+ 8 Nm
+Dacia,Sandero,2016>2020,Gasoline,2.0i RS,145 hp,155 hp,+ 10 hp,195 Nm,203 Nm,+ 8 Nm
+Dacia,Sandero,2016>2020,Gasoline,0.9 TCE,90 hp,120 hp,+ 30 hp,140 Nm,200 Nm,+ 60 Nm
+Dacia,Sandero,2007>2012,Diesel,1.5 dci,70 hp,90 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Dacia,Sandero,2013>2016,Gasoline,1.2 16v,75 hp,82 hp,+ 7 hp,107 Nm,117 Nm,+ 10 Nm
+Dacia,Sandero,2020>...,Gasoline,1.0 TCE,100 hp, hp,0 hp,160 Nm, Nm,0 Nm
+Dacia,Sandero,2013>2016,Diesel,1.5 DCI,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Dacia,Sandero,2007>2012,Diesel,1.5 dci,90 hp,110 hp,+ 20 hp,200 Nm,240 Nm,+ 40 Nm

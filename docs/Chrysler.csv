@@ -1,0 +1,14 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Chrysler,300C,10/2005>2011,Diesel,3.0 CRD,211 hp,265 hp,+ 54 hp,510 Nm,600 Nm,+ 90 Nm
+Chrysler,300C,10/2005>2011,Diesel,3.0 CRD,218 hp,265 hp,+ 47 hp,510 Nm,600 Nm,+ 90 Nm
+Chrysler,Crossfire,2003>2009,Gasoline,3.2 V6,218 hp,233 hp,+ 15 hp,310 Nm,330 Nm,+ 20 Nm
+Chrysler,Crossfire,2003>2009,Gasoline,3.2 SRT6,335 hp,362 hp,+ 27 hp,420 Nm,460 Nm,+ 40 Nm
+Chrysler,Grand voyager,2004>2011,Diesel,2.8 CRDi,150 hp,180 hp,+ 30 hp,360 Nm,420 Nm,+ 60 Nm
+Chrysler,Grand voyager,2004>2011,Diesel,2.8 CRDi,163 hp,200 hp,+ 37 hp,360 Nm,420 Nm,+ 60 Nm
+Chrysler,PT Cruiser,2002>2011,Diesel,2.2 CRD,121 hp,155 hp,+ 34 hp,300 Nm,360 Nm,+ 60 Nm
+Chrysler,PT Cruiser,2002>2011,Diesel,2.2 CRD,150 hp,180 hp,+ 30 hp,300 Nm,380 Nm,+ 80 Nm
+Chrysler,Sebring,2007>2011,Diesel,2.0crd,136 hp,175 hp,+ 39 hp,315 Nm,400 Nm,+ 85 Nm
+Chrysler,Voyager,2001>2009,Diesel,2.5 CRDI,141 hp,165 hp,+ 24 hp,312 Nm,390 Nm,+ 78 Nm
+Chrysler,Voyager,2001>2009,Diesel,2.5 CRDI,143 hp,176 hp,+ 33 hp,339 Nm,434 Nm,+ 95 Nm
+Chrysler,Voyager,2001>2009,Diesel,2.8 CRDI,150 hp,183 hp,+ 33 hp,360 Nm,440 Nm,+ 80 Nm
+Chrysler,Voyager,2001>2009,Diesel,2.8 CRDI,163 hp,200 hp,+ 37 hp,360 Nm,430 Nm,+ 70 Nm

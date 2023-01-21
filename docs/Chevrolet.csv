@@ -1,0 +1,43 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Chevrolet,Aveo,2011>2015,Gasoline,1.2 16V,86 hp,95 hp,+ 9 hp,115 Nm,130 Nm,+ 15 Nm
+Chevrolet,Aveo,2011>2015,Diesel,1.3 VCDi,95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Chevrolet,Aveo,2011>2015,Gasoline,1.4T RS,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Chevrolet,Aveo,2011>2015,Diesel,1.3 VCDi,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Chevrolet,Camaro,2010>2016,Gasoline,6.2 V8,432 hp,450 hp,+ 18 hp,570 Nm,600 Nm,+ 30 Nm
+Chevrolet,Camaro,2010>2016,Gasoline,6.2 V8,426 hp,445 hp,+ 19 hp,570 Nm,600 Nm,+ 30 Nm
+Chevrolet,Camaro,2010>2016,Gasoline,6.2 V8,405 hp,425 hp,+ 20 hp,556 Nm,580 Nm,+ 24 Nm
+Chevrolet,Camaro,2010>2016,Gasoline,3.6 V6,323 hp,335 hp,+ 12 hp,375 Nm,400 Nm,+ 25 Nm
+Chevrolet,Camaro,2016>2019,Gasoline,6.2 V8,455 hp,475 hp,+ 20 hp,617 Nm,647 Nm,+ 30 Nm
+Chevrolet,Camaro,2016>2019,Gasoline,6.2 V8 Supercharged,650 hp,670 hp,+ 20 hp,881 Nm,950 Nm,+ 69 Nm
+Chevrolet,Camaro,2016>2019,Gasoline,2.0 T,272 hp,300 hp,+ 28 hp,390 Nm,450 Nm,+ 60 Nm
+Chevrolet,Camaro,2016>2019,Gasoline,3.6 V6,335 hp,350 hp,+ 15 hp,385 Nm,410 Nm,+ 25 Nm
+Chevrolet,Camaro,2010>2016,Gasoline,3.6 V6,305 hp,335 hp,+ 30 hp,375 Nm,400 Nm,+ 25 Nm
+Chevrolet,Captiva,2012>2014,Diesel,2.2 VCDi,184 hp,200 hp,+ 16 hp,400 Nm,430 Nm,+ 30 Nm
+Chevrolet,Captiva,2006>2011,Diesel,2.0 VCDi,127 hp,185 hp,+ 58 hp,295 Nm,400 Nm,+ 105 Nm
+Chevrolet,Captiva,2012>2014,Diesel,2.2 VCDi,163 hp,200 hp,+ 37 hp,350 Nm,430 Nm,+ 80 Nm
+Chevrolet,Captiva,2006>2011,Diesel,2.0 VCDi,150 hp,185 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Chevrolet,Corvette C8,2020>...,Gasoline,6.2 V8,490 hp, hp,0 hp,637 Nm, Nm,0 Nm
+Chevrolet,Corvette Z06,All,Gasoline,7.0 V8,512 hp,542 hp,+ 30 hp,637 Nm,667 Nm,+ 30 Nm
+Chevrolet,Corvette ZR1,2009>...,Gasoline,6.2 V8 Compressor,647 hp,677 hp,+ 30 hp,819 Nm,840 Nm,+ 21 Nm
+Chevrolet,Cruze,2009>2015,Diesel,2.0 VCDi,125 hp,185 hp,+ 60 hp,295 Nm,400 Nm,+ 105 Nm
+Chevrolet,Cruze,2009>2015,Diesel,2.0 VCDI,163 hp,200 hp,+ 37 hp,360 Nm,440 Nm,+ 80 Nm
+Chevrolet,Cruze,2009>2015,Diesel,1.7 VCDi,130 hp,165 hp,+ 35 hp,300 Nm,350 Nm,+ 50 Nm
+Chevrolet,Cruze,2009>2015,Gasoline,1.8 16v Ecotec,141 hp,154 hp,+ 13 hp,176 Nm,186 Nm,+ 10 Nm
+Chevrolet,Cruze,2009>2015,Gasoline,1.6T,180 hp,210 hp,+ 30 hp,235 Nm,300 Nm,+ 65 Nm
+Chevrolet,Cruze,2009>2015,Diesel,2.0 VCDi,150 hp,185 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Chevrolet,Cruze,2009>2015,Diesel,1.7 VCDi,110 hp,165 hp,+ 55 hp,280 Nm,350 Nm,+ 70 Nm
+Chevrolet,Epica,2008>2011,Diesel,2.0 VCDi,150 hp,185 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Chevrolet,Lacetti,2007>2011,Diesel,2.0 VCDi,121 hp,155 hp,+ 34 hp,280 Nm,330 Nm,+ 50 Nm
+Chevrolet,Lumina,2012>...,Gasoline,6.0 V8,367 hp,390 hp,+ 23 hp,530 Nm,550 Nm,+ 20 Nm
+Chevrolet,Malibu,2012>2014,Diesel,2.0 VCDi,163 hp,200 hp,+ 37 hp,360 Nm,440 Nm,+ 80 Nm
+Chevrolet,Malibu,2012>2014,Gasoline,2.0T,250 hp,295 hp,+ 45 hp,350 Nm,430 Nm,+ 80 Nm
+Chevrolet,Malibu,2012>2014,Gasoline,1.6T,180 hp,210 hp,+ 30 hp,235 Nm,300 Nm,+ 65 Nm
+Chevrolet,Nubira,2007>2010,Diesel,2.0 VCDi,121 hp,155 hp,+ 34 hp,280 Nm,330 Nm,+ 50 Nm
+Chevrolet,Orlando,2010>2015,Gasoline,1.4T,140 hp,170 hp,+ 30 hp,200 Nm,260 Nm,+ 60 Nm
+Chevrolet,Orlando,2010>2015,Diesel,2.0 VCDI,130 hp,160 hp,+ 30 hp,315 Nm,380 Nm,+ 65 Nm
+Chevrolet,Orlando,2010>2015,Gasoline,1.8 16V Ecotec,141 hp,154 hp,+ 13 hp,176 Nm,186 Nm,+ 10 Nm
+Chevrolet,Orlando,2010>2015,Diesel,2.0 VCDi,163 hp,200 hp,+ 37 hp,360 Nm,440 Nm,+ 80 Nm
+Chevrolet,Spark,2011>...,Gasoline,1.2 16v,81 hp,90 hp,+ 9 hp,111 Nm,120 Nm,+ 9 Nm
+Chevrolet,Trax,2012>2015,Gasoline,1.4T,140 hp,170 hp,+ 30 hp,200 Nm,260 Nm,+ 60 Nm
+Chevrolet,Trax,2012>2015,Diesel,1.7 VCDi,110 hp,165 hp,+ 55 hp,260 Nm,350 Nm,+ 90 Nm
+Chevrolet,Trax,2012>2015,Diesel,1.7 VCDi,130 hp,165 hp,+ 35 hp,300 Nm,350 Nm,+ 50 Nm

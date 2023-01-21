@@ -1,0 +1,368 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Renault,Alaskan,2016>2019,Diesel,2.3 DCi Bi-turbo,160 hp,190 hp,+ 30 hp,403 Nm,460 Nm,+ 57 Nm
+Renault,Alaskan,2016>2019,Diesel,2.3 DCi Bi-turbo,190 hp,210 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Renault,Alaskan,2019>...,Diesel,2.3 BlueDCI,160 hp,190 hp,+ 30 hp,403 Nm,460 Nm,+ 57 Nm
+Renault,Alaskan,2019>...,Diesel,2.3 BlueDCI,190 hp,210 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Renault,Arkana,2021>...,Gasoline,1.3 TCE,155 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Renault,Avantime,2001>2003,Diesel,2.2 DCi,150 hp,180 hp,+ 30 hp,320 Nm,375 Nm,+ 55 Nm
+Renault,Captur / QM3,2019>...,Gasoline,1.3 TCE,155 hp, hp,0 hp, Nm, Nm,0 Nm
+Renault,Captur / QM3,06/2017>2019,Gasoline,0.9 TCE,90 hp,110 hp,+ 20 hp,135 Nm,160 Nm,+ 25 Nm
+Renault,Captur / QM3,2013>2017,Diesel,1.5 DCI,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Renault,Captur / QM3,06/2017>2019,Gasoline,1.2 TCE,120 hp,135 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Captur / QM3,2019>...,Gasoline,1.3 TCE,130 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Renault,Captur / QM3,2019>...,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Renault,Captur / QM3,06/2017>2019,Gasoline,1.3 TCE,130 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Renault,Captur / QM3,2019>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Captur / QM3,06/2017>2019,Gasoline,1.3 TCE (EDC),150 hp, hp,0 hp,270 Nm, Nm,0 Nm
+Renault,Captur / QM3,06/2017>2019,Diesel,1.5 DCI,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Renault,Captur / QM3,2013>2017,Diesel,1.5 DCi,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Renault,Captur / QM3,2013>2017,Gasoline,0.9 TCE,90 hp,110 hp,+ 20 hp,135 Nm,160 Nm,+ 25 Nm
+Renault,Captur / QM3,2013>2017,Gasoline,1.2 TCE,120 hp,135 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Captur / QM3,2019>...,Gasoline,1.0 TCE,100 hp, hp,0 hp, Nm, Nm,0 Nm
+Renault,Captur / QM3,06/2017>2019,Diesel,1.5 DCI,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Renault,Clio,2001>2005,Gasoline,V6 3.0 Ph2,255 hp,270 hp,+ 15 hp,300 Nm,320 Nm,+ 20 Nm
+Renault,Clio,2016>2019,Gasoline,1.2 16v,75 hp,82 hp,+ 7 hp,107 Nm,117 Nm,+ 10 Nm
+Renault,Clio,10/2012>2016,Diesel,1.5 DCi,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Renault,Clio,2001>2005,Diesel,1.5 DCi,82 hp,105 hp,+ 23 hp,185 Nm,235 Nm,+ 50 Nm
+Renault,Clio,2001>2005,Diesel,1.5 DCi,100 hp,130 hp,+ 30 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Clio,2016>2019,Gasoline,Trophy RS18 Final Edition 1.6T,220 hp,245 hp,+ 25 hp,280 Nm,320 Nm,+ 40 Nm
+Renault,Clio,10/2012>2016,Diesel,1.5 DCi,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Renault,Clio,2001>2005,Diesel,1.5 DCi,65 hp,85 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Clio,10/2012>2016,Gasoline,GT 1.2 TCE,120 hp,135 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Clio,09/2005>10/2012,Gasoline,RS 2.0 16v,203 hp,215 hp,+ 12 hp,215 Nm,230 Nm,+ 15 Nm
+Renault,Clio,03/2019>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Clio,2016>2019,Gasoline,1.2 TCE,120 hp,135 hp,+ 15 hp,205 Nm,230 Nm,+ 25 Nm
+Renault,Clio,2001>2005,Diesel,1.9 DTi,80 hp,105 hp,+ 25 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Clio,10/2012>2016,Gasoline,RS Trophy 1.6T,220 hp,245 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Clio,09/2005>10/2012,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Clio,10/2012>2016,Gasoline,RS 1.6T (Euro 5),200 hp,230 hp,+ 30 hp,240 Nm,320 Nm,+ 80 Nm
+Renault,Clio,2001>2005,Gasoline,V6 3.0 Ph1,230 hp,245 hp,+ 15 hp,306 Nm,325 Nm,+ 19 Nm
+Renault,Clio,2016>2019,Gasoline,RS 1.6T,200 hp,230 hp,+ 30 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Clio,09/2005>10/2012,Gasoline,1.6 16V GT,128 hp,141 hp,+ 13 hp,155 Nm,170 Nm,+ 15 Nm
+Renault,Clio,2001>2005,Diesel,1.5 DCi,70 hp,90 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Clio,2016>2019,Diesel,1.5 DCi,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Renault,Clio,09/2005>10/2012,Gasoline,RS 2.0 16v,197 hp,211 hp,+ 14 hp,215 Nm,230 Nm,+ 15 Nm
+Renault,Clio,10/2012>2016,Gasoline,RS 1.6T (Euro 6),200 hp,230 hp,+ 30 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Clio,2016>2019,Gasoline,RS Trophy 1.6T,220 hp,245 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Clio,09/2005>10/2012,Diesel,1.5 DCi,106 hp,130 hp,+ 24 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Clio,09/2005>10/2012,Gasoline,1.4 16v,98 hp,106 hp,+ 8 hp,127 Nm,137 Nm,+ 10 Nm
+Renault,Clio,09/2005>10/2012,Diesel,1.5 DCi,90 hp,110 hp,+ 20 hp,200 Nm,245 Nm,+ 45 Nm
+Renault,Clio,09/2005>10/2012,Gasoline,RS 2.0 16v,201 hp,215 hp,+ 14 hp,215 Nm,230 Nm,+ 15 Nm
+Renault,Clio,2001>2005,Gasoline,RS 2.0 16v,182 hp,190 hp,+ 8 hp,200 Nm,215 Nm,+ 15 Nm
+Renault,Clio,09/2005>10/2012,Diesel,1.5 DCi,86 hp,106 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Clio,2001>2005,Diesel,1.5 DCi,85 hp,105 hp,+ 20 hp,200 Nm,235 Nm,+ 35 Nm
+Renault,Clio,2016>2019,Diesel,1.5 DCi,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Renault,Clio,10/2012>2016,Gasoline,1.2 16v,75 hp,82 hp,+ 7 hp,107 Nm,117 Nm,+ 10 Nm
+Renault,Clio,09/2005>10/2012,Diesel,1.5 DCi,75 hp,110 hp,+ 35 hp,180 Nm,245 Nm,+ 65 Nm
+Renault,Clio,10/2012>2016,Gasoline,0.9 TCE,90 hp,110 hp,+ 20 hp,135 Nm,160 Nm,+ 25 Nm
+Renault,Clio,2016>2019,Gasoline,0.9 TCE,90 hp,120 hp,+ 30 hp,140 Nm,200 Nm,+ 60 Nm
+Renault,Clio,03/2019>...,Gasoline,1.0 TCE,100 hp, hp,0 hp,160 Nm, Nm,0 Nm
+Renault,Clio,03/2019>...,Gasoline,1.3 TCE (GPF),130 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Renault,Clio,09/2005>10/2012,Diesel,1.5 DCi,70 hp,90 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Clio,2016>2019,Diesel,1.5 DCi,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Renault,Clio,09/2005>10/2012,Gasoline,1.2 TCE,100 hp,125 hp,+ 25 hp,155 Nm,200 Nm,+ 45 Nm
+Renault,Clio,09/2005>10/2012,Diesel,1.5 DCi,88 hp,106 hp,+ 18 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Clio,03/2019>...,Diesel,1.5 BlueDCI,85 hp,140 hp,+ 55 hp,220 Nm,320 Nm,+ 100 Nm
+Renault,Clio,2001>2005,Gasoline,RS 2.0 16v,172 hp,185 hp,+ 13 hp,204 Nm,218 Nm,+ 14 Nm
+Renault,Clio,2016>2019,Gasoline,0.9 TCE,75 hp,120 hp,+ 45 hp,120 Nm,200 Nm,+ 80 Nm
+Renault,Espace,2014>...,Gasoline,1.6 TCE EDC,200 hp,225 hp,+ 25 hp,260 Nm,350 Nm,+ 90 Nm
+Renault,Espace,2005>2014,Diesel,1.9 DCi,115 hp,155 hp,+ 40 hp,270 Nm,340 Nm,+ 70 Nm
+Renault,Espace,2005>2014,Gasoline,2.0 Turbo,170 hp,200 hp,+ 30 hp,250 Nm,305 Nm,+ 55 Nm
+Renault,Espace,2005>2014,Diesel,1.9 DCi,120 hp,155 hp,+ 35 hp,270 Nm,340 Nm,+ 70 Nm
+Renault,Espace,2005>2014,Diesel,3.0 DCi,177 hp,210 hp,+ 33 hp,350 Nm,440 Nm,+ 90 Nm
+Renault,Espace,2014>...,Gasoline,1.8 TCE,225 hp,250 hp,+ 25 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Espace,2005>2014,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Espace,2014>...,Diesel,1.6 DCi Bi-Turbo,160 hp,180 hp,+ 20 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Espace,2014>...,Diesel,1.6 DCi,130 hp,160 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Espace,2005>2014,Diesel,2.0 DCi,173 hp,205 hp,+ 32 hp,360 Nm,430 Nm,+ 70 Nm
+Renault,Espace,2005>2014,Diesel,2.2 DCi,150 hp,180 hp,+ 30 hp,320 Nm,375 Nm,+ 55 Nm
+Renault,Espace,2005>2014,Diesel,2.0 DCi,130 hp,180 hp,+ 50 hp,320 Nm,400 Nm,+ 80 Nm
+Renault,Espace,2005>2014,Diesel,3.0 DCi,180 hp,220 hp,+ 40 hp,400 Nm,450 Nm,+ 50 Nm
+Renault,Espace,2014>...,Diesel,2.0 BlueDCI,160 hp,190 hp,+ 30 hp,360 Nm,400 Nm,+ 40 Nm
+Renault,Espace,2014>...,Diesel,2.0 BlueDCI,200 hp,225 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Renault,Fluence,2009>2014,Diesel,1.5DCi,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Fluence,2009>2014,Diesel,1.5DCi,110 hp,135 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Kadjar,2019>...,Diesel,1.7 BlueDCI,120 hp,170 hp,+ 50 hp,300 Nm,380 Nm,+ 80 Nm
+Renault,Kadjar,06/2015>2018,Gasoline,1.2 TCE,130 hp,140 hp,+ 10 hp,205 Nm,230 Nm,+ 25 Nm
+Renault,Kadjar,06/2015>2018,Diesel,1.6 DCi Bi Turbo,160 hp,180 hp,+ 20 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Kadjar,06/2015>2018,Diesel,1.5 DCi,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Renault,Kadjar,2019>...,Gasoline,1.3 TCE,140 hp, hp,0 hp, Nm, Nm,0 Nm
+Renault,Kadjar,06/2015>2018,Diesel,1.6 DCI,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Renault,Kadjar,06/2015>2018,Gasoline,1.6 TCE,163 hp,205 hp,+ 42 hp,240 Nm,320 Nm,+ 80 Nm
+Renault,Kadjar,2019>...,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Renault,Kadjar,2019>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Kadjar,2019>...,Gasoline,1.3 TCE,160 hp, hp,0 hp, Nm, Nm,0 Nm
+Renault,Kangoo,2014>2020,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Kangoo,...>2013,Diesel,1.9 DCi,80 hp,110 hp,+ 30 hp,180 Nm,235 Nm,+ 55 Nm
+Renault,Kangoo,...>2013,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Kangoo,2014>2020,Diesel,1.5 Dci,110 hp,130 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Renault,Kangoo,2014>2020,Diesel,1.5 BlueDCI,80 hp,140 hp,+ 60 hp,210 Nm,310 Nm,+ 100 Nm
+Renault,Kangoo,...>2013,Diesel,1.5 DCi,85 hp,105 hp,+ 20 hp,185 Nm,240 Nm,+ 55 Nm
+Renault,Kangoo,...>2013,Diesel,1.5 DCi,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Kangoo,...>2013,Diesel,1.5 DCi,75 hp,110 hp,+ 35 hp,180 Nm,245 Nm,+ 65 Nm
+Renault,Kangoo,2014>2020,Diesel,1.5 Dci,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Renault,Kangoo,...>2013,Diesel,1.5 DCi,90 hp,110 hp,+ 20 hp,200 Nm,245 Nm,+ 45 Nm
+Renault,Kangoo,...>2013,Diesel,1.5 DCi,70 hp,90 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Kangoo,2014>2020,Diesel,1.5 Dci,75 hp,115 hp,+ 40 hp,200 Nm,260 Nm,+ 60 Nm
+Renault,Kangoo,2014>2020,Gasoline,1.2 TCe,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Kangoo,...>2013,Diesel,1.5 DCi,65 hp,85 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Kangoo,2014>2020,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Renault,Koleos,2008>2017,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Koleos,06/2017>2019,Diesel,1.6 DCI,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Renault,Koleos,2019>...,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Renault,Koleos,06/2017>2019,Gasoline,1.6 TCE,163 hp,205 hp,+ 42 hp,240 Nm,320 Nm,+ 80 Nm
+Renault,Koleos,06/2017>2019,Diesel,1.6 DCI,165 hp, hp,0 hp,NONE,NONE,NONE
+Renault,Koleos,2019>...,Diesel,2.0 BlueDCI,190 hp,225 hp,+ 35 hp,380 Nm,450 Nm,+ 70 Nm
+Renault,Koleos,2008>2017,Diesel,2.0 DCi,175 hp,205 hp,+ 30 hp,360 Nm,430 Nm,+ 70 Nm
+Renault,Koleos,06/2017>2019,Diesel,2.0 DCI,175 hp,205 hp,+ 30 hp,380 Nm,440 Nm,+ 60 Nm
+Renault,Laguna,2001>2007,Diesel,1.9 DCi,125 hp,160 hp,+ 35 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Laguna,2007>2015,Diesel,3.0 DCi,235 hp,280 hp,+ 45 hp,450 Nm,520 Nm,+ 70 Nm
+Renault,Laguna,2001>2007,Diesel,1.9 DCi,110 hp,140 hp,+ 30 hp,250 Nm,320 Nm,+ 70 Nm
+Renault,Laguna,2001>2007,Diesel,2.2 DCi,130 hp,162 hp,+ 32 hp,290 Nm,380 Nm,+ 90 Nm
+Renault,Laguna,2001>2007,Diesel,1.9 DCi,120 hp,150 hp,+ 30 hp,270 Nm,325 Nm,+ 55 Nm
+Renault,Laguna,2007>2015,Diesel,2.0 DCi GT,180 hp,210 hp,+ 30 hp,400 Nm,440 Nm,+ 40 Nm
+Renault,Laguna,2001>2007,Diesel,1.9 DCi,115 hp,155 hp,+ 40 hp,270 Nm,345 Nm,+ 75 Nm
+Renault,Laguna,2001>2007,Diesel,2.0 DCi,175 hp,210 hp,+ 35 hp,380 Nm,440 Nm,+ 60 Nm
+Renault,Laguna,2001>2007,Diesel,2.2 DCi,150 hp,180 hp,+ 30 hp,320 Nm,370 Nm,+ 50 Nm
+Renault,Laguna,2001>2007,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Laguna,2001>2007,Diesel,1.9 DCi,130 hp,160 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Laguna,2007>2015,Diesel,2.0 DCi,175 hp,205 hp,+ 30 hp,380 Nm,440 Nm,+ 60 Nm
+Renault,Laguna,2007>2015,Diesel,2.0 DCi (2011 -> ...),150 hp,205 hp,+ 55 hp,340 Nm,440 Nm,+ 100 Nm
+Renault,Laguna,2007>2015,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Laguna,2007>2015,Diesel,2.0 DCi (2011 -> ...),130 hp,205 hp,+ 75 hp,320 Nm,440 Nm,+ 120 Nm
+Renault,Laguna,2007>2015,Diesel,2.0 DCi,130 hp,180 hp,+ 50 hp,320 Nm,400 Nm,+ 80 Nm
+Renault,Laguna,2007>2015,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Laguna,2001>2007,Diesel,1.9 DCi,95 hp,130 hp,+ 35 hp,200 Nm,266 Nm,+ 66 Nm
+Renault,Laguna,2007>2015,Gasoline,2.0 T,170 hp,200 hp,+ 30 hp,270 Nm,320 Nm,+ 50 Nm
+Renault,Laguna,2001>2007,Gasoline,2.0 T,205 hp,235 hp,+ 30 hp,300 Nm,375 Nm,+ 75 Nm
+Renault,Laguna,2007>2015,Gasoline,1.4 TCE,130 hp,160 hp,+ 30 hp,190 Nm,240 Nm,+ 50 Nm
+Renault,Laguna,2007>2015,Gasoline,2.0 T,205 hp,235 hp,+ 30 hp,300 Nm,375 Nm,+ 75 Nm
+Renault,Laguna coupe,All,Gasoline,2.0 T,170 hp,200 hp,+ 30 hp,270 Nm,320 Nm,+ 50 Nm
+Renault,Laguna coupe,All,Diesel,2.0 DCi,175 hp,210 hp,+ 35 hp,400 Nm,440 Nm,+ 40 Nm
+Renault,Laguna coupe,All,Gasoline,2.0 T,204 hp,235 hp,+ 31 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Laguna coupe,All,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Renault,Laguna coupe,All,Diesel,2.0 DCi,130 hp,180 hp,+ 50 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Laguna coupe,All,Diesel,2.0 DCi,180 hp,210 hp,+ 30 hp,400 Nm,440 Nm,+ 40 Nm
+Renault,Laguna coupe,All,Diesel,2.0 DCi (2011 -> ...),150 hp,205 hp,+ 55 hp,340 Nm,440 Nm,+ 100 Nm
+Renault,Laguna coupe,All,Diesel,3.0 DCI,240 hp,280 hp,+ 40 hp,450 Nm,520 Nm,+ 70 Nm
+Renault,Laguna coupe,All,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Laguna coupe,All,Diesel,3.0 DCi,235 hp,280 hp,+ 45 hp,450 Nm,520 Nm,+ 70 Nm
+Renault,Laguna coupe,All,Diesel,2.0 DCi (2011 -> ...),130 hp,205 hp,+ 75 hp,320 Nm,440 Nm,+ 120 Nm
+Renault,Latitude,2011>...,Diesel,3.0 DCi,235 hp,280 hp,+ 45 hp,450 Nm,520 Nm,+ 70 Nm
+Renault,Latitude,2011>...,Diesel,3.0 DCi,240 hp,280 hp,+ 40 hp,450 Nm,520 Nm,+ 70 Nm
+Renault,Latitude,2011>...,Gasoline,2.0 T,170 hp,200 hp,+ 30 hp,270 Nm,320 Nm,+ 50 Nm
+Renault,Latitude,2011>...,Diesel,2.0 DCi,175 hp,210 hp,+ 35 hp,380 Nm,440 Nm,+ 60 Nm
+Renault,Latitude,2011>...,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Mascott,All,Diesel,2.8 DCi,125 hp,155 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Mascott,All,Diesel,2.8 DCi,106 hp,136 hp,+ 30 hp,250 Nm,310 Nm,+ 60 Nm
+Renault,Mascott,All,Diesel,2.8 DCi,145 hp,175 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Mascott,All,Diesel,3.0 DXi,156 hp,190 hp,+ 34 hp,350 Nm,420 Nm,+ 70 Nm
+Renault,Mascott,All,Diesel,2.5 DCi,120 hp,150 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Mascott,All,Diesel,3.0 DXi,115 hp,145 hp,+ 30 hp,270 Nm,330 Nm,+ 60 Nm
+Renault,Master,2014>2016,Diesel,2.3 DCi,125 hp,155 hp,+ 30 hp,310 Nm,370 Nm,+ 60 Nm
+Renault,Master,2010>2014,Diesel,2.3 DCi,125 hp,155 hp,+ 30 hp,310 Nm,370 Nm,+ 60 Nm
+Renault,Master,03/2016>2019,Diesel,2.3 DCi (Euro 6),110 hp,180 hp,+ 70 hp,285 Nm,420 Nm,+ 135 Nm
+Renault,Master,2014>2016,Diesel,2.3 DCi Bi Turbo,166 hp,195 hp,+ 29 hp,360 Nm,420 Nm,+ 60 Nm
+Renault,Master,09/2019>...,Diesel,2.3 BlueDCi Bi-Turbo,180 hp,0 hp,0 hp,400 Nm,0 Nm,0 Nm
+Renault,Master,2010>2014,Diesel,2.3 DCi,145 hp,180 hp,+ 35 hp,350 Nm,410 Nm,+ 60 Nm
+Renault,Master,09/2019>...,Diesel,2.3 BlueDCI,145 hp,210 hp,+ 65 hp,360 Nm,440 Nm,+ 80 Nm
+Renault,Master,1997>2010,Diesel,2.2 DCi,114 hp,145 hp,+ 31 hp,290 Nm,355 Nm,+ 65 Nm
+Renault,Master,09/2019>...,Diesel,2.3 BlueDCI,150 hp, hp,0 hp,385 Nm, Nm,0 Nm
+Renault,Master,2014>2016,Diesel,2.3 DCi Bi Turbo,135 hp,195 hp,+ 60 hp,340 Nm,420 Nm,+ 80 Nm
+Renault,Master,09/2019>...,Diesel,2.3 BlueDCI,130 hp,180 hp,+ 50 hp,330 Nm,420 Nm,+ 90 Nm
+Renault,Master,09/2019>...,Diesel,2.3 BlueDCI,165 hp,210 hp,+ 45 hp,380 Nm,440 Nm,+ 60 Nm
+Renault,Master,1997>2010,Diesel,3.0 DCi,156 hp,190 hp,+ 34 hp,350 Nm,420 Nm,+ 70 Nm
+Renault,Master,1997>2010,Diesel,3.0 DCi,136 hp,165 hp,+ 29 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Master,03/2016>2019,Diesel,2.3 DCi Bi-Turbo (Euro 6),145 hp,210 hp,+ 65 hp,360 Nm,440 Nm,+ 80 Nm
+Renault,Master,03/2016>2019,Diesel,2.3 DCi (Euro 6),130 hp,180 hp,+ 50 hp,340 Nm,420 Nm,+ 80 Nm
+Renault,Master,2010>2014,Diesel,2.3 DCi,150 hp,180 hp,+ 30 hp,350 Nm,410 Nm,+ 60 Nm
+Renault,Master,1997>2010,Diesel,1.9 DCi,82 hp,105 hp,+ 23 hp,200 Nm,260 Nm,+ 60 Nm
+Renault,Master,1997>2010,Diesel,2.5 DCi,125 hp,150 hp,+ 25 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Master,1997>2010,Diesel,2.5 DCi,100 hp,135 hp,+ 35 hp,290 Nm,350 Nm,+ 60 Nm
+Renault,Master,2010>2014,Diesel,2.3 DCi,100 hp,155 hp,+ 55 hp,285 Nm,370 Nm,+ 85 Nm
+Renault,Master,1997>2010,Diesel,2.0 DCi,120 hp,160 hp,+ 40 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Master,03/2016>2019,Diesel,2.3 DCi Bi-Turbo (Euro 6),170 hp,210 hp,+ 40 hp,380 Nm,440 Nm,+ 60 Nm
+Renault,Master,03/2016>2019,Diesel,2.3 DCi Bi-Turbo (Euro 6),165 hp,210 hp,+ 45 hp,380 Nm,440 Nm,+ 60 Nm
+Renault,Master,1997>2010,Diesel,2.5 DCi,150 hp,180 hp,+ 30 hp,350 Nm,410 Nm,+ 60 Nm
+Renault,Master,09/2019>...,Diesel,2.3 BlueDCI,135 hp, hp,0 hp,360 Nm, Nm,0 Nm
+Renault,Master,1997>2010,Diesel,2.2 DCi,90 hp,114 hp,+ 24 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Master,2014>2016,Diesel,2.3 DCi,110 hp,140 hp,+ 30 hp,285 Nm,345 Nm,+ 60 Nm
+Renault,Maxity,2016>...,Diesel,2.5 DCi,130 hp,160 hp,+ 30 hp,300 Nm,340 Nm,+ 40 Nm
+Renault,Maxity,2016>...,Diesel,3.0 DCi,150 hp,180 hp,+ 30 hp,350 Nm,410 Nm,+ 60 Nm
+Renault,Maxity,...>2015,Diesel,2.5 DCi,110 hp,140 hp,+ 30 hp,340 Nm,390 Nm,+ 50 Nm
+Renault,Maxity,...>2015,Diesel,2.5 DCi,130 hp,160 hp,+ 30 hp,270 Nm,340 Nm,+ 70 Nm
+Renault,Maxity,...>2015,Diesel,3.0 DCi,150 hp,180 hp,+ 30 hp,350 Nm,410 Nm,+ 60 Nm
+Renault,Megane,2012>2013,Gasoline,RS 2.0T,265 hp,300 hp,+ 35 hp,360 Nm,440 Nm,+ 80 Nm
+Renault,Megane,2015>2020,Gasoline,1.3 TCE,163 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Renault,Megane,03/2020>...,Gasoline,RS Trophy 1.8T (GPF),300 hp,310 hp,+ 10 hp,400 Nm,440 Nm,+ 40 Nm
+Renault,Megane,2002>2008,Diesel,1.5 DCi,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Megane,2008>2012,Gasoline,RS 2.0T,250 hp,300 hp,+ 50 hp,340 Nm,440 Nm,+ 100 Nm
+Renault,Megane,2012>2013,Gasoline,2.0 TCE,190 hp,210 hp,+ 20 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Megane,2014>2015,Gasoline,RS Trophy - 2.0T,275 hp,300 hp,+ 25 hp,370 Nm,440 Nm,+ 70 Nm
+Renault,Megane,2002>2008,Diesel,1.5 DCi,101 hp,125 hp,+ 24 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Megane,2008>2012,Diesel,1.5 DCi,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Megane,2015>2020,Gasoline,1.3 TCE,140 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Renault,Megane,2008>2012,Diesel,1.5 DCi,85 hp,105 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Megane,2002>2008,Diesel,1.5 DCi,85 hp,105 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Megane,2008>2012,Gasoline,RS Trophy,265 hp,300 hp,+ 35 hp,360 Nm,440 Nm,+ 80 Nm
+Renault,Megane,03/2020>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Megane,2012>2013,Gasoline,Estate GT 220,220 hp,300 hp,+ 80 hp,340 Nm,440 Nm,+ 100 Nm
+Renault,Megane,2015>2020,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Renault,Megane,2014>2015,Gasoline,RS Trophy R 2.0T,275 hp,300 hp,+ 25 hp,370 Nm,440 Nm,+ 70 Nm
+Renault,Megane,2002>2008,Diesel,2.0 DCi,175 hp,205 hp,+ 30 hp,380 Nm,430 Nm,+ 50 Nm
+Renault,Megane,2002>2008,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Megane,2002>2008,Diesel,1.9 DCi,110 hp,140 hp,+ 30 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Megane,2015>2020,Gasoline,RS Trophy 1.8T,300 hp,310 hp,+ 10 hp,400 Nm,440 Nm,+ 40 Nm
+Renault,Megane,2002>2008,Diesel,1.9 DCi,115 hp,150 hp,+ 35 hp,250 Nm,325 Nm,+ 75 Nm
+Renault,Megane,2008>2012,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Megane,2015>2020,Gasoline,RS 1.8T (GPF),280 hp,310 hp,+ 30 hp,390 Nm,440 Nm,+ 50 Nm
+Renault,Megane,2015>2020,Diesel,1.5 DCi,90 hp,135 hp,+ 45 hp,220 Nm,310 Nm,+ 90 Nm
+Renault,Megane,2002>2008,Diesel,1.9 DCi,120 hp,150 hp,+ 30 hp,270 Nm,325 Nm,+ 55 Nm
+Renault,Megane,2014>2015,Diesel,2.0 DCI,165 hp,195 hp,+ 30 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Megane,2002>2008,Diesel,1.9 DCi,130 hp,165 hp,+ 35 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Megane,2015>2020,Diesel,1.6 DCi,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Renault,Megane,2015>2020,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Renault,Megane,2015>2020,Diesel,1.5 DCi,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Renault,Megane,2008>2012,Diesel,2.0 DCi,160 hp,190 hp,+ 30 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Megane,2012>2013,Diesel,2.0 DCI,165 hp,195 hp,+ 30 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Megane,2008>2012,Diesel,1.9 DCi,130 hp,165 hp,+ 35 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Megane,2012>2013,Diesel,1.6 DCI,130 hp,160 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Megane,2012>2013,Diesel,1.5 DCI,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Megane,2008>2012,Diesel,1.5 DCi,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Megane,2015>2020,Gasoline,1.6 TCE,165 hp,225 hp,+ 60 hp,240 Nm,350 Nm,+ 110 Nm
+Renault,Megane,2014>2015,Diesel,1.5 DCi,95 hp,130 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Megane,2012>2013,Diesel,1.5 DCI,110 hp,130 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Renault,Megane,2008>2012,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Renault,Megane,2002>2008,Diesel,1.9 DTi,100 hp,122 hp,+ 22 hp,200 Nm,248 Nm,+ 48 Nm
+Renault,Megane,2014>2015,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Renault,Megane,2015>2020,Gasoline,1.6 TCE GT,205 hp,225 hp,+ 20 hp,280 Nm,350 Nm,+ 70 Nm
+Renault,Megane,2008>2012,Diesel,1.6 DCi,130 hp,160 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Megane,2012>2013,Diesel,1.5 DCI EDC,110 hp,130 hp,+ 20 hp,240 Nm,280 Nm,+ 40 Nm
+Renault,Megane,2015>2020,Diesel,1.6 DCi,165 hp,180 hp,+ 15 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Megane,2014>2015,Diesel,1.6 DCi,130 hp,160 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Megane,2002>2008,Diesel,1.9 DCi,102 hp,130 hp,+ 28 hp,200 Nm,240 Nm,+ 40 Nm
+Renault,Megane,2015>2020,Gasoline,RS 1.8T,280 hp,310 hp,+ 30 hp,390 Nm,440 Nm,+ 50 Nm
+Renault,Megane,2015>2020,Gasoline,1.4 TCE,140 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Renault,Megane,03/2020>...,Gasoline,RS 1.8T (GPF),300 hp,310 hp,+ 10 hp,400 Nm,440 Nm,+ 40 Nm
+Renault,Megane,2015>2020,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Renault,Megane,2014>2015,Gasoline,Estate GT 220,220 hp,300 hp,+ 80 hp,340 Nm,440 Nm,+ 100 Nm
+Renault,Megane,2015>2020,Gasoline,1.3 TCE,116 hp, hp,0 hp,220 Nm, Nm,0 Nm
+Renault,Megane,2008>2012,Gasoline,2.0T GT,220 hp,300 hp,+ 80 hp,340 Nm,440 Nm,+ 100 Nm
+Renault,Megane,2002>2008,Gasoline,2.0T RS,230 hp,255 hp,+ 25 hp,310 Nm,360 Nm,+ 50 Nm
+Renault,Megane,2014>2015,Gasoline,RS 2.0T,265 hp,300 hp,+ 35 hp,360 Nm,440 Nm,+ 80 Nm
+Renault,Megane,2014>2015,Gasoline,RS 2.0T,275 hp,300 hp,+ 25 hp,370 Nm,440 Nm,+ 70 Nm
+Renault,Megane,2002>2008,Gasoline,2.0T RS,225 hp,255 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Megane,2015>2020,Diesel,1.7 BlueDCI,120 hp,170 hp,+ 50 hp,300 Nm,380 Nm,+ 80 Nm
+Renault,Megane,2002>2008,Diesel,1.5 DCi,82 hp,105 hp,+ 23 hp,185 Nm,237 Nm,+ 52 Nm
+Renault,Megane,2015>2020,Gasoline,1.2 TCE,100 hp,125 hp,+ 25 hp,155 Nm,200 Nm,+ 45 Nm
+Renault,Megane,03/2020>...,Gasoline,1.3 TCE,163 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Renault,Megane,2012>2013,Gasoline,1.4 TCE,130 hp,160 hp,+ 30 hp,190 Nm,240 Nm,+ 50 Nm
+Renault,Megane,2014>2015,Gasoline,1.2 TCe,130 hp,140 hp,+ 10 hp,205 Nm,230 Nm,+ 25 Nm
+Renault,Megane,2002>2008,Gasoline,2.0T R26R,230 hp,255 hp,+ 25 hp,310 Nm,360 Nm,+ 50 Nm
+Renault,Megane,2014>2015,Gasoline,1.2 TCe,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Megane,2008>2012,Gasoline,1.4 TCE,130 hp,160 hp,+ 30 hp,190 Nm,240 Nm,+ 50 Nm
+Renault,Megane,2012>2013,Gasoline,1.2 TCE,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Megane,2015>2020,Gasoline,1.2 TCE,130 hp,145 hp,+ 15 hp,205 Nm,250 Nm,+ 45 Nm
+Renault,Megane,2008>2012,Gasoline,1.2 TCE,116 hp,130 hp,+ 14 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Megane,03/2020>...,Gasoline,1.3 TCE,140 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Renault,Megane,2002>2008,Gasoline,2.0T,165 hp,200 hp,+ 35 hp,270 Nm,320 Nm,+ 50 Nm
+Renault,Megane,2008>2012,Gasoline,2.0 TCE,180 hp,210 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Renault,Megane,03/2020>...,Gasoline,1.3 TCE,116 hp, hp,0 hp,220 Nm, Nm,0 Nm
+Renault,Modus,2004>2012,Diesel,1.5 DCi,85 hp,105 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Modus,2004>2012,Diesel,1.5 DCi,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Modus,2004>2012,Diesel,1.5 DCi,82 hp,105 hp,+ 23 hp,185 Nm,241 Nm,+ 56 Nm
+Renault,Modus,2004>2012,Gasoline,1.2 TCE,100 hp,125 hp,+ 25 hp,145 Nm,200 Nm,+ 55 Nm
+Renault,Modus,2004>2012,Diesel,1.5 DCi,65 hp,85 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Modus,2004>2012,Diesel,1.5 DCi,75 hp,110 hp,+ 35 hp,180 Nm,245 Nm,+ 65 Nm
+Renault,Modus,2004>2012,Diesel,1.5 DCi,90 hp,110 hp,+ 20 hp,200 Nm,245 Nm,+ 45 Nm
+Renault,Scenic / Grand Scenic,09/2018>...,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,09/2018>...,Gasoline,1.3 TCE,140 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,1.5 DCi,95 hp,130 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Gasoline,1.2 TCe,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Diesel,1.9 DCi,130 hp,165 hp,+ 35 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Diesel,1.5 DCi,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,1.5 DCi,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Scenic / Grand Scenic,09/2018>...,Gasoline,1.3 TCE,160 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Gasoline,1.2 TCe,130 hp,140 hp,+ 10 hp,205 Nm,230 Nm,+ 25 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,420 Nm,+ 80 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Gasoline,1.3 Energy TCe,140 hp,160 hp,+ 20 hp,240 Nm,280 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Diesel,1.6 DCi Bi-Turbo,160 hp,180 hp,+ 20 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Gasoline,1.2 TCE,130 hp,140 hp,+ 10 hp,205 Nm,230 Nm,+ 25 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Diesel,1.5 DCi,95 hp,135 hp,+ 40 hp,240 Nm,310 Nm,+ 70 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Diesel,1.9 DCi,120 hp,150 hp,+ 30 hp,270 Nm,330 Nm,+ 60 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Diesel,1.9 DCi,100 hp,130 hp,+ 30 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Gasoline,1.2 TCE,110 hp,140 hp,+ 30 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Gasoline,1.4 TCE,130 hp,160 hp,+ 30 hp,190 Nm,240 Nm,+ 50 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,2.0 DCi,160 hp,200 hp,+ 40 hp,380 Nm,430 Nm,+ 50 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Gasoline,1.2 TCE,115 hp,140 hp,+ 25 hp,190 Nm,230 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Diesel,1.9 DCi,115 hp,163 hp,+ 48 hp,270 Nm,330 Nm,+ 60 Nm
+Renault,Scenic / Grand Scenic,09/2018>...,Gasoline,1.3 TCE (EDC7),160 hp, hp,0 hp,270 Nm, Nm,0 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Diesel,1.5 DCi,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,340 Nm,420 Nm,+ 80 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,1.6 DCi,130 hp,160 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Gasoline,1.3 Energy TCe,160 hp,180 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,09/2018>...,Gasoline,1.3 TCE,115 hp, hp,0 hp,220 Nm, Nm,0 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,2.0 DCi,130 hp,180 hp,+ 50 hp,320 Nm,420 Nm,+ 100 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Gasoline,2.0 T,165 hp,200 hp,+ 35 hp,270 Nm,320 Nm,+ 50 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Diesel,1.9 DCi,130 hp,165 hp,+ 35 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Scenic / Grand Scenic,2003>2009,Diesel,1.5 DCi,85 hp,105 hp,+ 20 hp,200 Nm,240 Nm,+ 40 Nm
+Renault,Scenic / Grand Scenic,2009>2016,Gasoline,1.4 TCE,130 hp,160 hp,+ 30 hp,190 Nm,240 Nm,+ 50 Nm
+Renault,Scenic / Grand Scenic,09/2018>...,Diesel,1.7 BlueDCI,120 hp,170 hp,+ 50 hp,300 Nm,380 Nm,+ 80 Nm
+Renault,Scenic / Grand Scenic,2016>2018,Diesel,1.6 DCi,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Renault,Talisman,2015>2019,Gasoline,1.3 TCE,160 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Renault,Talisman,2015>2019,Diesel,2.0 BlueDCI,160 hp,190 hp,+ 30 hp,360 Nm,400 Nm,+ 40 Nm
+Renault,Talisman,2015>2019,Gasoline,1.6 TCe,150 hp,225 hp,+ 75 hp,220 Nm,350 Nm,+ 130 Nm
+Renault,Talisman,2020>...,Gasoline,1.3 TCE,160 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Renault,Talisman,2015>2019,Diesel,2.0 BlueDCI,200 hp,225 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Renault,Talisman,2020>...,Gasoline,1.8 TCE,225 hp,250 hp,+ 25 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Talisman,2020>...,Diesel,2.0 BlueDCI,160 hp,190 hp,+ 30 hp,360 Nm,400 Nm,+ 40 Nm
+Renault,Talisman,2020>...,Diesel,2.0 BlueDCI,200 hp,225 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Renault,Talisman,2015>2019,Diesel,1.6 DCi,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Renault,Talisman,2015>2019,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Renault,Talisman,2015>2019,Diesel,1.5 DCi,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Renault,Talisman,2015>2019,Diesel,1.6 DCi,160 hp,180 hp,+ 20 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Talisman,2015>2019,Gasoline,1.6 TCe,200 hp,225 hp,+ 25 hp,260 Nm,350 Nm,+ 90 Nm
+Renault,Talisman,2020>...,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Renault,Talisman,2020>...,Diesel,1.7 BlueDCI,120 hp,170 hp,+ 50 hp,300 Nm,380 Nm,+ 80 Nm
+Renault,Talisman,2015>2019,Gasoline,1.8 TCE,225 hp,250 hp,+ 25 hp,300 Nm,370 Nm,+ 70 Nm
+Renault,Trafic,2014>2016,Diesel,1.6 Dci Bi-Turbo (Euro 5),120 hp,175 hp,+ 55 hp,320 Nm,390 Nm,+ 70 Nm
+Renault,Trafic,2006>2014,Diesel,2.5 DCi,120 hp,150 hp,+ 30 hp,290 Nm,350 Nm,+ 60 Nm
+Renault,Trafic,09/2019>...,Diesel,2.0 DCi,120 hp,205 hp,+ 85 hp,320 Nm,420 Nm,+ 100 Nm
+Renault,Trafic,2014>2016,Diesel,1.6 Dci (Euro 5),90 hp,145 hp,+ 55 hp,260 Nm,380 Nm,+ 120 Nm
+Renault,Trafic,09/2019>...,Diesel,1.6 DCi,95 hp,145 hp,+ 50 hp,260 Nm,350 Nm,+ 90 Nm
+Renault,Trafic,2016>2019,Diesel,1.6 Dci (Euro 6),120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Renault,Trafic,2001>2005,Diesel,2.5 DCi,135 hp,165 hp,+ 30 hp,310 Nm,360 Nm,+ 50 Nm
+Renault,Trafic,2006>2014,Diesel,2.0 DCi,115 hp,145 hp,+ 30 hp,290 Nm,350 Nm,+ 60 Nm
+Renault,Trafic,2016>2019,Diesel,1.6 Dci (Euro 6),95 hp,145 hp,+ 50 hp,260 Nm,350 Nm,+ 90 Nm
+Renault,Trafic,2014>2016,Diesel,1.6 Dci (Euro 5),115 hp,145 hp,+ 30 hp,300 Nm,380 Nm,+ 80 Nm
+Renault,Trafic,2016>2019,Diesel,1.6 Dci Bi-Turbo (Euro 6),125 hp,175 hp,+ 50 hp,320 Nm,390 Nm,+ 70 Nm
+Renault,Trafic,09/2019>...,Diesel,2.0 DCi,145 hp,205 hp,+ 60 hp,350 Nm,420 Nm,+ 70 Nm
+Renault,Trafic,2016>2019,Diesel,1.6 Dci Bi-Turbo (Euro 6),145 hp,175 hp,+ 30 hp,340 Nm,390 Nm,+ 50 Nm
+Renault,Trafic,2001>2005,Diesel,1.9 DCi,100 hp,130 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Renault,Trafic,2006>2014,Diesel,2.0 DCi,90 hp,145 hp,+ 55 hp,260 Nm,350 Nm,+ 90 Nm
+Renault,Trafic,2001>2005,Diesel,1.9 DCi,82 hp,110 hp,+ 28 hp,190 Nm,240 Nm,+ 50 Nm
+Renault,Trafic,2006>2014,Diesel,2.5 DCi,150 hp,180 hp,+ 30 hp,320 Nm,400 Nm,+ 80 Nm
+Renault,Trafic,2014>2016,Diesel,1.6 Dci Bi-Turbo (Euro 5),140 hp,175 hp,+ 35 hp,340 Nm,390 Nm,+ 50 Nm
+Renault,Trafic,09/2019>...,Diesel,2.0 DCi,170 hp,205 hp,+ 35 hp,380 Nm,420 Nm,+ 40 Nm
+Renault,Twingo,2001>2012,Diesel,1.5 DCi,65 hp,85 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Renault,Twingo,2001>2012,Diesel,1.5 DCi,85 hp,105 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Twingo,2001>2012,Diesel,1.5 DCi,75 hp,105 hp,+ 30 hp,180 Nm,250 Nm,+ 70 Nm
+Renault,Twingo,2012>2014,Diesel,1.5 DCi,75 hp,105 hp,+ 30 hp,180 Nm,250 Nm,+ 70 Nm
+Renault,Twingo,07/2014>2019,Gasoline,GT - 0.9 TCE,110 hp,120 hp,+ 10 hp,170 Nm,190 Nm,+ 20 Nm
+Renault,Twingo,2012>2014,Gasoline,1.2 TCe 100,102 hp,125 hp,+ 23 hp,155 Nm,200 Nm,+ 45 Nm
+Renault,Twingo,2012>2014,Diesel,1.5 DCi,86 hp,106 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Renault,Twingo,2012>2014,Gasoline,1.2 16V,75 hp,81 hp,+ 6 hp,107 Nm,116 Nm,+ 9 Nm
+Renault,Twingo,2012>2014,Gasoline,1.6 RS,133 hp,145 hp,+ 12 hp,160 Nm,180 Nm,+ 20 Nm
+Renault,Twingo,07/2014>2019,Gasoline,0.9 TCE,90 hp,110 hp,+ 20 hp,135 Nm,160 Nm,+ 25 Nm
+Renault,Twingo,2001>2012,Gasoline,1.6 RS,133 hp,145 hp,+ 12 hp,160 Nm,180 Nm,+ 20 Nm
+Renault,Twingo,2001>2012,Gasoline,1.2 16v,75 hp,81 hp,+ 6 hp,107 Nm,116 Nm,+ 9 Nm
+Renault,Twingo,2001>2012,Gasoline,1.2 TCE,100 hp,125 hp,+ 25 hp,145 Nm,200 Nm,+ 55 Nm
+Renault,Twingo,2019>...,Gasoline,0.9 TCE,95 hp, hp,0 hp,135 Nm, Nm,0 Nm
+Renault,Vel Satis,2002>2010,Diesel,3.0 DCi,177 hp,210 hp,+ 33 hp,350 Nm,438 Nm,+ 88 Nm
+Renault,Vel Satis,2002>2010,Diesel,2.0 DCi,175 hp,205 hp,+ 30 hp,380 Nm,450 Nm,+ 70 Nm
+Renault,Vel Satis,2002>2010,Diesel,2.2 DCi,115 hp,140 hp,+ 25 hp,250 Nm,310 Nm,+ 60 Nm
+Renault,Vel Satis,2002>2010,Diesel,2.0 DCi,150 hp,182 hp,+ 32 hp,340 Nm,400 Nm,+ 60 Nm
+Renault,Vel Satis,2002>2010,Diesel,2.2 DCi,150 hp,180 hp,+ 30 hp,320 Nm,375 Nm,+ 55 Nm
+Renault,Wind,2010>...,Gasoline,1.6 RS,133 hp,145 hp,+ 12 hp,160 Nm,180 Nm,+ 20 Nm
+Renault,Wind,2010>...,Gasoline,1.2 TCE,100 hp,125 hp,+ 25 hp,152 Nm,200 Nm,+ 48 Nm

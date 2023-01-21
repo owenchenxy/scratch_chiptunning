@@ -1,0 +1,23 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Aston Martin,DB11,All,Gasoline,4.0 V8 BiTurbo,510 hp,570 hp,+ 60 hp,675 Nm,820 Nm,+ 145 Nm
+Aston Martin,DB11,All,Gasoline,5.2 V12 BiTurbo,608 hp,700 hp,+ 92 hp,700 Nm,900 Nm,+ 200 Nm
+Aston Martin,DB11,All,Gasoline,AMR 5.2 V12 Bi-Turbo,640 hp,760 hp,+ 120 hp,740 Nm,1100 Nm,+ 360 Nm
+Aston Martin,DB9,All,Gasoline,6.0 V12,477 hp,500 hp,+ 23 hp,600 Nm,620 Nm,+ 20 Nm
+Aston Martin,DB9,All,Gasoline,5.9 V12,455 hp,480 hp,+ 25 hp,570 Nm,590 Nm,+ 20 Nm
+Aston Martin,DB9,All,Gasoline,5.9 V12,517 hp,540 hp,+ 23 hp,620 Nm,640 Nm,+ 20 Nm
+Aston Martin,DBS,...>2019,Gasoline,5.9 V12,517 hp,540 hp,+ 23 hp,570 Nm,590 Nm,+ 20 Nm
+Aston Martin,DBS,09/2019>...,Gasoline,5.2 V12 Bi-Turbo Superleggera,725 hp,760 hp,+ 35 hp,900 Nm,990 Nm,+ 90 Nm
+Aston Martin,DBS,...>2019,Gasoline,5.2 V12 BiTurbo,725 hp,760 hp,+ 35 hp,900 Nm,990 Nm,+ 90 Nm
+Aston Martin,DBX,2020>...,Gasoline,4.0 V8 Bi-Turbo,550 hp, hp,0 hp,700 Nm, Nm,0 Nm
+Aston Martin,Rapide,2010>...,Gasoline,S - 5.2 V12 Bi-turbo,560 hp, hp,0 hp,630 Nm, Nm,0 Nm
+Aston Martin,Rapide,2010>...,Gasoline,AMR - 6.0 V12,603 hp, hp,0 hp,630 Nm, Nm,0 Nm
+Aston Martin,Rapide,2010>...,Gasoline,6.0 V12,477 hp,500 hp,+ 23 hp,600 Nm,620 Nm,+ 20 Nm
+Aston Martin,Vantage,2018>...,Gasoline,4.0 V8 Bi-Turbo,510 hp,570 hp,+ 60 hp,685 Nm,820 Nm,+ 135 Nm
+Aston Martin,Vantage,...>2018,Gasoline,4.7 V8,426 hp,450 hp,+ 24 hp,470 Nm,490 Nm,+ 20 Nm
+Aston Martin,Vantage,...>2018,Gasoline,4.7 V8 S,436 hp,460 hp,+ 24 hp,490 Nm,510 Nm,+ 20 Nm
+Aston Martin,Vantage,...>2018,Gasoline,6.0 V12,517 hp,542 hp,+ 25 hp,570 Nm,590 Nm,+ 20 Nm
+Aston Martin,Vantage,...>2018,Gasoline,6.0 V12 S,573 hp,600 hp,+ 27 hp,620 Nm,650 Nm,+ 30 Nm
+Aston Martin,Vantage,...>2018,Gasoline,4.0 V8,510 hp,570 hp,+ 60 hp,685 Nm,820 Nm,+ 135 Nm
+Aston Martin,Vantage,...>2018,Gasoline,4.3 V8,400 hp,425 hp,+ 25 hp,418 Nm,438 Nm,+ 20 Nm
+Aston Martin,Vantage,...>2018,Gasoline,4.3 V8,384 hp,410 hp,+ 26 hp,410 Nm,430 Nm,+ 20 Nm
+Aston Martin,Virage,All,Gasoline,6.0 liter V12,490 hp,510 hp,+ 20 hp,570 Nm,600 Nm,+ 30 Nm

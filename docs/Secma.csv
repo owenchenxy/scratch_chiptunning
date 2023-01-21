@@ -1,0 +1,4 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Secma,F16,2008>...,Gasoline,1.6,105 hp,115 hp,+ 10 hp,148 Nm,158 Nm,+ 10 Nm
+Secma,F16 Turbo,2016>...,Gasoline,1.6T,225 hp,240 hp,+ 15 hp,300 Nm,350 Nm,+ 50 Nm
+Secma,Fun Buggy,2008>...,Gasoline,1.6,105 hp,115 hp,+ 10 hp,148 Nm,158 Nm,+ 10 Nm

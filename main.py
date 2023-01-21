@@ -1,65 +1,54 @@
 #!/usr/local/bin/python3
 #-*- coding: utf-8 -*-
-from modules.spider import Spider
-from modules.brand import Brand
-from modules.model import Model
-from modules.generation import Generation
-from modules.para import Para
-from modules.csv_handler import CsvWriter
-from threading import Thread
 
-def collect_brand(spider):
-    threads = list()
-    brand_urls = spider.get_brand_urls()
-    count = 0
-    for brand_url in brand_urls:
-        count += 1
-        brand = Brand(brand_url)
-        spider.writer_dict[brand.brand_name] = CsvWriter("/Users/xianyaochen/Documents/{0}.csv".format(brand.brand_name))
-        t = Thread(target=collect_model, args=(spider, brand,))
-        t.start()
-        threads.append(t)
-    print("Info: Collecting {0} brands car info ...".format(count))
-    for t in threads:
-        t.join()
-    print("Info: collect brand finished!")
+from gevent import monkey
+monkey.patch_all(thread=False)
+from common.utils import start_collect, start_writer
+import time
+from optparse import OptionParser
+import sys
+import os
+import shutil
 
-def collect_model(spider, brand):
-    #print("start collect model")
-    for model_url in brand.model_urls:
-        model = Model(brand.relative_brand_url, model_url)
-        t = Thread(target=collect_generation, args=(spider, brand, model))
-        t.start()
+def main(args):
+    usage = '%prog [options]'
+    parser = OptionParser(usage=usage)
 
-def collect_generation(spider, brand, model):
-    for generation_url in model.generation_urls:
-        generation = Generation(brand.relative_brand_url, model.relative_model_url, generation_url)
-        t = Thread(target=collect_car, args=(spider, brand, model, generation))
-        t.start()
+    parser.add_option(
+        '-o', '--output_directory',
+        action='store',
+        type='string',
+        metavar='OUTPUT_DIRECTORY',
+        dest='output_dir',
+        default='./docs',
+        help='''output directory to store the scratched data'''
+    )
+    (options, args_left) = parser.parse_args(args=args[1:])
+    if len(args_left) != 0:
+        print("Error: Arguments [%s] can not be parsed." % args_left)
+        sys.exit(-1)
 
-def collect_car(spider, brand, model, generation):
-    #print("start collect car info")
-    for para_url in generation.para_urls:
-        para = Para(brand.relative_brand_url, model.relative_model_url, generation.relative_generation_url, para_url)
-        t = Thread(target=write, args=(spider, para, brand))
-        t.start()
+    output_dir = options.output_dir
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
+    elif os.path.isfile(output_dir):
+        print("Error: {0} is a existing file, please specify an empty directory for output data !".format(output_dir))
+        sys.exit(-1)
+    elif os.path.isdir(output_dir) and os.listdir(output_dir):
+        print("Warning: {0} is not empty, please specify an empty directory for output data !".format(output_dir))
+        opt = input("Enter yes to force empty the directory {0}.".format(output_dir))
+        if opt == 'yes':
+            shutil.rmtree(output_dir)
+            os.mkdir(output_dir)
+        else:
+            print("Error: {0} is not empty !".format(output_dir))
+            sys.exit(-1)
 
-def write(spider, para, brand):
-    #print("start write csv file")
-    spider.writer_dict[brand.brand_name].write_to_csv(para.car_info)
-
-def sort_result(spider):
-    count = 0
-    for brand_name, brand_writer in spider.writer_dict.items():
-        brand_writer.sort_csv()
-        count += 1
-    print("Info: {0} files have been sorted!")
-
-
-def main():
-    spider = Spider()
-    collect_brand(spider)
-    sort_result(spider)
+    writer_pool = start_writer(output_dir)
+    start_collect()
+    writer_pool.join()
 
 if __name__ == "__main__":
-    main()
+    start_time = time.time()
+    main(sys.argv)
+    print(time.time() - start_time)

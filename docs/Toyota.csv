@@ -1,0 +1,77 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Toyota,Auris,2006>2012,Diesel,1.4 D4D,90 hp,115 hp,+ 25 hp,190 Nm,250 Nm,+ 60 Nm
+Toyota,Auris,2012>...,Gasoline,1.2T,116 hp,130 hp,+ 14 hp,185 Nm,225 Nm,+ 40 Nm
+Toyota,Auris,2006>2012,Diesel,2.0 D4D,126 hp,150 hp,+ 24 hp,300 Nm,360 Nm,+ 60 Nm
+Toyota,Auris,2012>...,Diesel,1.4 D4D,90 hp,115 hp,+ 25 hp,205 Nm,250 Nm,+ 45 Nm
+Toyota,Auris,2012>...,Diesel,1.6 D4D,112 hp,150 hp,+ 38 hp,270 Nm,320 Nm,+ 50 Nm
+Toyota,Auris,2012>...,Diesel,2.0 D4D,126 hp,150 hp,+ 24 hp,310 Nm,360 Nm,+ 50 Nm
+Toyota,Auris,2006>2012,Diesel,2.2 D4D,177 hp,190 hp,+ 13 hp,400 Nm,440 Nm,+ 40 Nm
+Toyota,Avensis,2009>2015,Diesel,2.0 D4D FAP,126 hp,150 hp,+ 24 hp,310 Nm,360 Nm,+ 50 Nm
+Toyota,Avensis,2006>2009,Diesel,2.2 D4D,150 hp,175 hp,+ 25 hp,310 Nm,400 Nm,+ 90 Nm
+Toyota,Avensis,2009>2015,Diesel,2.2 D4D FAP,150 hp,175 hp,+ 25 hp,340 Nm,400 Nm,+ 60 Nm
+Toyota,Avensis,2006>2009,Diesel,2.0 D4D,126 hp,150 hp,+ 24 hp,300 Nm,360 Nm,+ 60 Nm
+Toyota,Avensis,2015>...,Diesel,2.2 D4D,150 hp,175 hp,+ 25 hp,340 Nm,400 Nm,+ 60 Nm
+Toyota,Avensis,2015>...,Diesel,1.6 D-4D,112 hp,150 hp,+ 38 hp,270 Nm,320 Nm,+ 50 Nm
+Toyota,Avensis,2009>2015,Diesel,2.2 D-CAT FAP,177 hp,190 hp,+ 13 hp,400 Nm,440 Nm,+ 40 Nm
+Toyota,Avensis,2009>2015,Diesel,2.2 D-CAT FAP,150 hp,175 hp,+ 25 hp,340 Nm,400 Nm,+ 60 Nm
+Toyota,Avensis,2015>...,Diesel,2.2 D-CAT,150 hp,175 hp,+ 25 hp,340 Nm,400 Nm,+ 60 Nm
+Toyota,Avensis,2009>2015,Diesel,2.0 D4D FAP,124 hp,150 hp,+ 26 hp,310 Nm,360 Nm,+ 50 Nm
+Toyota,Avensis,2003>2006,Diesel,2.2 D4D,150 hp,175 hp,+ 25 hp,310 Nm,400 Nm,+ 90 Nm
+Toyota,Avensis,2003>2006,Diesel,2.0 D4D,115 hp,150 hp,+ 35 hp,280 Nm,350 Nm,+ 70 Nm
+Toyota,Avensis,2006>2009,Diesel,2.2 D4D,177 hp,190 hp,+ 13 hp,400 Nm,440 Nm,+ 40 Nm
+Toyota,Avensis,2015>...,Diesel,2.0 D-4D,143 hp,180 hp,+ 37 hp,320 Nm,400 Nm,+ 80 Nm
+Toyota,Aygo,2016>...,Gasoline,1.0 VVT-i,69 hp,75 hp,+ 6 hp,95 Nm,102 Nm,+ 7 Nm
+Toyota,Aygo,2005>2010,Diesel,1.4 D4D,54 hp,80 hp,+ 26 hp,130 Nm,180 Nm,+ 50 Nm
+Toyota,C-HR,2016>2020,Gasoline,1.2T,116 hp,130 hp,+ 14 hp,185 Nm,225 Nm,+ 40 Nm
+Toyota,Corolla,2003>2007,Diesel,2.0 D4D,116 hp,150 hp,+ 34 hp,280 Nm,350 Nm,+ 70 Nm
+Toyota,Corolla,2003>2007,Diesel,1.4 D4D,90 hp,115 hp,+ 25 hp,190 Nm,250 Nm,+ 60 Nm
+Toyota,GT86,2012>...,Gasoline,2.0i,200 hp,215 hp,+ 15 hp,205 Nm,220 Nm,+ 15 Nm
+Toyota,Hi-Ace,2006>2011,Diesel,2.5 D4D,117 hp,150 hp,+ 33 hp,294 Nm,350 Nm,+ 56 Nm
+Toyota,Hi-Ace,2006>2011,Diesel,2.5 D4D,102 hp,135 hp,+ 33 hp,255 Nm,310 Nm,+ 55 Nm
+Toyota,Hilux,2006>2011,Diesel,2.5 D4D,120 hp,150 hp,+ 30 hp,325 Nm,395 Nm,+ 70 Nm
+Toyota,Hilux,2011>2015,Diesel,3.0 D4D,171 hp,210 hp,+ 39 hp,360 Nm,480 Nm,+ 120 Nm
+Toyota,Hilux,2006>2011,Diesel,2.5 D4D,144 hp,175 hp,+ 31 hp,343 Nm,410 Nm,+ 67 Nm
+Toyota,Hilux,2006>2011,Diesel,3.0 D4D,171 hp,210 hp,+ 39 hp,343 Nm,480 Nm,+ 137 Nm
+Toyota,Hilux,2011>2015,Diesel,2.5 D4D,144 hp,175 hp,+ 31 hp,343 Nm,410 Nm,+ 67 Nm
+Toyota,Hilux,2015>...,Diesel,2.4D,150 hp,180 hp,+ 30 hp,400 Nm,460 Nm,+ 60 Nm
+Toyota,IQ,2009>...,Diesel,1.4 D-4D,90 hp,115 hp,+ 25 hp,190 Nm,250 Nm,+ 60 Nm
+Toyota,Land Cruiser,2004>2017,Diesel,3.0 D4D,173 hp,210 hp,+ 37 hp,410 Nm,480 Nm,+ 70 Nm
+Toyota,Land Cruiser,2004>2017,Diesel,3.0 D4D,190 hp,220 hp,+ 30 hp,420 Nm,480 Nm,+ 60 Nm
+Toyota,Land Cruiser,2004>2017,Diesel,4.5 V8 D4D,286 hp,330 hp,+ 44 hp,650 Nm,750 Nm,+ 100 Nm
+Toyota,Land Cruiser,2018>...,Diesel,2.8 D4D,177 hp,210 hp,+ 33 hp,450 Nm,500 Nm,+ 50 Nm
+Toyota,Land Cruiser,2004>2017,Diesel,4.5 V8 D4D,204 hp,330 hp,+ 126 hp,430 Nm,750 Nm,+ 320 Nm
+Toyota,Land Cruiser,2004>2017,Diesel,2.8 D4D,177 hp,210 hp,+ 33 hp,450 Nm,500 Nm,+ 50 Nm
+Toyota,Land Cruiser,2004>2017,Diesel,3.0 D4D,166 hp,195 hp,+ 29 hp,410 Nm,490 Nm,+ 80 Nm
+Toyota,ProAce / ProAce Verso,2019>...,Diesel,2.0 BlueHDi,150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm
+Toyota,ProAce / ProAce Verso,2019>...,Diesel,1.5 BlueHDI,120 hp,160 hp,+ 40 hp,300 Nm,350 Nm,+ 50 Nm
+Toyota,ProAce / ProAce Verso,2016>2019,Diesel,2.0 D-4D,120 hp,200 hp,+ 80 hp,310 Nm,460 Nm,+ 150 Nm
+Toyota,ProAce / ProAce Verso,2016>2019,Diesel,1.6 D-4D,115 hp,145 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Toyota,ProAce / ProAce Verso,2016>2019,Diesel,2.0 D-4D,150 hp,200 hp,+ 50 hp,370 Nm,460 Nm,+ 90 Nm
+Toyota,ProAce / ProAce Verso,2019>...,Diesel,1.5 BlueHDi,100 hp,160 hp,+ 60 hp,270 Nm,350 Nm,+ 80 Nm
+Toyota,ProAce / ProAce Verso,2019>...,Diesel,2.0 BlueHDi,120 hp,205 hp,+ 85 hp,340 Nm,460 Nm,+ 120 Nm
+Toyota,ProAce / ProAce Verso,2016>2019,Diesel,1.6 D-4D,95 hp,130 hp,+ 35 hp,210 Nm,320 Nm,+ 110 Nm
+Toyota,ProAce / ProAce Verso,2019>...,Diesel,2.0 BlueHDi,180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Toyota,ProAce / ProAce Verso,2014>2016,Diesel,1.6 D4D,90 hp,115 hp,+ 25 hp,180 Nm,260 Nm,+ 80 Nm
+Toyota,ProAce / ProAce Verso,2014>2016,Diesel,2.0 D4D,128 hp,190 hp,+ 62 hp,320 Nm,400 Nm,+ 80 Nm
+Toyota,ProAce / ProAce Verso,2016>2019,Diesel,2.0 D-4D,180 hp,200 hp,+ 20 hp,400 Nm,460 Nm,+ 60 Nm
+Toyota,Rav4,2006>2013,Diesel,2.2 D4D,136 hp,170 hp,+ 34 hp,310 Nm,390 Nm,+ 80 Nm
+Toyota,Rav4,2013>2016,Diesel,2.2 D4d,150 hp,175 hp,+ 25 hp,340 Nm,400 Nm,+ 60 Nm
+Toyota,Rav4,2006>2013,Diesel,2.2 D4D,177 hp,190 hp,+ 13 hp,400 Nm,440 Nm,+ 40 Nm
+Toyota,Rav4,2016>...,Diesel,2.0 D4D,143 hp,180 hp,+ 37 hp,320 Nm,400 Nm,+ 80 Nm
+Toyota,Rav4,2006>2013,Diesel,2.2 D4D,150 hp,175 hp,+ 25 hp,340 Nm,400 Nm,+ 60 Nm
+Toyota,Rav4,2013>2016,Diesel,2.0 D4d,126 hp,150 hp,+ 24 hp,310 Nm,350 Nm,+ 40 Nm
+Toyota,Supra (GR),2018>...,Gasoline,2.0T,184 hp,260 hp,+ 76 hp,270 Nm,400 Nm,+ 130 Nm
+Toyota,Supra (GR),2018>...,Gasoline,3.0 Bi-Turbo,340 hp,400 hp,+ 60 hp,500 Nm,580 Nm,+ 80 Nm
+Toyota,Supra (GR),2018>...,Gasoline,2.0T,258 hp,310 hp,+ 52 hp,350 Nm,470 Nm,+ 120 Nm
+Toyota,Urban Cruiser,2009>2013,Diesel,1.4 D4D,90 hp,115 hp,+ 25 hp,190 Nm,250 Nm,+ 60 Nm
+Toyota,Verso,2009>03/2014,Diesel,2.2 D4d,177 hp,190 hp,+ 13 hp,400 Nm,440 Nm,+ 40 Nm
+Toyota,Verso,2009>03/2014,Diesel,2.2 D4d,150 hp,175 hp,+ 25 hp,340 Nm,400 Nm,+ 60 Nm
+Toyota,Verso,03/2014>...,Diesel,1.6 D-4D,112 hp,150 hp,+ 38 hp,270 Nm,320 Nm,+ 50 Nm
+Toyota,Verso,2009>03/2014,Diesel,2.0 D4D,126 hp,150 hp,+ 24 hp,310 Nm,360 Nm,+ 50 Nm
+Toyota,Verso,2009>03/2014,Diesel,2.2 D4d,136 hp,170 hp,+ 34 hp,310 Nm,390 Nm,+ 80 Nm
+Toyota,Verso S,2011>...,Diesel,1.4 D4D,90 hp,115 hp,+ 25 hp,205 Nm,260 Nm,+ 55 Nm
+Toyota,Yaris,03/2017>...,Diesel,1.4 D4D,90 hp,115 hp,+ 25 hp,190 Nm,250 Nm,+ 60 Nm
+Toyota,Yaris,...>2017,Diesel,1.4 D4D,90 hp,115 hp,+ 25 hp,190 Nm,250 Nm,+ 60 Nm
+Toyota,Yaris,...>2017,Diesel,1.4 D4D,75 hp,100 hp,+ 25 hp,180 Nm,240 Nm,+ 60 Nm
+Toyota,Yaris,2020>...,Gasoline,GR - 1.6T,261 hp, hp,0 hp,360 Nm, Nm,0 Nm
+Toyota,Yaris,03/2017>...,Gasoline,1.8 Comp GRMN,210 hp, hp,0 hp, Nm, Nm,0 Nm

@@ -1,0 +1,97 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Kia,Carens,04/2013>2016,Diesel,1.7 CRDi,115 hp,145 hp,+ 30 hp,255 Nm,325 Nm,+ 70 Nm
+Kia,Carens,2016>...,Diesel,1.7 CRDI,115 hp,150 hp,+ 35 hp,260 Nm,310 Nm,+ 50 Nm
+Kia,Carens,2016>...,Diesel,1.7 CRDI,141 hp,170 hp,+ 29 hp,340 Nm,380 Nm,+ 40 Nm
+Kia,Carens,09/2002>2011,Diesel,2.0 CDRi,115 hp,142 hp,+ 27 hp,245 Nm,300 Nm,+ 55 Nm
+Kia,Carens,04/2013>2016,Diesel,1.7 CRDi,136 hp,160 hp,+ 24 hp,325 Nm,380 Nm,+ 55 Nm
+Kia,Carens,09/2002>2011,Diesel,2.0 CDRi,140 hp,170 hp,+ 30 hp,305 Nm,370 Nm,+ 65 Nm
+Kia,Carnival,2002>2006,Diesel,2.9 CDRi,144 hp,171 hp,+ 27 hp,310 Nm,370 Nm,+ 60 Nm
+Kia,Carnival,06/2006>04/2007,Diesel,2.9 CRDi vgt,185 hp,210 hp,+ 25 hp,343 Nm,410 Nm,+ 67 Nm
+Kia,Carnival,2008>2011,Diesel,2.9 CDRi,185 hp,215 hp,+ 30 hp,343 Nm,410 Nm,+ 67 Nm
+Kia,Cee'd,2010>2015,Diesel,1.4 CRDI,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Kia,Cee'd,2015>2018,Diesel,1.4 CRDi,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Kia,Cee'd,2010>2015,Diesel,1.4 CRDI,100 hp,125 hp,+ 25 hp,220 Nm,290 Nm,+ 70 Nm
+Kia,Cee'd,2015>2018,Diesel,1.6 CRDi,110 hp,150 hp,+ 40 hp,260 Nm,330 Nm,+ 70 Nm
+Kia,Cee'd,2015>2018,Diesel,1.6 CRDi,136 hp,165 hp,+ 29 hp,285 Nm,350 Nm,+ 65 Nm
+Kia,Cee'd,2010>2015,Diesel,1.6 CRDi,128 hp,155 hp,+ 27 hp,255 Nm,320 Nm,+ 65 Nm
+Kia,Cee'd,2018>...,Diesel,1.6 CRDi,115 hp, hp,0 hp,280 Nm, Nm,0 Nm
+Kia,Cee'd,2010>2015,Diesel,1.6 CRDi,110 hp,145 hp,+ 35 hp,260 Nm,320 Nm,+ 60 Nm
+Kia,Cee'd,2010>2015,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,255 Nm,325 Nm,+ 70 Nm
+Kia,Cee'd,2018>...,Gasoline,1.4 T-GDI,140 hp,170 hp,+ 30 hp,242 Nm,290 Nm,+ 48 Nm
+Kia,Cee'd,2018>...,Gasoline,GT - 1.6 T-GDI,204 hp,230 hp,+ 26 hp,265 Nm,320 Nm,+ 55 Nm
+Kia,Cee'd,2010>2015,Diesel,1.6 CRDi,90 hp,130 hp,+ 40 hp,235 Nm,300 Nm,+ 65 Nm
+Kia,Cee'd,2015>2018,Gasoline,GT 1.6 T-GDI,204 hp,230 hp,+ 26 hp,265 Nm,320 Nm,+ 55 Nm
+Kia,Cee'd,2018>...,Diesel,1.6 CRDi,136 hp, hp,0 hp,280 Nm, Nm,0 Nm
+Kia,Cee'd,2007>2010,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,255 Nm,320 Nm,+ 65 Nm
+Kia,Cee'd,2010>2015,Gasoline,GT 1.6 T-GDI,204 hp,230 hp,+ 26 hp,265 Nm,320 Nm,+ 55 Nm
+Kia,Cee'd,2018>...,Gasoline,1.0 T-GDi,120 hp,140 hp,+ 20 hp,171 Nm,230 Nm,+ 59 Nm
+Kia,Cee'd,2010>2015,Gasoline,1.6 GDi,135 hp,150 hp,+ 15 hp,164 Nm,180 Nm,+ 16 Nm
+Kia,Cee'd,2007>2010,Diesel,2.0 CRDi,140 hp,168 hp,+ 28 hp,305 Nm,371 Nm,+ 66 Nm
+Kia,Cee'd,2007>2010,Diesel,1.6 CRDi,90 hp,145 hp,+ 55 hp,235 Nm,320 Nm,+ 85 Nm
+Kia,Cee'd,2007>2010,Diesel,2.0 CRDi,136 hp,168 hp,+ 32 hp,305 Nm,371 Nm,+ 66 Nm
+Kia,Cee'd,2015>2018,Gasoline,1.0 T-GDI,120 hp,140 hp,+ 20 hp,171 Nm,230 Nm,+ 59 Nm
+Kia,Cee'd,2018>...,Gasoline,1.0 T-GDi,100 hp,140 hp,+ 40 hp,171 Nm,230 Nm,+ 59 Nm
+Kia,Cerato,06/2004>11/2006,Diesel,2.0 CDRi,113 hp,142 hp,+ 29 hp,245 Nm,300 Nm,+ 55 Nm
+Kia,Cerato,07/2005>11/2005,Diesel,1.5 CDRi,105 hp,125 hp,+ 20 hp,240 Nm,285 Nm,+ 45 Nm
+Kia,Forte,2019>...,Gasoline,1.6 T-GDI,201 hp,220 hp,+ 19 hp,265 Nm,325 Nm,+ 60 Nm
+Kia,Forte,2019>...,Gasoline,2.0,147 hp,160 hp,+ 13 hp,179 Nm,190 Nm,+ 11 Nm
+Kia,Magentis,2006>2010,Diesel,2.0 CRDi,136 hp,168 hp,+ 32 hp,305 Nm,371 Nm,+ 66 Nm
+Kia,Optima,2016>2020,Gasoline,1.6 T-GDi,180 hp,220 hp,+ 40 hp,265 Nm,325 Nm,+ 60 Nm
+Kia,Optima,2020>...,Gasoline,1.6T,178 hp, hp,0 hp,265 Nm, Nm,0 Nm
+Kia,Optima,2016>2020,Diesel,1.7 CRDi,141 hp,170 hp,+ 29 hp,340 Nm,380 Nm,+ 40 Nm
+Kia,Optima,2016>2020,Diesel,1.6 CRDi,136 hp, hp,0 hp,280 Nm, Nm,0 Nm
+Kia,Optima,2011>2016,Diesel,1.7 CRDI,136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Kia,Optima,2020>...,Gasoline,2.0T,245 hp, hp,0 hp,350 Nm, Nm,0 Nm
+Kia,Optima,2016>2020,Gasoline,2.0 T-GDI,255 hp,285 hp,+ 30 hp,353 Nm,420 Nm,+ 67 Nm
+Kia,Picanto,...>2017,Diesel,1.1 CRDi,75 hp,97 hp,+ 22 hp,153 Nm,191 Nm,+ 38 Nm
+Kia,Picanto,07/2017>...,Gasoline,1.0 T-GDI,100 hp,140 hp,+ 40 hp,171 Nm,230 Nm,+ 59 Nm
+Kia,Rio,2015>2016,Diesel,1.1 CRDI,75 hp,100 hp,+ 25 hp,170 Nm,220 Nm,+ 50 Nm
+Kia,Rio,07/2005>04/2007,Diesel,1.5 CDRi,110 hp,130 hp,+ 20 hp,235 Nm,285 Nm,+ 50 Nm
+Kia,Rio,2017>...,Diesel,1.4 CRDI,90 hp, hp,0 hp, Nm, Nm,0 Nm
+Kia,Rio,2017>...,Diesel,1.4 CRDI,70 hp, hp,0 hp, Nm, Nm,0 Nm
+Kia,Rio,2011>2015,Diesel,1.1 CRDI,75 hp,100 hp,+ 25 hp,170 Nm,220 Nm,+ 50 Nm
+Kia,Rio,2017>...,Gasoline,1.0 T-GDI,100 hp,140 hp,+ 40 hp,171 Nm,230 Nm,+ 59 Nm
+Kia,Rio,07/2005>04/2007,Diesel,1.5 CDRi,88 hp,104 hp,+ 16 hp,235 Nm,250 Nm,+ 15 Nm
+Kia,Rio,2011>2015,Diesel,1.4 CRDI,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Kia,Rio,2015>2016,Diesel,1.4 CRDI,90 hp,110 hp,+ 20 hp,220 Nm,290 Nm,+ 70 Nm
+Kia,Rio,2017>...,Gasoline,1.0 T-GDI,120 hp,140 hp,+ 20 hp,171 Nm,230 Nm,+ 59 Nm
+Kia,Sorento,2010>2015,Diesel,2.2 CRDi,197 hp,230 hp,+ 33 hp,436 Nm,500 Nm,+ 64 Nm
+Kia,Sorento,2006>2010,Diesel,2.5 CDRi vgt,170 hp,200 hp,+ 30 hp,392 Nm,460 Nm,+ 68 Nm
+Kia,Sorento,2015>2020,Diesel,2.2 CRDi,200 hp,230 hp,+ 30 hp,441 Nm,500 Nm,+ 59 Nm
+Kia,Sorento,2006>2010,Diesel,2.5 CDRi,163 hp,200 hp,+ 37 hp,392 Nm,440 Nm,+ 48 Nm
+Kia,Sorento,2010>2015,Diesel,2.0 CRDi,150 hp,175 hp,+ 25 hp,305 Nm,400 Nm,+ 95 Nm
+Kia,Sorento,07/2002>01/2005,Diesel,2.5 CDRi,140 hp,170 hp,+ 30 hp,341 Nm,400 Nm,+ 59 Nm
+Kia,Soul,04/2014>2016,Diesel,1.6 CRDI,128 hp,160 hp,+ 32 hp,260 Nm,325 Nm,+ 65 Nm
+Kia,Soul,2016>...,Diesel,1.6 CRDi,136 hp,165 hp,+ 29 hp,285 Nm,350 Nm,+ 65 Nm
+Kia,Soul,2008>2014,Diesel,1.6 CDRi,115 hp,145 hp,+ 30 hp,255 Nm,320 Nm,+ 65 Nm
+Kia,Soul,2016>...,Gasoline,1.6 T-GDI,204 hp,220 hp,+ 16 hp,265 Nm,325 Nm,+ 60 Nm
+Kia,Soul,2008>2014,Diesel,1.6 CDRi,128 hp,145 hp,+ 17 hp,260 Nm,320 Nm,+ 60 Nm
+Kia,Sportage,2016>2018,Diesel,2.0 CRDi,136 hp,175 hp,+ 39 hp,373 Nm,430 Nm,+ 57 Nm
+Kia,Sportage,11/2004>09/2007,Diesel,2.0 CRDi,112 hp,140 hp,+ 28 hp,225 Nm,298 Nm,+ 73 Nm
+Kia,Sportage,2016>2018,Diesel,2.0 CRDi,184 hp,205 hp,+ 21 hp,400 Nm,450 Nm,+ 50 Nm
+Kia,Sportage,2018>...,Diesel,1.6 CRDi,136 hp,160 hp,+ 24 hp,320 Nm,330 Nm,+ 10 Nm
+Kia,Sportage,2016>2018,Diesel,1.7 CRDi,141 hp,170 hp,+ 29 hp,340 Nm,380 Nm,+ 40 Nm
+Kia,Sportage,2010>2016,Diesel,2.0 CRDI,184 hp,200 hp,+ 16 hp,371 Nm,450 Nm,+ 79 Nm
+Kia,Sportage,11/2004>09/2007,Diesel,2.0 CRDi vgt,140 hp,170 hp,+ 30 hp,320 Nm,365 Nm,+ 45 Nm
+Kia,Sportage,2016>2018,Gasoline,1.6T-GDI,177 hp,210 hp,+ 33 hp,265 Nm,350 Nm,+ 85 Nm
+Kia,Sportage,2007>2010,Diesel,2.0 CRDi vgt,140 hp,175 hp,+ 35 hp,305 Nm,400 Nm,+ 95 Nm
+Kia,Sportage,2007>2010,Diesel,2.0 CRDi vgt,150 hp,175 hp,+ 25 hp,305 Nm,400 Nm,+ 95 Nm
+Kia,Sportage,2010>2016,Diesel,1.7 CRDi,115 hp,150 hp,+ 35 hp,255 Nm,310 Nm,+ 55 Nm
+Kia,Sportage,2016>2018,Diesel,1.7 CRDi,115 hp,150 hp,+ 35 hp,260 Nm,310 Nm,+ 50 Nm
+Kia,Sportage,2018>...,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,280 Nm,320 Nm,+ 40 Nm
+Kia,Sportage,2010>2016,Diesel,2.0 CRDi,136 hp,170 hp,+ 34 hp,371 Nm,410 Nm,+ 39 Nm
+Kia,Stinger,2017>...,Gasoline,2.0 T-GDI,255 hp,285 hp,+ 30 hp,353 Nm,420 Nm,+ 67 Nm
+Kia,Stinger,2017>...,Diesel,2.2 CRDi,200 hp,230 hp,+ 30 hp,441 Nm,500 Nm,+ 59 Nm
+Kia,Stinger,2017>...,Gasoline,3.3 V6 Bi-Turbo,366 hp,400 hp,+ 34 hp,510 Nm,610 Nm,+ 100 Nm
+Kia,Stonic,2017>...,Gasoline,1.0 T-GDI,100 hp,140 hp,+ 40 hp,171 Nm,230 Nm,+ 59 Nm
+Kia,Stonic,2017>...,Diesel,1.6 CRDI,115 hp,160 hp,+ 45 hp,260 Nm,325 Nm,+ 65 Nm
+Kia,Stonic,2017>...,Gasoline,1.0 T-GDI,120 hp,140 hp,+ 20 hp,170 Nm,230 Nm,+ 60 Nm
+Kia,Stonic,2017>...,Diesel,1.6 CRDI,110 hp,145 hp,+ 35 hp,260 Nm,320 Nm,+ 60 Nm
+Kia,Venga,2009>...,Diesel,1.4 CRDi,77 hp,125 hp,+ 48 hp,220 Nm,290 Nm,+ 70 Nm
+Kia,Venga,2009>...,Diesel,1.6 CDRi,115 hp,145 hp,+ 30 hp,255 Nm,320 Nm,+ 65 Nm
+Kia,Venga,2009>...,Diesel,1.4 CRDI,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Kia,X-Ceed,2019>...,Gasoline,1.0 T-GDI (GPF),120 hp,140 hp,+ 20 hp,172 Nm,230 Nm,+ 58 Nm
+Kia,X-Ceed,2019>...,Gasoline,1.6 T-GDI,204 hp,220 hp,+ 16 hp,265 Nm,325 Nm,+ 60 Nm
+Kia,X-Ceed,2019>...,Diesel,1.6 CRDi,115 hp, hp,0 hp,300 Nm, Nm,0 Nm
+Kia,X-Ceed,2019>...,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,260 Nm,320 Nm,+ 60 Nm
+Kia,X-Ceed,2019>...,Gasoline,1.4 T-GDI,140 hp,170 hp,+ 30 hp,242 Nm,290 Nm,+ 48 Nm

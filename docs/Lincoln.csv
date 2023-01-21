@@ -1,0 +1,11 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Lincoln,Continental,2017>...,Gasoline,2.7T Ecoboost,325 hp,360 hp,+ 35 hp,470 Nm,550 Nm,+ 80 Nm
+Lincoln,Continental,2017>...,Gasoline,3.0T Ecoboost V6,400 hp,430 hp,+ 30 hp,540 Nm,620 Nm,+ 80 Nm
+Lincoln,MKC,2013>...,Gasoline,2.0T Ecoboost,245 hp,270 hp,+ 25 hp,370 Nm,430 Nm,+ 60 Nm
+Lincoln,MKC,2013>...,Gasoline,2.3T Ecoboost,285 hp,320 hp,+ 35 hp,410 Nm,520 Nm,+ 110 Nm
+Lincoln,MKT,2013>...,Gasoline,3.5T V6 Ecoboost,365 hp,400 hp,+ 35 hp,475 Nm,700 Nm,+ 225 Nm
+Lincoln,MKX / Nautilus,2016>...,Gasoline,2.0T Ecoboost,250 hp,270 hp,+ 20 hp,380 Nm,430 Nm,+ 50 Nm
+Lincoln,MKX / Nautilus,2016>...,Gasoline,2.7T Ecoboost,335 hp,360 hp,+ 25 hp,515 Nm,550 Nm,+ 35 Nm
+Lincoln,MKZ,2013>...,Gasoline,2.0T Ecoboost,245 hp,270 hp,+ 25 hp,370 Nm,430 Nm,+ 60 Nm
+Lincoln,MKZ,2013>...,Gasoline,3.0T Ecoboost V6,350 hp,430 hp,+ 80 hp,540 Nm,620 Nm,+ 80 Nm
+Lincoln,Navigator,2015>...,Gasoline,3.5T V6 Ecoboost,450 hp,480 hp,+ 30 hp,690 Nm,770 Nm,+ 80 Nm

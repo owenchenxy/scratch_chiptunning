@@ -1,0 +1,4 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+MAN,TGE,2017>...,Diesel,2.0 TDI,102 hp,150 hp,+ 48 hp,250 Nm,330 Nm,+ 80 Nm
+MAN,TGE,2017>...,Diesel,2.0 TDI,140 hp,175 hp,+ 35 hp,340 Nm,400 Nm,+ 60 Nm
+MAN,TGE,2017>...,Diesel,2.0 TDI,177 hp,210 hp,+ 33 hp,380 Nm,430 Nm,+ 50 Nm

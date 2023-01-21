@@ -1,0 +1,7 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Wiesmann,GT / Roadster,All,Gasoline,MF3,343 hp,365 hp,+ 22 hp,365 Nm,387 Nm,+ 22 Nm
+Wiesmann,GT / Roadster,All,Gasoline,MF4,367 hp,388 hp,+ 21 hp,490 Nm,530 Nm,+ 40 Nm
+Wiesmann,GT / Roadster,All,Gasoline,MF4,407 hp,460 hp,+ 53 hp,600 Nm,700 Nm,+ 100 Nm
+Wiesmann,GT / Roadster,All,Gasoline,MF4/S,420 hp,439 hp,+ 19 hp,400 Nm,430 Nm,+ 30 Nm
+Wiesmann,GT / Roadster,All,Gasoline,MF5,507 hp,537 hp,+ 30 hp,520 Nm,535 Nm,+ 15 Nm
+Wiesmann,GT / Roadster,All,Gasoline,MF5,555 hp,630 hp,+ 75 hp,680 Nm,800 Nm,+ 120 Nm

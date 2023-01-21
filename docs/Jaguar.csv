@@ -1,0 +1,78 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Jaguar,E-Pace,2017>...,Gasoline,P200,200 hp,230 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Jaguar,E-Pace,2017>...,Gasoline,P250,250 hp,270 hp,+ 20 hp,365 Nm,440 Nm,+ 75 Nm
+Jaguar,E-Pace,2017>...,Gasoline,P300,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Jaguar,E-Pace,2017>...,Diesel,D240,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Jaguar,E-Pace,2017>...,Diesel,D150,150 hp,190 hp,+ 40 hp,380 Nm,460 Nm,+ 80 Nm
+Jaguar,E-Pace,2017>...,Diesel,D180,180 hp,210 hp,+ 30 hp,430 Nm,490 Nm,+ 60 Nm
+Jaguar,F-Pace,2016>...,Diesel,2.0 D,180 hp,210 hp,+ 30 hp,430 Nm,490 Nm,+ 60 Nm
+Jaguar,F-Pace,2016>...,Gasoline,5.0 V8 Compresseur SVR,550 hp,570 hp,+ 20 hp,680 Nm,720 Nm,+ 40 Nm
+Jaguar,F-Pace,2016>...,Diesel,3.0 D V6,300 hp,330 hp,+ 30 hp,700 Nm,750 Nm,+ 50 Nm
+Jaguar,F-Pace,2016>...,Gasoline,3.0 V6 Supercharged,380 hp,400 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,F-Pace,2016>...,Diesel,2.0 D,163 hp,210 hp,+ 47 hp,430 Nm,490 Nm,+ 60 Nm
+Jaguar,F-Pace,2016>...,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,F-Pace,2016>...,Gasoline,2.0 T,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Jaguar,F-Pace,2016>...,Gasoline,2.0 T,240 hp,270 hp,+ 30 hp,340 Nm,440 Nm,+ 100 Nm
+Jaguar,F-Pace,2016>...,Gasoline,2.0 T,250 hp,270 hp,+ 20 hp,365 Nm,440 Nm,+ 75 Nm
+Jaguar,F-Pace,2016>...,Diesel,2.0 D,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Jaguar,F-Type / S / Project 7,2020>...,Gasoline,P450 - 5.0 V8 Supercharged,450 hp, hp,0 hp,600 Nm, Nm,0 Nm
+Jaguar,F-Type / S / Project 7,2013>2020,Gasoline,"5.0 V8 Supercharged ""Project 7""",575 hp,600 hp,+ 25 hp,680 Nm,720 Nm,+ 40 Nm
+Jaguar,F-Type / S / Project 7,2020>...,Gasoline,R - 5.0 V8 Supercharged,575 hp, hp,0 hp,700 Nm, Nm,0 Nm
+Jaguar,F-Type / S / Project 7,2020>...,Gasoline,P300 - 2.0T,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Jaguar,F-Type / S / Project 7,2013>2020,Gasoline,5.0 V8 Supercharged,550 hp,570 hp,+ 20 hp,680 Nm,720 Nm,+ 40 Nm
+Jaguar,F-Type / S / Project 7,2013>2020,Gasoline,5.0 V8 Supercharged,495 hp,550 hp,+ 55 hp,625 Nm,700 Nm,+ 75 Nm
+Jaguar,F-Type / S / Project 7,2013>2020,Gasoline,2.0 T,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Jaguar,F-Type / S / Project 7,2013>2020,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,F-Type / S / Project 7,2013>2020,Gasoline,3.0 V6 S Supercharged,380 hp,400 hp,+ 20 hp,460 Nm,500 Nm,+ 40 Nm
+Jaguar,S-Type,All,Diesel,2.7 TDV6,207 hp,240 hp,+ 33 hp,435 Nm,520 Nm,+ 85 Nm
+Jaguar,X-Type,All,Diesel,2.2 D,150 hp,185 hp,+ 35 hp,360 Nm,440 Nm,+ 80 Nm
+Jaguar,X-Type,All,Diesel,2.0 D,130 hp,165 hp,+ 35 hp,330 Nm,380 Nm,+ 50 Nm
+Jaguar,XE,2015>2019,Diesel,2.0 D,180 hp,210 hp,+ 30 hp,430 Nm,490 Nm,+ 60 Nm
+Jaguar,XE,2015>2019,Gasoline,3.0 V6 Supercharged,380 hp,400 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XE,2015>2019,Diesel,2.0 D,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Jaguar,XE,2015>2019,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XE,2015>2019,Gasoline,2.0T 300,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Jaguar,XE,2019>...,Diesel,D180,180 hp, hp,0 hp,430 Nm, Nm,0 Nm
+Jaguar,XE,2015>2019,Gasoline,2.0T 200,200 hp,230 hp,+ 30 hp,320 Nm,400 Nm,+ 80 Nm
+Jaguar,XE,2015>2019,Gasoline,2.0T 240,240 hp,270 hp,+ 30 hp,340 Nm,440 Nm,+ 100 Nm
+Jaguar,XE,2019>...,Gasoline,P250,250 hp,270 hp,+ 20 hp,365 Nm,440 Nm,+ 75 Nm
+Jaguar,XE,2015>2019,Gasoline,2.0T 250,250 hp,270 hp,+ 20 hp,365 Nm,440 Nm,+ 75 Nm
+Jaguar,XE,2015>2019,Diesel,2.0 D,163 hp,210 hp,+ 47 hp,380 Nm,490 Nm,+ 110 Nm
+Jaguar,XF,...>2015,Diesel,2.2 D,163 hp,220 hp,+ 57 hp,400 Nm,500 Nm,+ 100 Nm
+Jaguar,XF,...>2015,Diesel,2.7 TDV6,207 hp,240 hp,+ 33 hp,435 Nm,520 Nm,+ 85 Nm
+Jaguar,XF,2015>...,Diesel,2.0 D,163 hp,210 hp,+ 47 hp,380 Nm,490 Nm,+ 110 Nm
+Jaguar,XF,...>2015,Diesel,3.0d,211 hp,290 hp,+ 79 hp,450 Nm,570 Nm,+ 120 Nm
+Jaguar,XF,...>2015,Gasoline,5.0 V8 Supercharged,510 hp,560 hp,+ 50 hp,625 Nm,700 Nm,+ 75 Nm
+Jaguar,XF,...>2015,Diesel,2.2 D,200 hp,220 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XF,...>2015,Diesel,2.2 D,190 hp,220 hp,+ 30 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XF,2015>...,Diesel,2.0 D,240 hp,260 hp,+ 20 hp,500 Nm,550 Nm,+ 50 Nm
+Jaguar,XF,2015>...,Gasoline,3.0 V6 Supercharged,380 hp,400 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XF,2015>...,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XF,2015>...,Diesel,3.0 D,300 hp,340 hp,+ 40 hp,700 Nm,780 Nm,+ 80 Nm
+Jaguar,XF,2015>...,Diesel,2.0 D,180 hp,210 hp,+ 30 hp,430 Nm,490 Nm,+ 60 Nm
+Jaguar,XF,...>2015,Diesel,3.0d,275 hp,315 hp,+ 40 hp,600 Nm,650 Nm,+ 50 Nm
+Jaguar,XF,...>2015,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XF,2015>...,Gasoline,2.0 T,300 hp,320 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Jaguar,XF,2015>...,Gasoline,2.0 T,240 hp,270 hp,+ 30 hp,340 Nm,440 Nm,+ 100 Nm
+Jaguar,XF,...>2015,Gasoline,5.0 V8,385 hp,405 hp,+ 20 hp,515 Nm,540 Nm,+ 25 Nm
+Jaguar,XF,2015>...,Gasoline,2.0 T,250 hp,270 hp,+ 20 hp,365 Nm,440 Nm,+ 75 Nm
+Jaguar,XF,...>2015,Diesel,3.0d,240 hp,290 hp,+ 50 hp,500 Nm,575 Nm,+ 75 Nm
+Jaguar,XF,...>2015,Gasoline,5.0 V8 Supercharged,470 hp,560 hp,+ 90 hp,575 Nm,700 Nm,+ 125 Nm
+Jaguar,XF,...>2015,Gasoline,4.2 V8 Supercharged,416 hp,470 hp,+ 54 hp,560 Nm,650 Nm,+ 90 Nm
+Jaguar,XFR-S,All,Gasoline,5.0 V8 Supercharged,550 hp,570 hp,+ 20 hp,680 Nm,720 Nm,+ 40 Nm
+Jaguar,XJ,2015>...,Gasoline,5.0 V8 Supercharged XJR,575 hp,600 hp,+ 25 hp,700 Nm,730 Nm,+ 30 Nm
+Jaguar,XJ,2015>...,Gasoline,2.0T 240,240 hp,270 hp,+ 30 hp,340 Nm,440 Nm,+ 100 Nm
+Jaguar,XJ,...>2015,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XJ,2015>...,Gasoline,3.0 V6 Supercharged,340 hp,400 hp,+ 60 hp,450 Nm,500 Nm,+ 50 Nm
+Jaguar,XJ,...>2015,Gasoline,4.2 V8 Supercharged,400 hp,470 hp,+ 70 hp,541 Nm,630 Nm,+ 89 Nm
+Jaguar,XJ,2015>...,Gasoline,5.0 V8 Supercharged,550 hp,570 hp,+ 20 hp,680 Nm,720 Nm,+ 40 Nm
+Jaguar,XJ,...>2015,Diesel,3.0D,275 hp,315 hp,+ 40 hp,600 Nm,650 Nm,+ 50 Nm
+Jaguar,XJ,...>2015,Diesel,2.7 TDV6,207 hp,240 hp,+ 33 hp,435 Nm,520 Nm,+ 85 Nm
+Jaguar,XJ,...>2015,Gasoline,5.0 V8,385 hp,405 hp,+ 20 hp,515 Nm,540 Nm,+ 25 Nm
+Jaguar,XJ,2015>...,Diesel,3.0D,300 hp,330 hp,+ 30 hp,700 Nm,780 Nm,+ 80 Nm
+Jaguar,XJ,...>2015,Gasoline,5.0 V8 Supercharged,510 hp,560 hp,+ 50 hp,625 Nm,700 Nm,+ 75 Nm
+Jaguar,XK coupé,All,Gasoline,5.0 V8 Supercharged,510 hp,550 hp,+ 40 hp,625 Nm,700 Nm,+ 75 Nm
+Jaguar,XK coupé,All,Gasoline,5.0 V8,385 hp,405 hp,+ 20 hp,515 Nm,540 Nm,+ 25 Nm
+Jaguar,XKR,All,Gasoline,4.2 V8 Supercharged,416 hp,470 hp,+ 54 hp,560 Nm,650 Nm,+ 90 Nm
+Jaguar,XKR,All,Gasoline,5.0 V8 Supercharged,510 hp,550 hp,+ 40 hp,625 Nm,700 Nm,+ 75 Nm
+Jaguar,XKR-S,All,Gasoline,5.0 V8 Supercharged,550 hp,570 hp,+ 20 hp,680 Nm,720 Nm,+ 40 Nm

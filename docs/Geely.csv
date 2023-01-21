@@ -1,0 +1,3 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Geely,Boyue,2018>...,Gasoline,1.8 T-GDI,161 hp,205 hp,+ 44 hp,250 Nm,320 Nm,+ 70 Nm
+Geely,Boyue,2018>...,Gasoline,1.8 T-GDI,181 hp,205 hp,+ 24 hp,285 Nm,320 Nm,+ 35 Nm

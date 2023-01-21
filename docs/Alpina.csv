@@ -1,0 +1,26 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Alpina,B3,...>2018,Gasoline,3.5  i,360 hp,400 hp,+ 40 hp,500 Nm,560 Nm,+ 60 Nm
+Alpina,B3,...>2018,Gasoline,B3 Biturbo,410 hp,450 hp,+ 40 hp,600 Nm,680 Nm,+ 80 Nm
+Alpina,B3,2019>...,Gasoline,3.0 Bi-Turbo,462 hp,490 hp,+ 28 hp,700 Nm,760 Nm,+ 60 Nm
+Alpina,B3 S,All,Gasoline,3.5  i,400 hp,450 hp,+ 50 hp,540 Nm,600 Nm,+ 60 Nm
+Alpina,B4,All,Gasoline,B4 Biturbo,410 hp,450 hp,+ 40 hp,600 Nm,680 Nm,+ 80 Nm
+Alpina,B5,2010>2012,Gasoline,4.4 V8 Supercharged,507 hp,527 hp,+ 20 hp,700 Nm,730 Nm,+ 30 Nm
+Alpina,B5,2010>2012,Gasoline,B5 Bi-Turbo,540 hp,575 hp,+ 35 hp,730 Nm,800 Nm,+ 70 Nm
+Alpina,B5,2017>...,Gasoline,4.4 V8 Bi-Turbo,608 hp,680 hp,+ 72 hp,800 Nm,900 Nm,+ 100 Nm
+Alpina,B6,All,Gasoline,4.4  V8 Bi-turbo,500 hp,600 hp,+ 100 hp,700 Nm,800 Nm,+ 100 Nm
+Alpina,B6,All,Gasoline,B6 Biturbo,540 hp,575 hp,+ 35 hp,730 Nm,800 Nm,+ 70 Nm
+Alpina,B6,All,Gasoline,4.4 V8 Bi-turbo,600 hp,680 hp,+ 80 hp,800 Nm,850 Nm,+ 50 Nm
+Alpina,B6 S,All,Gasoline,4.4  V8 Bi-turbo,530 hp,600 hp,+ 70 hp,725 Nm,800 Nm,+ 75 Nm
+Alpina,B7,2011>2016,Gasoline,B7 Bi-Turbo,540 hp,575 hp,+ 35 hp,730 Nm,800 Nm,+ 70 Nm
+Alpina,B7,2017>...,Gasoline,4.4 V8 Bi-Turbo,608 hp,680 hp,+ 72 hp,800 Nm,900 Nm,+ 100 Nm
+Alpina,B7,2011>2016,Gasoline,B7 Bi-Turbo,507 hp,600 hp,+ 93 hp,700 Nm,800 Nm,+ 100 Nm
+Alpina,D3,All,Diesel,2.0d,214 hp,265 hp,+ 51 hp,450 Nm,480 Nm,+ 30 Nm
+Alpina,D3,All,Diesel,2.0d,200 hp,230 hp,+ 30 hp,410 Nm,460 Nm,+ 50 Nm
+Alpina,D3,All,Diesel,D3 Biturbo,350 hp,395 hp,+ 45 hp,700 Nm,750 Nm,+ 50 Nm
+Alpina,D4,All,Diesel,D4 Biturbo,350 hp,395 hp,+ 45 hp,700 Nm,750 Nm,+ 50 Nm
+Alpina,D5,2012>...,Diesel,D5 Biturbo,350 hp,395 hp,+ 45 hp,700 Nm,750 Nm,+ 50 Nm
+Alpina,D5 S,2017>...,Diesel,3.0D,388 hp,450 hp,+ 62 hp,770 Nm,850 Nm,+ 80 Nm
+Alpina,XB7,2020>...,Gasoline,4.4 V8 Bi-Turbo,621 hp, hp,0 hp,800 Nm, Nm,0 Nm
+Alpina,XD3,2015>2018,Diesel,XD3 Biturbo,350 hp,395 hp,+ 45 hp,700 Nm,750 Nm,+ 50 Nm
+Alpina,XD3,2018>...,Diesel,3.0D,388 hp,450 hp,+ 62 hp,770 Nm,850 Nm,+ 80 Nm
+Alpina,XD4,2018>...,Diesel,3.0D,388 hp,450 hp,+ 62 hp,770 Nm,850 Nm,+ 80 Nm

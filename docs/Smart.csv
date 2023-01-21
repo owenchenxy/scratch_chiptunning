@@ -1,0 +1,28 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Smart,City,2002>2004,Gasoline,1L Turbo,84 hp,110 hp,+ 26 hp,120 Nm,160 Nm,+ 40 Nm
+Smart,City,2002>2004,Gasoline,1L Turbo Brabus,98 hp,120 hp,+ 22 hp,140 Nm,162 Nm,+ 22 Nm
+Smart,City,2002>2004,Diesel,0.8 CDi,45 hp,66 hp,+ 21 hp,110 Nm,155 Nm,+ 45 Nm
+Smart,Crossblade,2002>2003,Gasoline,0.6L,71 hp,82 hp,+ 11 hp,108 Nm,125 Nm,+ 17 Nm
+Smart,ForFour,2005>2014,Diesel,1.5 CDi,95 hp,116 hp,+ 21 hp,210 Nm,260 Nm,+ 50 Nm
+Smart,ForFour,2014>...,Gasoline,0.9 T,90 hp,100 hp,+ 10 hp,135 Nm,155 Nm,+ 20 Nm
+Smart,ForFour,2005>2014,Gasoline,1.5 Turbo,177 hp,180 hp,+ 3 hp,230 Nm,270 Nm,+ 40 Nm
+Smart,ForFour,2014>...,Gasoline,1.0,61 hp,69 hp,+ 8 hp,91 Nm,105 Nm,+ 14 Nm
+Smart,ForFour,2014>...,Gasoline,1.0,71 hp,79 hp,+ 8 hp,91 Nm,105 Nm,+ 14 Nm
+Smart,ForFour,2005>2014,Diesel,1.5 CDi,68 hp,92 hp,+ 24 hp,160 Nm,210 Nm,+ 50 Nm
+Smart,ForTwo,2007>2014,Diesel,0.8 CDi,41 hp,61 hp,+ 20 hp,100 Nm,135 Nm,+ 35 Nm
+Smart,ForTwo,2007>2014,Gasoline,Ultimate 112,112 hp,120 hp,+ 8 hp,150 Nm,170 Nm,+ 20 Nm
+Smart,ForTwo,2014>2020,Diesel,0.8 CDI,54 hp, hp,0 hp,130 Nm, Nm,0 Nm
+Smart,ForTwo,2007>2014,Gasoline,1L - Turbo - Brabus,102 hp,115 hp,+ 13 hp,147 Nm,165 Nm,+ 18 Nm
+Smart,ForTwo,2014>2020,Gasoline,1.0,71 hp,79 hp,+ 8 hp,91 Nm,105 Nm,+ 14 Nm
+Smart,ForTwo,2007>2014,Gasoline,1L - Turbo - Brabus,98 hp,115 hp,+ 17 hp,140 Nm,165 Nm,+ 25 Nm
+Smart,ForTwo,2007>2014,Gasoline,1L Turbo,84 hp,115 hp,+ 31 hp,120 Nm,165 Nm,+ 45 Nm
+Smart,ForTwo,2007>2014,Diesel,0.8 CDi,45 hp,66 hp,+ 21 hp,110 Nm,155 Nm,+ 45 Nm
+Smart,ForTwo,2014>2020,Gasoline,1.0,61 hp,69 hp,+ 8 hp,91 Nm,105 Nm,+ 14 Nm
+Smart,ForTwo,2014>2020,Gasoline,0.9T Brabus,109 hp,120 hp,+ 11 hp,170 Nm,190 Nm,+ 20 Nm
+Smart,ForTwo,2007>2014,Gasoline,1.0i,71 hp,79 hp,+ 8 hp,89 Nm,105 Nm,+ 16 Nm
+Smart,ForTwo,2014>2020,Gasoline,0.9 T,90 hp,110 hp,+ 20 hp,135 Nm,160 Nm,+ 25 Nm
+Smart,ForTwo,2007>2014,Gasoline,1.0i,61 hp,67 hp,+ 6 hp,92 Nm,102 Nm,+ 10 Nm
+Smart,ForTwo,2007>2014,Diesel,0.8 CDi,54 hp,73 hp,+ 19 hp,130 Nm,170 Nm,+ 40 Nm
+Smart,Roadster,07/2003>04/2006,Gasoline,0.7 Turbo Brabus,101 hp,122 hp,+ 21 hp,130 Nm,160 Nm,+ 30 Nm
+Smart,Roadster,07/2003>04/2006,Gasoline,0.7 Turbo,62 hp,79 hp,+ 17 hp,95 Nm,125 Nm,+ 30 Nm
+Smart,Roadster,07/2003>04/2006,Gasoline,0.7 Turbo,82 hp,102 hp,+ 20 hp,110 Nm,135 Nm,+ 25 Nm

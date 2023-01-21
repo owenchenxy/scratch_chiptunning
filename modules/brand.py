@@ -2,23 +2,22 @@
 #-*- coding: utf-8 -*-
 
 from modules.spider import Spider
+import sys
 
-class Brand(Spider):
+class Brand(object):
     def __init__(self, brand_url):
-        super(Brand, self).__init__()
+        #super(Brand, self).__init__()
         self.relative_brand_url = brand_url
-        self.brand_url = "{0}{1}".format(self.base_url, brand_url)
-        self.soup = self.get_soup(self.brand_url)
+        self.brand_url = "{0}{1}".format(Spider.base_url, brand_url)
+        self.soup = Spider.get_soup(self.brand_url)
         self.model_urls = list()
         self.brand_name = ""
         self.get_model_urls()
         self.get_brand_name()
         
     def get_model_urls(self):
-        items = self.soup.find('ul', {"class": "content"}).find_all('a')
-        for i in items:
+        for i in self.soup.find('ul', {"class": "content"}).find_all('a'):
             self.model_urls.append(i.get('href'))
 
     def get_brand_name(self):
-        item = self.soup.find('article').find('h2')
-        self.brand_name = item.get_text()
+        self.brand_name = self.soup.find('article').find('h2').get_text()

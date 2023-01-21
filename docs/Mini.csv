@@ -1,0 +1,124 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Mini,Clubman,2007>2010,Diesel,1.6 D,110 hp,140 hp,+ 30 hp,240 Nm,310 Nm,+ 70 Nm
+Mini,Clubman,2019>...,Diesel,2.0 D,150 hp,190 hp,+ 40 hp,350 Nm,400 Nm,+ 50 Nm
+Mini,Clubman,2015>2019,Gasoline,2.0 T - JCW,231 hp,280 hp,+ 49 hp,350 Nm,400 Nm,+ 50 Nm
+Mini,Clubman,2007>2010,Gasoline,1.6 Turbo,163 hp,205 hp,+ 42 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Clubman,2015>2019,Gasoline,1.5 T,136 hp,165 hp,+ 29 hp,220 Nm,300 Nm,+ 80 Nm
+Mini,Clubman,2010>2015,Gasoline,1.6 Turbo,184 hp,210 hp,+ 26 hp,240 Nm,320 Nm,+ 80 Nm
+Mini,Clubman,2019>...,Gasoline,1.5T (GPF),102 hp,165 hp,+ 63 hp,190 Nm,300 Nm,+ 110 Nm
+Mini,Clubman,2010>2015,Diesel,1.6 D,112 hp,140 hp,+ 28 hp,270 Nm,320 Nm,+ 50 Nm
+Mini,Clubman,2007>2010,Gasoline,1.6 Turbo JCW,211 hp,230 hp,+ 19 hp,270 Nm,340 Nm,+ 70 Nm
+Mini,Clubman,2007>2010,Gasoline,1.6 Turbo,174 hp,205 hp,+ 31 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Clubman,2015>2019,Gasoline,2.0 T - S,192 hp,260 hp,+ 68 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Clubman,2019>...,Diesel,1.5 D,116 hp,150 hp,+ 34 hp,270 Nm,330 Nm,+ 60 Nm
+Mini,Clubman,2010>2015,Gasoline,1.6 DFI,120 hp,130 hp,+ 10 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Clubman,2019>...,Gasoline,1.5T (GPF),136 hp,165 hp,+ 29 hp,230 Nm,300 Nm,+ 70 Nm
+Mini,Clubman,2015>2019,Gasoline,2.0T,163 hp,260 hp,+ 97 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Clubman,2010>2015,Diesel,1.6 D,90 hp,140 hp,+ 50 hp,215 Nm,320 Nm,+ 105 Nm
+Mini,Clubman,2019>...,Gasoline,2.0T - JCW (GPF),306 hp,335 hp,+ 29 hp,450 Nm,500 Nm,+ 50 Nm
+Mini,Clubman,2007>2010,Gasoline,1.6 Turbo,184 hp,210 hp,+ 26 hp,240 Nm,320 Nm,+ 80 Nm
+Mini,Clubman,2010>2015,Gasoline,1.6 DFI,115 hp,130 hp,+ 15 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Clubman,2015>2019,Diesel,1.5 D,116 hp,150 hp,+ 34 hp,270 Nm,330 Nm,+ 60 Nm
+Mini,Clubman,2010>2015,Gasoline,1.6 Turbo,163 hp,210 hp,+ 47 hp,240 Nm,320 Nm,+ 80 Nm
+Mini,Clubman,2015>2019,Diesel,2.0 SD,190 hp,220 hp,+ 30 hp,400 Nm,440 Nm,+ 40 Nm
+Mini,Clubman,2010>2015,Gasoline,1.6 DFI,98 hp,130 hp,+ 32 hp,153 Nm,175 Nm,+ 22 Nm
+Mini,Clubman,2019>...,Gasoline,2.0T - S (GPF),192 hp,250 hp,+ 58 hp,300 Nm,400 Nm,+ 100 Nm
+Mini,Clubman,2015>2019,Diesel,2.0 D,150 hp,190 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Mini,Clubman,2019>...,Diesel,2.0 SD,190 hp,220 hp,+ 30 hp,400 Nm,440 Nm,+ 40 Nm
+Mini,Clubman,2010>2015,Diesel,2.0 D,143 hp,180 hp,+ 37 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Clubman,2015>2019,Gasoline,1.5 T,102 hp,165 hp,+ 63 hp,180 Nm,300 Nm,+ 120 Nm
+Mini,Cooper,2007>2010,Gasoline,1.6 DFI,122 hp,130 hp,+ 8 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Cooper,2002>2007,Gasoline,1.6i,115 hp,125 hp,+ 10 hp,149 Nm,165 Nm,+ 16 Nm
+Mini,Cooper,2010>2014,Gasoline,1.6 DFI,115 hp,135 hp,+ 20 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Cooper,2018>...,Gasoline,1.5 Turbo,136 hp,165 hp,+ 29 hp,220 Nm,300 Nm,+ 80 Nm
+Mini,Cooper,03/2014>2018,Gasoline,1.5 Turbo,136 hp,165 hp,+ 29 hp,220 Nm,300 Nm,+ 80 Nm
+Mini,Cooper,2010>2014,Gasoline,1.6 DFI,122 hp,135 hp,+ 13 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Cooper,03/2014>2018,Diesel,1.5 D,116 hp,150 hp,+ 34 hp,270 Nm,330 Nm,+ 60 Nm
+Mini,Cooper,2018>...,Diesel,1.5 D,116 hp,150 hp,+ 34 hp,270 Nm,330 Nm,+ 60 Nm
+Mini,Cooper,2007>2010,Diesel,1.6 D,109 hp,140 hp,+ 31 hp,240 Nm,310 Nm,+ 70 Nm
+Mini,Cooper,2010>2014,Diesel,1.6 D,112 hp,140 hp,+ 28 hp,270 Nm,320 Nm,+ 50 Nm
+Mini,Cooper,2010>2014,Diesel,2.0 D,112 hp,180 hp,+ 68 hp,270 Nm,400 Nm,+ 130 Nm
+Mini,Cooper S ...,2002>2007,Gasoline,1.6 Comp - GP,218 hp,225 hp,+ 7 hp,250 Nm,260 Nm,+ 10 Nm
+Mini,Cooper S ...,2002>2007,Gasoline,1.6 Comp - S,163 hp,200 hp,+ 37 hp,210 Nm,250 Nm,+ 40 Nm
+Mini,Cooper S ...,2018>...,Gasoline,2.0 T - S (GPF),163 hp,230 hp,+ 67 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Cooper S ...,03/2014>2018,Gasoline,2.0T JCW,231 hp,280 hp,+ 49 hp,320 Nm,400 Nm,+ 80 Nm
+Mini,Cooper S ...,2018>...,Gasoline,2.0 T - JCW (GPF),231 hp,265 hp,+ 34 hp,320 Nm,420 Nm,+ 100 Nm
+Mini,Cooper S ...,2002>2007,Gasoline,1.6 Comp - JCW,210 hp,225 hp,+ 15 hp,240 Nm,260 Nm,+ 20 Nm
+Mini,Cooper S ...,2018>...,Gasoline,2.0 T - JCW GP (GPF),306 hp,335 hp,+ 29 hp,450 Nm,500 Nm,+ 50 Nm
+Mini,Cooper S ...,2007>2014,Gasoline,S,163 hp,205 hp,+ 42 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Cooper S ...,2007>2014,Gasoline,JCW,211 hp,230 hp,+ 19 hp,270 Nm,340 Nm,+ 70 Nm
+Mini,Cooper S ...,2007>2014,Gasoline,GP2,218 hp,230 hp,+ 12 hp,280 Nm,340 Nm,+ 60 Nm
+Mini,Cooper S ...,2007>2014,Gasoline,S - (Kit JCW),192 hp,205 hp,+ 13 hp,260 Nm,300 Nm,+ 40 Nm
+Mini,Cooper S ...,2018>...,Gasoline,2.0 T - S (GPF),192 hp,250 hp,+ 58 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Cooper S ...,2018>...,Gasoline,2.0 T - S,192 hp,260 hp,+ 68 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Cooper S ...,2007>2014,Gasoline,S,184 hp,210 hp,+ 26 hp,240 Nm,340 Nm,+ 100 Nm
+Mini,Cooper S ...,2002>2007,Gasoline,1.6 Comp - S,170 hp,200 hp,+ 30 hp,210 Nm,250 Nm,+ 40 Nm
+Mini,Cooper S ...,2007>2014,Gasoline,S,175 hp,205 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Cooper S ...,03/2014>2018,Gasoline,2.0T,192 hp,260 hp,+ 68 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Cooper S ...,03/2014>2018,Gasoline,2.0T (Kit JCW Pro),211 hp,260 hp,+ 49 hp,300 Nm,400 Nm,+ 100 Nm
+Mini,Cooper S ...,2018>...,Gasoline,2.0 T - JCW,231 hp,280 hp,+ 49 hp,320 Nm,400 Nm,+ 80 Nm
+Mini,Cooper S ...,03/2014>2018,Gasoline,2.0T,163 hp,260 hp,+ 97 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Cooper S ...,2007>2014,Gasoline,S - (Kit JCW),200 hp,210 hp,+ 10 hp,270 Nm,340 Nm,+ 70 Nm
+Mini,Cooper S D ...,03/2014>2018,Diesel,2.0 D Twin Power,170 hp,220 hp,+ 50 hp,360 Nm,440 Nm,+ 80 Nm
+Mini,Cooper S D ...,2018>...,Diesel,2.0 D Twin Power,170 hp,220 hp,+ 50 hp,360 Nm,440 Nm,+ 80 Nm
+Mini,Cooper S D ...,2010>2014,Diesel,2.0 D,143 hp,180 hp,+ 37 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Cooper S D ...,2010>2014,Diesel,2.0 D,136 hp,180 hp,+ 44 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Countryman,2009>2016,Gasoline,1.6 DFI,122 hp,130 hp,+ 8 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Countryman,2009>2016,Diesel,1.6 D,90 hp,140 hp,+ 50 hp,215 Nm,320 Nm,+ 105 Nm
+Mini,Countryman,2017>...,Diesel,2.0 SD,190 hp,220 hp,+ 30 hp,400 Nm,440 Nm,+ 40 Nm
+Mini,Countryman,2009>2016,Diesel,2.0 D,143 hp,180 hp,+ 37 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Countryman,2009>2016,Gasoline,1.6 DFI,98 hp,130 hp,+ 32 hp,153 Nm,175 Nm,+ 22 Nm
+Mini,Countryman,2009>2016,Gasoline,1.6 T JCW,215 hp,230 hp,+ 15 hp,280 Nm,340 Nm,+ 60 Nm
+Mini,Countryman,2017>...,Diesel,2.0 D,150 hp,190 hp,+ 40 hp,330 Nm,400 Nm,+ 70 Nm
+Mini,Countryman,2009>2016,Diesel,1.6 D,112 hp,140 hp,+ 28 hp,270 Nm,320 Nm,+ 50 Nm
+Mini,Countryman,2017>...,Gasoline,1.5 T One,102 hp,165 hp,+ 63 hp,180 Nm,300 Nm,+ 120 Nm
+Mini,Countryman,2017>...,Gasoline,2.0T - JCW (GPF),306 hp,335 hp,+ 29 hp,450 Nm,500 Nm,+ 50 Nm
+Mini,Countryman,2017>...,Gasoline,2.0 T - S,192 hp,260 hp,+ 68 hp,280 Nm,400 Nm,+ 120 Nm
+Mini,Countryman,2009>2016,Gasoline,1.6 T,184 hp,210 hp,+ 26 hp,240 Nm,330 Nm,+ 90 Nm
+Mini,Countryman,2009>2016,Gasoline,1.6 DFI,115 hp,130 hp,+ 15 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Countryman,2017>...,Diesel,1.5 D One,116 hp,150 hp,+ 34 hp,270 Nm,330 Nm,+ 60 Nm
+Mini,Countryman,2017>...,Gasoline,2.0 T - JCW,231 hp,280 hp,+ 49 hp,350 Nm,400 Nm,+ 50 Nm
+Mini,Countryman,2009>2016,Gasoline,1.6 T,163 hp,205 hp,+ 42 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Countryman,2009>2016,Diesel,2.0 D,112 hp,180 hp,+ 68 hp,270 Nm,400 Nm,+ 130 Nm
+Mini,Countryman,2017>...,Gasoline,1.5 T,136 hp,165 hp,+ 29 hp,220 Nm,300 Nm,+ 80 Nm
+Mini,One / One D / Minimalist,2018>...,Diesel,1.5 D,95 hp,150 hp,+ 55 hp,220 Nm,330 Nm,+ 110 Nm
+Mini,One / One D / Minimalist,2010>2014,Diesel,1.6 D,90 hp,140 hp,+ 50 hp,215 Nm,320 Nm,+ 105 Nm
+Mini,One / One D / Minimalist,2002>2007,Gasoline,One 1.6i,90 hp,125 hp,+ 35 hp,140 Nm,165 Nm,+ 25 Nm
+Mini,One / One D / Minimalist,2018>...,Gasoline,1.5 T,102 hp,170 hp,+ 68 hp,180 Nm,280 Nm,+ 100 Nm
+Mini,One / One D / Minimalist,2018>...,Gasoline,1.2 T,75 hp,150 hp,+ 75 hp,180 Nm,260 Nm,+ 80 Nm
+Mini,One / One D / Minimalist,2007>2010,Gasoline,One 1.6 DFI,98 hp,125 hp,+ 27 hp,153 Nm,173 Nm,+ 20 Nm
+Mini,One / One D / Minimalist,06/2014>2018,Gasoline,1.2 T,102 hp,150 hp,+ 48 hp,180 Nm,260 Nm,+ 80 Nm
+Mini,One / One D / Minimalist,06/2014>2018,Gasoline,1.2 T,75 hp,150 hp,+ 75 hp,180 Nm,260 Nm,+ 80 Nm
+Mini,One / One D / Minimalist,2010>2014,Gasoline,1.6 DFI,75 hp,135 hp,+ 60 hp,122 Nm,175 Nm,+ 53 Nm
+Mini,One / One D / Minimalist,2002>2007,Diesel,One 1.4 D,88 hp,110 hp,+ 22 hp,190 Nm,230 Nm,+ 40 Nm
+Mini,One / One D / Minimalist,2007>2010,Diesel,One 1.6D,90 hp,140 hp,+ 50 hp,210 Nm,310 Nm,+ 100 Nm
+Mini,One / One D / Minimalist,2018>...,Gasoline,1.2 T,102 hp,150 hp,+ 48 hp,180 Nm,260 Nm,+ 80 Nm
+Mini,One / One D / Minimalist,06/2014>2018,Gasoline,1.5 T,102 hp,170 hp,+ 68 hp,180 Nm,280 Nm,+ 100 Nm
+Mini,One / One D / Minimalist,2010>2014,Gasoline,1.4 DFI,75 hp,95 hp,+ 20 hp,120 Nm,142 Nm,+ 22 Nm
+Mini,One / One D / Minimalist,2007>2010,Gasoline,One 1.4 DFI,75 hp,105 hp,+ 30 hp,120 Nm,150 Nm,+ 30 Nm
+Mini,One / One D / Minimalist,2002>2007,Diesel,One 1.4 D,75 hp,100 hp,+ 25 hp,180 Nm,225 Nm,+ 45 Nm
+Mini,One / One D / Minimalist,06/2014>2018,Diesel,1.5 D,95 hp,150 hp,+ 55 hp,220 Nm,330 Nm,+ 110 Nm
+Mini,One / One D / Minimalist,2018>...,Gasoline,1.5T,75 hp,170 hp,+ 95 hp,160 Nm,280 Nm,+ 120 Nm
+Mini,One / One D / Minimalist,2010>2014,Gasoline,1.6 DFI,115 hp,135 hp,+ 20 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,One / One D / Minimalist,2010>2014,Gasoline,1.6 DFI,122 hp,135 hp,+ 13 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,One / One D / Minimalist,2010>2014,Gasoline,1.6 DFI,98 hp,135 hp,+ 37 hp,153 Nm,175 Nm,+ 22 Nm
+Mini,One / One D / Minimalist,2007>2010,Gasoline,One 1.4 DFI,95 hp,105 hp,+ 10 hp,140 Nm,150 Nm,+ 10 Nm
+Mini,Paceman,2012>...,Gasoline,1.6 Turbo,190 hp,210 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Mini,Paceman,2012>...,Gasoline,1.6 Turbo,184 hp,205 hp,+ 21 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Paceman,2012>...,Gasoline,1.6 Turbo JCW,218 hp,230 hp,+ 12 hp,260 Nm,340 Nm,+ 80 Nm
+Mini,Paceman,2012>...,Diesel,1.6D,112 hp,140 hp,+ 28 hp,270 Nm,320 Nm,+ 50 Nm
+Mini,Paceman,2012>...,Diesel,2.0D,112 hp,180 hp,+ 68 hp,270 Nm,400 Nm,+ 130 Nm
+Mini,Paceman,2012>...,Diesel,2.0D,143 hp,180 hp,+ 37 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Paceman,2012>...,Gasoline,1.6 Turbo,163 hp,205 hp,+ 42 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Paceman,2012>...,Gasoline,1.6 DFi,122 hp,130 hp,+ 8 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Paceman,2012>...,Gasoline,1.6 DFi,115 hp,130 hp,+ 15 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Paceman,2012>...,Diesel,2.0D,136 hp,180 hp,+ 44 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Roadster/Coupé,2011>...,Gasoline,1.6 DFi,115 hp,130 hp,+ 15 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Roadster/Coupé,2011>...,Diesel,2.0 SD,136 hp,180 hp,+ 44 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Roadster/Coupé,2011>...,Gasoline,1.6 Turbo,163 hp,205 hp,+ 42 hp,240 Nm,300 Nm,+ 60 Nm
+Mini,Roadster/Coupé,2011>...,Gasoline,1.6 DFi,75 hp,130 hp,+ 55 hp,122 Nm,175 Nm,+ 53 Nm
+Mini,Roadster/Coupé,2011>...,Gasoline,1.6 DFi,98 hp,130 hp,+ 32 hp,153 Nm,175 Nm,+ 22 Nm
+Mini,Roadster/Coupé,2011>...,Gasoline,1.6 DFi,122 hp,130 hp,+ 8 hp,160 Nm,175 Nm,+ 15 Nm
+Mini,Roadster/Coupé,2011>...,Diesel,2.0 SD,143 hp,180 hp,+ 37 hp,305 Nm,400 Nm,+ 95 Nm
+Mini,Roadster/Coupé,2011>...,Gasoline,1.6 Turbo JCW,211 hp,230 hp,+ 19 hp,260 Nm,340 Nm,+ 80 Nm
+Mini,Roadster/Coupé,2011>...,Gasoline,1.6 Turbo,184 hp,210 hp,+ 26 hp,240 Nm,340 Nm,+ 100 Nm

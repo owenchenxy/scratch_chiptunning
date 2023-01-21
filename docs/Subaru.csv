@@ -1,0 +1,10 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Subaru,BRZ,2012>...,Gasoline,2.0i,200 hp,215 hp,+ 15 hp,205 Nm,220 Nm,+ 15 Nm
+Subaru,Forester,2008>2016,Diesel,2.0 D Boxer,147 hp,180 hp,+ 33 hp,350 Nm,400 Nm,+ 50 Nm
+Subaru,Forester,2008>2016,Diesel,2.0 D Boxer,150 hp,180 hp,+ 30 hp,350 Nm,400 Nm,+ 50 Nm
+Subaru,Impreza,2008>...,Diesel,2.0 Boxer D,150 hp,180 hp,+ 30 hp,350 Nm,400 Nm,+ 50 Nm
+Subaru,Legacy,2008>...,Diesel,2.0 D Boxer,150 hp,180 hp,+ 30 hp,350 Nm,400 Nm,+ 50 Nm
+Subaru,Levorg,2015>...,Gasoline,1.6 Turbo,170 hp,190 hp,+ 20 hp,250 Nm,300 Nm,+ 50 Nm
+Subaru,Outback,All,Diesel,2.0 D Boxer,150 hp,180 hp,+ 30 hp,350 Nm,400 Nm,+ 50 Nm
+Subaru,Trezia,2011>...,Diesel,1.4 D,90 hp,115 hp,+ 25 hp,205 Nm,260 Nm,+ 55 Nm
+Subaru,XV,All,Diesel,2.0 D Boxer,147 hp,180 hp,+ 33 hp,350 Nm,400 Nm,+ 50 Nm

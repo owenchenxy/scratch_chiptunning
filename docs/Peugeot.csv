@@ -1,0 +1,296 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Peugeot,1007,2004>2011,Diesel,1.4 HDi,70 hp,95 hp,+ 25 hp,160 Nm,208 Nm,+ 48 Nm
+Peugeot,1007,2004>2011,Diesel,1.6 HDi,110 hp,135 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,107,2005>2014,Diesel,1.4 HDi,55 hp,85 hp,+ 30 hp,130 Nm,170 Nm,+ 40 Nm
+Peugeot,2008,2020>...,Gasoline,1.2 PureTech (GPF),100 hp,145 hp,+ 45 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,2008,2013>2016,Diesel,1.6 e-HDI,115 hp,140 hp,+ 25 hp,285 Nm,330 Nm,+ 45 Nm
+Peugeot,2008,10/2016>2020,Diesel,1.6 BlueHDi,75 hp,120 hp,+ 45 hp,230 Nm,280 Nm,+ 50 Nm
+Peugeot,2008,2020>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,2008,10/2016>2020,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,2008,2020>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Peugeot,2008,10/2016>2020,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,2008,2013>2016,Diesel,1.6 e-HDI,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Peugeot,2008,2020>...,Gasoline,1.2 PureTech (GPF),155 hp,175 hp,+ 20 hp,240 Nm,270 Nm,+ 30 Nm
+Peugeot,2008,10/2016>2020,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Peugeot,2008,2013>2016,Diesel,1.6 BlueHDI,75 hp,120 hp,+ 45 hp,230 Nm,280 Nm,+ 50 Nm
+Peugeot,2008,2013>2016,Diesel,1.4 e-HDI,68 hp,90 hp,+ 22 hp,160 Nm,210 Nm,+ 50 Nm
+Peugeot,2008,10/2016>2020,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,2008,2013>2016,Gasoline,1.6 VTI,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Peugeot,2008,10/2016>2020,Diesel,1.6 BlueHDi,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Peugeot,2008,2013>2016,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Peugeot,2008,10/2016>2020,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Peugeot,2008,2013>2016,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,2008,2013>2016,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,2008,2013>2016,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Peugeot,2008,10/2016>2020,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,2008,10/2016>2020,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,2008,2020>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,206,2000>2011,Diesel,1.4 HDi,68 hp,90 hp,+ 22 hp,160 Nm,210 Nm,+ 50 Nm
+Peugeot,206,2000>2011,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Peugeot,206,2000>2011,Gasoline,2.0 16v RC,177 hp,192 hp,+ 15 hp,202 Nm,217 Nm,+ 15 Nm
+Peugeot,206,2000>2011,Gasoline,2.0 S16 / GTi,138 hp,150 hp,+ 12 hp,190 Nm,215 Nm,+ 25 Nm
+Peugeot,206,2000>2011,Gasoline,1.6 16v,110 hp,118 hp,+ 8 hp,147 Nm,157 Nm,+ 10 Nm
+Peugeot,206,2000>2011,Diesel,2.0 HDi,90 hp,118 hp,+ 28 hp,205 Nm,265 Nm,+ 60 Nm
+Peugeot,206,2000>2011,Diesel,1.6 HDi,110 hp,136 hp,+ 26 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,207,2006>2015,Diesel,1.4 HDi,68 hp,90 hp,+ 22 hp,160 Nm,210 Nm,+ 50 Nm
+Peugeot,207,2006>2015,Diesel,1.6 HDi,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Peugeot,207,2006>2015,Diesel,1.6 HDi,110 hp,136 hp,+ 26 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,207,2006>2015,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,207,2006>2015,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Peugeot,207,2006>2015,Gasoline,RC 1.6 THP,175 hp,205 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,207,2006>2015,Gasoline,1.6 16v,110 hp,118 hp,+ 8 hp,147 Nm,157 Nm,+ 10 Nm
+Peugeot,207,2006>2015,Gasoline,1.6 THP,150 hp,190 hp,+ 40 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,207,2006>2015,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Peugeot,208,06/2015>2019,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Peugeot,208,06/2015>2019,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,208,03/2012>2015,Diesel,1.4 HDi,68 hp,90 hp,+ 22 hp,160 Nm,210 Nm,+ 50 Nm
+Peugeot,208,03/2012>2015,Diesel,1.6 e-HDi,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Peugeot,208,10/2019>...,Gasoline,1.2 PureTech (GPF),100 hp,145 hp,+ 45 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,208,06/2015>2019,Diesel,1.6 BlueHDi,75 hp,120 hp,+ 45 hp,230 Nm,280 Nm,+ 50 Nm
+Peugeot,208,03/2012>2015,Gasoline,1.6 THP,156 hp,190 hp,+ 34 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,208,03/2012>2015,Gasoline,GTI 30th 1.6 THP,208 hp,220 hp,+ 12 hp,300 Nm,360 Nm,+ 60 Nm
+Peugeot,208,03/2012>2015,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,208,06/2015>2019,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Peugeot,208,06/2015>2019,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Peugeot,208,03/2012>2015,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Peugeot,208,06/2015>2019,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,208,03/2012>2015,Diesel,1.6 e-HDi,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,208,06/2015>2019,Gasoline,1.6 THP GTi by Peugeot Sport,208 hp,220 hp,+ 12 hp,300 Nm,360 Nm,+ 60 Nm
+Peugeot,208,06/2015>2019,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Peugeot,208,06/2015>2019,Gasoline,1.6 THP GTi,208 hp,220 hp,+ 12 hp,300 Nm,360 Nm,+ 60 Nm
+Peugeot,208,03/2012>2015,Gasoline,GTI 1.6 THP,200 hp,220 hp,+ 20 hp,275 Nm,360 Nm,+ 85 Nm
+Peugeot,208,10/2019>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,208,10/2019>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Peugeot,3008,2016>...,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,3008,2014>2016,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Peugeot,3008,2014>2016,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,3008,2016>...,Diesel,2.0 BlueHDI (06/2019 -> ...),150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm
+Peugeot,3008,2016>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,3008,2016>...,Diesel,2.0 BlueHDI (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,3008,04/2009>2013,Gasoline,1.6 THP,150 hp,180 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,3008,2016>...,Diesel,2.0 BlueHDI,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,3008,2016>...,Gasoline,1.6 PureTech (GPF),180 hp,220 hp,+ 40 hp,250 Nm,300 Nm,+ 50 Nm
+Peugeot,3008,2014>2016,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,3008,04/2009>2013,Diesel,1.6 HDi,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,3008,2016>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,3008,04/2009>2013,Diesel,2.0 HDi,150 hp,190 hp,+ 40 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,3008,2016>...,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,3008,2014>2016,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,3008,2016>...,Diesel,2.0 BlueHDI (EAT8),180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Peugeot,3008,04/2009>2013,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,3008,04/2009>2013,Diesel,1.6 HDi,110 hp,140 hp,+ 30 hp,240 Nm,330 Nm,+ 90 Nm
+Peugeot,3008,2014>2016,Diesel,1.6 e-HDI,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,3008,2016>...,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Peugeot,3008,04/2009>2013,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,3008,04/2009>2013,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Peugeot,3008,2014>2016,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,3008,2014>2016,Diesel,2.0 HDi,150 hp,190 hp,+ 40 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,3008,2016>...,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,300 Nm,320 Nm,+ 20 Nm
+Peugeot,306,2000>2002,Diesel,2.0 HDi,90 hp,115 hp,+ 25 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,306,2000>2002,Diesel,2.0 HDi,110 hp,140 hp,+ 30 hp,250 Nm,290 Nm,+ 40 Nm
+Peugeot,307,2001>2008,Diesel,2.0 HDi,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,307,2001>2008,Gasoline,2.0 16v,177 hp,192 hp,+ 15 hp,202 Nm,217 Nm,+ 15 Nm
+Peugeot,307,2001>2008,Diesel,2.0 HDi,90 hp,115 hp,+ 25 hp,205 Nm,265 Nm,+ 60 Nm
+Peugeot,307,2001>2008,Diesel,2.0 HDI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Peugeot,307,2001>2008,Diesel,2.0 HDi,109 hp,136 hp,+ 27 hp,250 Nm,290 Nm,+ 40 Nm
+Peugeot,307,2001>2008,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Peugeot,307,2001>2008,Diesel,1.4 HDi,68 hp,90 hp,+ 22 hp,160 Nm,200 Nm,+ 40 Nm
+Peugeot,307,2001>2008,Diesel,1.6 HDi,110 hp,140 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,307,2001>2008,Gasoline,2.0 16v,138 hp,150 hp,+ 12 hp,190 Nm,215 Nm,+ 25 Nm
+Peugeot,308,2007>2013,Gasoline,1.6 THP,175 hp,205 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,308,2007>2013,Gasoline,1.6 THP,150 hp,190 hp,+ 40 hp,240 Nm,320 Nm,+ 80 Nm
+Peugeot,308,2007>2013,Diesel,1.6 HDi,92 hp,115 hp,+ 23 hp,230 Nm,280 Nm,+ 50 Nm
+Peugeot,308,2014>2017,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,308,09/2017>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,308,09/2017>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,308,2014>2017,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Peugeot,308,09/2017>...,Gasoline,1.6 THP GTi,270 hp,295 hp,+ 25 hp,330 Nm,380 Nm,+ 50 Nm
+Peugeot,308,09/2017>...,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,308,2007>2013,Diesel,1.6 HDi,110 hp,136 hp,+ 26 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,308,09/2017>...,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,308,2014>2017,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,308,09/2017>...,Gasoline,1.6 THP,205 hp,230 hp,+ 25 hp,285 Nm,360 Nm,+ 75 Nm
+Peugeot,308,2014>2017,Diesel,1.6 e-HDI,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,308,09/2017>...,Diesel,1.6 BlueHDi,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Peugeot,308,2007>2013,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Peugeot,308,2014>2017,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,308,09/2017>...,Gasoline,1.6 Puretech (GPF),225 hp,240 hp,+ 15 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,308,2007>2013,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Peugeot,308,2007>2013,Diesel,2.0 HDi,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,308,2014>2017,Gasoline,1.6 THP - GTI By Peugeot Sport,270 hp,295 hp,+ 25 hp,330 Nm,380 Nm,+ 50 Nm
+Peugeot,308,2014>2017,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,308,09/2017>...,Gasoline,1.6 Puretech GTI (GPF),263 hp,295 hp,+ 32 hp,340 Nm,380 Nm,+ 40 Nm
+Peugeot,308,2007>2013,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,308,09/2017>...,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,308,2014>2017,Diesel,1.6 HDi,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Peugeot,308,2014>2017,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Peugeot,308,09/2017>...,Gasoline,1.2 PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Peugeot,308,09/2017>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,308,2007>2013,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,308,2014>2017,Gasoline,1.6 THP,125 hp,190 hp,+ 65 hp,200 Nm,300 Nm,+ 100 Nm
+Peugeot,308,2014>2017,Gasoline,1.6 THP GT,205 hp,230 hp,+ 25 hp,285 Nm,360 Nm,+ 75 Nm
+Peugeot,308,09/2017>...,Gasoline,1.2 PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,308,09/2017>...,Diesel,2.0 BlueHDi (EAT8),180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Peugeot,308,2007>2013,Gasoline,1.6 THP,140 hp,190 hp,+ 50 hp,240 Nm,320 Nm,+ 80 Nm
+Peugeot,308,2014>2017,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,308,2007>2013,Gasoline,1.6 THP GTi,200 hp,230 hp,+ 30 hp,275 Nm,360 Nm,+ 85 Nm
+Peugeot,308,09/2017>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Peugeot,308,09/2017>...,Diesel,2.0 BlueHDI (06/2019 -> ...),150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm
+Peugeot,308,2007>2013,Diesel,2.0 HDi,150 hp,190 hp,+ 40 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,308,2014>2017,Gasoline,1.6 THP - GTi,250 hp,295 hp,+ 45 hp,330 Nm,380 Nm,+ 50 Nm
+Peugeot,4007,2007>2012,Diesel,2.2 HDi,156 hp,185 hp,+ 29 hp,380 Nm,450 Nm,+ 70 Nm
+Peugeot,4008,2012>...,Diesel,1.6 HDi,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,4008,2012>...,Diesel,1.8 HDi,150 hp,175 hp,+ 25 hp,300 Nm,360 Nm,+ 60 Nm
+Peugeot,4008,2012>...,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,406,2000>2005,Diesel,2.0 HDi,90 hp,115 hp,+ 25 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,406,2000>2005,Diesel,2.0 HDi,110 hp,140 hp,+ 30 hp,250 Nm,290 Nm,+ 40 Nm
+Peugeot,406,2000>2005,Diesel,2.2 HDi,133 hp,170 hp,+ 37 hp,317 Nm,400 Nm,+ 83 Nm
+Peugeot,406,2000>2005,Gasoline,3.0 V6,210 hp,225 hp,+ 15 hp,285 Nm,305 Nm,+ 20 Nm
+Peugeot,406,2000>2005,Diesel,2.0 HDi,136 hp,166 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,406,2000>2005,Diesel,2.2 HDi,136 hp,170 hp,+ 34 hp,314 Nm,400 Nm,+ 86 Nm
+Peugeot,407,2005>2010,Gasoline,3.0 V6,210 hp,225 hp,+ 15 hp,285 Nm,305 Nm,+ 20 Nm
+Peugeot,407,2005>2010,Diesel,3.0 HDi,241 hp,270 hp,+ 29 hp,450 Nm,530 Nm,+ 80 Nm
+Peugeot,407,2005>2010,Diesel,1.6 HDi,110 hp,136 hp,+ 26 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,407,2005>2010,Diesel,2.7 HDi V6,204 hp,240 hp,+ 36 hp,440 Nm,520 Nm,+ 80 Nm
+Peugeot,407,2005>2010,Diesel,2.0 HDi,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,407,2005>2010,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,407,2005>2010,Diesel,2.2 HDi,170 hp,205 hp,+ 35 hp,370 Nm,440 Nm,+ 70 Nm
+Peugeot,408,All,Gasoline,1.6 THP,163 hp,190 hp,+ 27 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,408,All,Gasoline,1.8 THP,204 hp,230 hp,+ 26 hp,280 Nm,330 Nm,+ 50 Nm
+Peugeot,5008,2014>2016,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,5008,...>2013,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,5008,...>2013,Diesel,2.0 HDi,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,5008,2014>2016,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,340 Nm,450 Nm,+ 110 Nm
+Peugeot,5008,2017>...,Gasoline,1.6 PureTech (GPF),180 hp,220 hp,+ 40 hp,250 Nm,300 Nm,+ 50 Nm
+Peugeot,5008,2017>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,5008,2017>...,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,5008,2014>2016,Diesel,2.0 HDi,150 hp,190 hp,+ 40 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,5008,2014>2016,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,5008,2017>...,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,300 Nm,320 Nm,+ 20 Nm
+Peugeot,5008,...>2013,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,285 Nm,330 Nm,+ 45 Nm
+Peugeot,5008,2017>...,Diesel,2.0 BlueHDI,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,5008,2017>...,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,5008,2017>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,5008,...>2013,Diesel,1.6 HDi,110 hp,140 hp,+ 30 hp,240 Nm,330 Nm,+ 90 Nm
+Peugeot,5008,2014>2016,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Peugeot,5008,2017>...,Diesel,2.0 BlueHDI (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,5008,2014>2016,Diesel,1.6 e-HDI,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,5008,...>2013,Gasoline,1.6 THP,156 hp,180 hp,+ 24 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,5008,2017>...,Diesel,2.0 BlueHDI (06/2019 -> ...),150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm
+Peugeot,5008,2017>...,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Peugeot,5008,2014>2016,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,270 Nm,350 Nm,+ 80 Nm
+Peugeot,5008,2017>...,Diesel,2.0 BlueHDi (EAT8),180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Peugeot,508,09/2018>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,508,2011>2014,Diesel,2.0 HDi,140 hp,175 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,508,2011>2014,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,508,2011>2014,Diesel,2.0 HDi,136 hp,175 hp,+ 39 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,508,09/2018>...,Diesel,2.0 BlueHDi (EAT8),180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Peugeot,508,2011>2014,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,508,2014>2017,Diesel,2.2 HDi,204 hp,235 hp,+ 31 hp,450 Nm,520 Nm,+ 70 Nm
+Peugeot,508,09/2018>...,Diesel,2.0 BlueHDi,160 hp,205 hp,+ 45 hp,350 Nm,460 Nm,+ 110 Nm
+Peugeot,508,2014>2017,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,508,2014>2017,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,508,2011>2014,Gasoline,1.6 THP,184 hp,210 hp,+ 26 hp,NONE,NONE,NONE
+Peugeot,508,2014>2017,Diesel,2.0 HDi,160 hp,190 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,508,09/2018>...,Diesel,2.0 BlueHDi (EAT8),160 hp,205 hp,+ 45 hp,400 Nm,460 Nm,+ 60 Nm
+Peugeot,508,2011>2014,Diesel,1.6 eHDi,115 hp,140 hp,+ 25 hp,270 Nm,320 Nm,+ 50 Nm
+Peugeot,508,2011>2014,Gasoline,1.6 THP,163 hp,210 hp,+ 47 hp,210 Nm,320 Nm,+ 110 Nm
+Peugeot,508,2014>2017,Diesel,1.6 e-HDI,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,508,2011>2014,Gasoline,1.6 THP,156 hp,190 hp,+ 34 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,508,2014>2017,Gasoline,1.6 THP,156 hp,190 hp,+ 34 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,508,09/2018>...,Gasoline,1.6 PureTech (GPF),180 hp,220 hp,+ 40 hp,250 Nm,300 Nm,+ 50 Nm
+Peugeot,508,2014>2017,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Peugeot,508,09/2018>...,Gasoline,1.6 Puretech (GPF),225 hp,240 hp,+ 15 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,508,2014>2017,Gasoline,1.8 THP,204 hp,230 hp,+ 26 hp,280 Nm,330 Nm,+ 50 Nm
+Peugeot,508,09/2018>...,Gasoline,1.6 Puretech,270 hp,295 hp,+ 25 hp,330 Nm,380 Nm,+ 50 Nm
+Peugeot,508,2011>2014,Diesel,2.2 HDi,204 hp,235 hp,+ 31 hp,450 Nm,520 Nm,+ 70 Nm
+Peugeot,508,2011>2014,Diesel,3.0 HDi,241 hp,270 hp,+ 29 hp,450 Nm,530 Nm,+ 80 Nm
+Peugeot,508,2014>2017,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,6008,2017>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,6008,2017>...,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Peugeot,6008,2017>...,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,6008,2017>...,Gasoline,1.6 THP,205 hp,230 hp,+ 25 hp,275 Nm,360 Nm,+ 85 Nm
+Peugeot,6008,2017>...,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,6008,2017>...,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,6008,2017>...,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,607,2000>2011,Gasoline,3.0 V6,210 hp,225 hp,+ 15 hp,285 Nm,305 Nm,+ 20 Nm
+Peugeot,607,2000>2011,Diesel,2.7 HDi V6,204 hp,240 hp,+ 36 hp,440 Nm,520 Nm,+ 80 Nm
+Peugeot,607,2000>2011,Diesel,3.0 HDi,240 hp,270 hp,+ 30 hp,450 Nm,530 Nm,+ 80 Nm
+Peugeot,607,2000>2011,Diesel,2.0 HDi,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,607,2000>2011,Diesel,2.2 HDi,170 hp,205 hp,+ 35 hp,370 Nm,440 Nm,+ 70 Nm
+Peugeot,607,2000>2011,Diesel,2.2 HDi,133 hp,170 hp,+ 37 hp,317 Nm,390 Nm,+ 73 Nm
+Peugeot,607,2000>2011,Diesel,2.0 HDi,109 hp,136 hp,+ 27 hp,250 Nm,290 Nm,+ 40 Nm
+Peugeot,807,2002>2015,Diesel,2.0 HDi,120 hp,165 hp,+ 45 hp,300 Nm,380 Nm,+ 80 Nm
+Peugeot,807,2002>2015,Diesel,2.2 HDi,163 hp,195 hp,+ 32 hp,370 Nm,410 Nm,+ 40 Nm
+Peugeot,807,2002>2015,Diesel,2.0 HDi,110 hp,140 hp,+ 30 hp,270 Nm,310 Nm,+ 40 Nm
+Peugeot,807,2002>2015,Diesel,2.0 HDi,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,807,2002>2015,Diesel,2.2 HDi,128 hp,162 hp,+ 34 hp,314 Nm,406 Nm,+ 92 Nm
+Peugeot,807,2002>2015,Gasoline,3.0 V6,210 hp,225 hp,+ 15 hp,285 Nm,305 Nm,+ 20 Nm
+Peugeot,807,2002>2015,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,Bipper,2009>...,Diesel,1.3 HDI,80 hp,100 hp,+ 20 hp,200 Nm,280 Nm,+ 80 Nm
+Peugeot,Bipper,2009>...,Diesel,1.4 HDI,70 hp,92 hp,+ 22 hp,160 Nm,210 Nm,+ 50 Nm
+Peugeot,Bipper,2009>...,Diesel,1.3 HDi,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Peugeot,Boxer,2014>2019,Diesel,3.0 HDi,180 hp,215 hp,+ 35 hp,400 Nm,500 Nm,+ 100 Nm
+Peugeot,Boxer,...>2014,Diesel,2.2 HDi,120 hp,150 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Peugeot,Boxer,2019>...,Diesel,2.2 BlueHDi,120 hp,185 hp,+ 65 hp,310 Nm,430 Nm,+ 120 Nm
+Peugeot,Boxer,...>2014,Diesel,2.2 HDi,110 hp,180 hp,+ 70 hp,250 Nm,360 Nm,+ 110 Nm
+Peugeot,Boxer,2014>2019,Diesel,2.2 HDi,130 hp,180 hp,+ 50 hp,320 Nm,420 Nm,+ 100 Nm
+Peugeot,Boxer,2014>2019,Diesel,2.2 HDi,150 hp,180 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Peugeot,Boxer,...>2014,Diesel,2.2 HDi,100 hp,150 hp,+ 50 hp,250 Nm,350 Nm,+ 100 Nm
+Peugeot,Boxer,2019>...,Diesel,2.2 BlueHDI,140 hp,185 hp,+ 45 hp,340 Nm,430 Nm,+ 90 Nm
+Peugeot,Boxer,2014>2019,Diesel,2.2 HDi,110 hp,180 hp,+ 70 hp,250 Nm,360 Nm,+ 110 Nm
+Peugeot,Boxer,...>2014,Diesel,3.0 HDi,160 hp,190 hp,+ 30 hp,400 Nm,470 Nm,+ 70 Nm
+Peugeot,Boxer,...>2014,Diesel,3.0 HDi,180 hp,215 hp,+ 35 hp,400 Nm,500 Nm,+ 100 Nm
+Peugeot,Boxer,2014>2019,Diesel,2.0 BlueHDI,160 hp,200 hp,+ 40 hp,350 Nm,450 Nm,+ 100 Nm
+Peugeot,Boxer,...>2014,Diesel,2.2 HDi,130 hp,180 hp,+ 50 hp,320 Nm,420 Nm,+ 100 Nm
+Peugeot,Boxer,2014>2019,Diesel,2.0 BlueHDI,130 hp,200 hp,+ 70 hp,340 Nm,450 Nm,+ 110 Nm
+Peugeot,Boxer,2019>...,Diesel,2.2 BlueHDI,165 hp,185 hp,+ 20 hp,370 Nm,430 Nm,+ 60 Nm
+Peugeot,Boxer,...>2014,Diesel,2.2 HDi,150 hp,180 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Peugeot,Boxer,2014>2019,Diesel,2.0 BlueHDI,110 hp,200 hp,+ 90 hp,304 Nm,450 Nm,+ 146 Nm
+Peugeot,Expert / Traveller,2019>...,Diesel,1.5 BlueHDI,120 hp,160 hp,+ 40 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,2.0 HDi,136 hp,164 hp,+ 28 hp,315 Nm,400 Nm,+ 85 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,2.0 HDi,110 hp,136 hp,+ 26 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,2.0 HDi,160 hp,190 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,Expert / Traveller,2016>2019,Diesel,1.6 BlueHDI,95 hp,130 hp,+ 35 hp,210 Nm,320 Nm,+ 110 Nm
+Peugeot,Expert / Traveller,2019>...,Diesel,2.0 BlueHDi,120 hp,205 hp,+ 85 hp,340 Nm,460 Nm,+ 120 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Peugeot,Expert / Traveller,2019>...,Diesel,2.0 BlueHDi,180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,2.0 HDi,90 hp,115 hp,+ 25 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,Expert / Traveller,2016>2019,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,Expert / Traveller,2016>2019,Diesel,2.0 BlueHDI,177 hp,200 hp,+ 23 hp,400 Nm,450 Nm,+ 50 Nm
+Peugeot,Expert / Traveller,2016>2019,Diesel,1.6 BlueHDI,115 hp,145 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,Expert / Traveller,2016>2019,Diesel,2.0 BlueHDi,120 hp,200 hp,+ 80 hp,310 Nm,450 Nm,+ 140 Nm
+Peugeot,Expert / Traveller,2019>...,Diesel,1.5 BlueHDi,100 hp,160 hp,+ 60 hp,270 Nm,350 Nm,+ 80 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,2.0 HDi ( 2011 -> ...),128 hp,190 hp,+ 62 hp,300 Nm,400 Nm,+ 100 Nm
+Peugeot,Expert / Traveller,2016>2019,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,1.6 HDI,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,2.0 HDi ( ... -> 2011),128 hp,160 hp,+ 32 hp,300 Nm,360 Nm,+ 60 Nm
+Peugeot,Expert / Traveller,...>2016,Diesel,2.0 HDi,120 hp,145 hp,+ 25 hp,280 Nm,340 Nm,+ 60 Nm
+Peugeot,Expert / Traveller,2019>...,Diesel,2.0 BlueHDi,150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm
+Peugeot,Partner,...>2015,Diesel,1.6 HDi,92 hp,115 hp,+ 23 hp,230 Nm,270 Nm,+ 40 Nm
+Peugeot,Partner,...>2015,Diesel,1.6 HDi,115 hp,140 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,Partner,06/2015>2017,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Peugeot,Partner,2018>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,Partner,...>2015,Diesel,2.0 HDi,90 hp,115 hp,+ 25 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,Partner,2018>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Peugeot,Partner,06/2015>2017,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Peugeot,Partner,...>2015,Diesel,1.6 HDi,75 hp,115 hp,+ 40 hp,150 Nm,260 Nm,+ 110 Nm
+Peugeot,Partner,2018>...,Diesel,1.5 BlueHDI,75 hp,115 hp,+ 40 hp,230 Nm,300 Nm,+ 70 Nm
+Peugeot,Partner,...>2015,Diesel,1.6 HDi,110 hp,140 hp,+ 30 hp,240 Nm,330 Nm,+ 90 Nm
+Peugeot,Partner,06/2015>2017,Diesel,1.6 BlueHDI,75 hp,120 hp,+ 45 hp,230 Nm,280 Nm,+ 50 Nm
+Peugeot,Partner,2018>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,Partner,2018>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Peugeot,Partner,06/2015>2017,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,Partner,...>2015,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,270 Nm,+ 55 Nm
+Peugeot,RCZ,2010>2013,Diesel,2.0 HDI,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Peugeot,RCZ,2013>2015,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,RCZ,2013>2015,Gasoline,1.6 THP - R,270 hp,295 hp,+ 25 hp,330 Nm,380 Nm,+ 50 Nm
+Peugeot,RCZ,2010>2013,Gasoline,1.6 THP,156 hp,190 hp,+ 34 hp,240 Nm,300 Nm,+ 60 Nm
+Peugeot,RCZ,2010>2013,Gasoline,1.6 THP,200 hp,220 hp,+ 20 hp,275 Nm,360 Nm,+ 85 Nm
+Peugeot,RCZ,2013>2015,Gasoline,1.6 THP,200 hp,220 hp,+ 20 hp,275 Nm,360 Nm,+ 85 Nm
+Peugeot,RCZ,2013>2015,Diesel,2.0 HDi,160 hp,190 hp,+ 30 hp,320 Nm,400 Nm,+ 80 Nm
+Peugeot,Rifter,2018>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Peugeot,Rifter,2018>...,Diesel,1.5 BlueHDI,75 hp,115 hp,+ 40 hp,230 Nm,300 Nm,+ 70 Nm
+Peugeot,Rifter,2018>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Peugeot,Rifter,2018>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Peugeot,Rifter,2018>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm

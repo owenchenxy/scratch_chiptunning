@@ -1,0 +1,7 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Cupra,Arona,2020>...,Gasoline,2.0 TSI Cupra,200 hp,235 hp,+ 35 hp,320 Nm,420 Nm,+ 100 Nm
+Cupra,Formentor,2021>...,Gasoline,2.0 TSI (4Drive),310 hp, hp,0 hp,400 Nm, Nm,0 Nm
+Cupra,Ibiza,2018>...,Gasoline,2.0 TSI,200 hp,235 hp,+ 35 hp,320 Nm,420 Nm,+ 100 Nm
+Cupra,Leon,2020>...,Gasoline,2.0 TSI,245 hp, hp,0 hp,370 Nm, Nm,0 Nm
+Cupra,Leon,2020>...,Gasoline,2.0 TSI,300 hp, hp,0 hp,400 Nm, Nm,0 Nm
+Cupra,Leon,2020>...,Gasoline,2.0 TSI (4Drive),310 hp, hp,0 hp,400 Nm, Nm,0 Nm

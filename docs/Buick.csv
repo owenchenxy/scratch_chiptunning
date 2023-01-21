@@ -1,0 +1,12 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Buick,Ankela,All,Gasoline,1.4 Turbo,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Buick,Encore,All,Gasoline,1.4 Turbo,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Buick,Encore,All,Gasoline,1.6 Turbo,180 hp,210 hp,+ 30 hp,230 Nm,300 Nm,+ 70 Nm
+Buick,Excelle,All,Gasoline,1.4 Turbo,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Buick,Excelle,All,Gasoline,1.6 Turbo,180 hp,210 hp,+ 30 hp,230 Nm,300 Nm,+ 70 Nm
+Buick,Lacrosse,All,Gasoline,2.0 Turbo NHT,255 hp,310 hp,+ 55 hp,400 Nm,450 Nm,+ 50 Nm
+Buick,Regal,All,Gasoline,1.4 Turbo,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Buick,Regal,All,Gasoline,1.6 Turbo,180 hp,210 hp,+ 30 hp,230 Nm,300 Nm,+ 70 Nm
+Buick,Regal,All,Gasoline,2.0 Turbo NHT,220 hp,310 hp,+ 90 hp,350 Nm,450 Nm,+ 100 Nm
+Buick,Regal,All,Gasoline,2.0 Turbo NHT GS,270 hp,310 hp,+ 40 hp,400 Nm,450 Nm,+ 50 Nm
+Buick,Verano,2015>...,Gasoline,1.5 T,166 hp,191 hp,+ 25 hp,250 Nm,300 Nm,+ 50 Nm

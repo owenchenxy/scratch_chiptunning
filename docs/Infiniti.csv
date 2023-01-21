@@ -1,0 +1,25 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Infiniti,EX,2008>...,Diesel,3.0d,211 hp,250 hp,+ 39 hp,550 Nm,600 Nm,+ 50 Nm
+Infiniti,EX,2008>...,Diesel,3.0d,238 hp,260 hp,+ 22 hp,550 Nm,600 Nm,+ 50 Nm
+Infiniti,FX,2008>...,Gasoline,3.7 V6,320 hp,340 hp,+ 20 hp,360 Nm,380 Nm,+ 20 Nm
+Infiniti,FX,2008>...,Gasoline,3.7 V6,331 hp,350 hp,+ 19 hp,366 Nm,385 Nm,+ 19 Nm
+Infiniti,FX,2008>...,Diesel,3.0d,238 hp,260 hp,+ 22 hp,550 Nm,600 Nm,+ 50 Nm
+Infiniti,FX,2008>...,Diesel,3.0d,211 hp,250 hp,+ 39 hp,550 Nm,600 Nm,+ 50 Nm
+Infiniti,G37/M37,All,Gasoline,3.7 V6,320 hp,350 hp,+ 30 hp,366 Nm,385 Nm,+ 19 Nm
+Infiniti,G37/M37,All,Gasoline,3.7 V6,331 hp,350 hp,+ 19 hp,366 Nm,385 Nm,+ 19 Nm
+Infiniti,G37/M37,All,Diesel,3.0d,211 hp,250 hp,+ 39 hp,550 Nm,600 Nm,+ 50 Nm
+Infiniti,M,2010>...,Diesel,3.0d,238 hp,260 hp,+ 22 hp,550 Nm,600 Nm,+ 50 Nm
+Infiniti,Q30,2015>...,Gasoline,1.6 T,122 hp,175 hp,+ 53 hp,200 Nm,310 Nm,+ 110 Nm
+Infiniti,Q30,2015>...,Diesel,2.2 D,170 hp,200 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Infiniti,Q30,2015>...,Gasoline,1.6 T,156 hp,175 hp,+ 19 hp,250 Nm,310 Nm,+ 60 Nm
+Infiniti,Q30,2015>...,Gasoline,2.0 T,211 hp,250 hp,+ 39 hp,350 Nm,400 Nm,+ 50 Nm
+Infiniti,Q30,2015>...,Diesel,1.5 D,109 hp,135 hp,+ 26 hp,250 Nm,310 Nm,+ 60 Nm
+Infiniti,Q50,2013>...,Gasoline,2.0T,211 hp,250 hp,+ 39 hp,350 Nm,400 Nm,+ 50 Nm
+Infiniti,Q50,2013>...,Diesel,2.2D,170 hp,200 hp,+ 30 hp,400 Nm,460 Nm,+ 60 Nm
+Infiniti,Q50,2013>...,Gasoline,3.0T,400 hp,430 hp,+ 30 hp, Nm,620 Nm,+ 620 Nm
+Infiniti,Q60,2016>...,Gasoline,2.0 T,211 hp,250 hp,+ 39 hp,350 Nm,400 Nm,+ 50 Nm
+Infiniti,Q60,2016>...,Gasoline,3.0 Bi-Turbo,405 hp, hp,0 hp, Nm, Nm,0 Nm
+Infiniti,Q60,2016>...,Gasoline,3.0 Bi-Turbo,304 hp, hp,0 hp, Nm, Nm,0 Nm
+Infiniti,Q70,2015>...,Diesel,2.2D,170 hp,200 hp,+ 30 hp,400 Nm,420 Nm,+ 20 Nm
+Infiniti,QX30,2016>...,Diesel,2.2D,170 hp,200 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Infiniti,QX70,2011>...,Diesel,3.0d,238 hp,260 hp,+ 22 hp,550 Nm,600 Nm,+ 50 Nm

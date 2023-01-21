@@ -1,0 +1,9 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Isuzu,D-max / Rodeo,2003>2012,Diesel,2.5 TD,136 hp,175 hp,+ 39 hp,294 Nm,370 Nm,+ 76 Nm
+Isuzu,D-max / Rodeo,2016>...,Diesel,1.9 D,164 hp,200 hp,+ 36 hp,360 Nm,440 Nm,+ 80 Nm
+Isuzu,D-max / Rodeo,2012>2016,Diesel,2.5 TD,163 hp,200 hp,+ 37 hp,400 Nm,480 Nm,+ 80 Nm
+Isuzu,D-max / Rodeo,2003>2012,Diesel,3.0 TD,163 hp,190 hp,+ 27 hp,360 Nm,420 Nm,+ 60 Nm
+Isuzu,M21,02/2017>...,Diesel,1.9 D,123 hp,150 hp,+ 27 hp,320 Nm,380 Nm,+ 60 Nm
+Isuzu,MU-X,2017>...,Diesel,DT4 3.0L,177 hp,205 hp,+ 28 hp,430 Nm,480 Nm,+ 50 Nm
+Isuzu,N-series,All,Diesel,3.0 D,150 hp,190 hp,+ 40 hp,375 Nm,420 Nm,+ 45 Nm
+Isuzu,N-series,All,Diesel,3.0 D,190 hp,240 hp,+ 50 hp,513 Nm,600 Nm,+ 87 Nm

@@ -1,0 +1,13 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Dodge,Avenger,05/2006>11/2007,Diesel,2.0 CRD,140 hp,175 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Dodge,Caliber,05/2006>11/2007,Diesel,2.0 CRD,140 hp,175 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Dodge,Caliber,05/2006>11/2007,Diesel,2.2 CRD,163 hp,200 hp,+ 37 hp,320 Nm,370 Nm,+ 50 Nm
+Dodge,Charger,2006>2010,Gasoline,6.1 SRT8,425 hp,460 hp,+ 35 hp,560 Nm,585 Nm,+ 25 Nm
+Dodge,Journey,05/2006>2009,Diesel,2.0 CRD,140 hp,175 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Dodge,Nitro,2007>2011,Diesel,2.8 CRD,177 hp,210 hp,+ 33 hp,420 Nm,520 Nm,+ 100 Nm
+Dodge,Ram,2013>...,Gasoline,1500 - 5.7 V8 HEMI,390 hp,410 hp,+ 20 hp,552 Nm,590 Nm,+ 38 Nm
+Dodge,Ram,2013>...,Gasoline,3500 - 5.7 V8 HEMI,383 hp,403 hp,+ 20 hp,540 Nm,580 Nm,+ 40 Nm
+Dodge,Ram,2013>...,Gasoline,3500 - 6.4 V8 HEMI,410 hp,435 hp,+ 25 hp,582 Nm,620 Nm,+ 38 Nm
+Dodge,Ram,2013>...,Diesel,1500 - 3.0D Ecodiesel,240 hp,305 hp,+ 65 hp,570 Nm,660 Nm,+ 90 Nm
+Dodge,Viper,2008>...,Gasoline,8.4 V10 SRT-10,500 hp,520 hp,+ 20 hp,712 Nm,730 Nm,+ 18 Nm
+Dodge,Viper,2008>...,Gasoline,GTS R,650 hp,670 hp,+ 20 hp,810 Nm,830 Nm,+ 20 Nm

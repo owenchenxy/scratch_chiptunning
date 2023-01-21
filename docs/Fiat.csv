@@ -1,0 +1,217 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Fiat,124 Spider,2016>...,Gasoline,1.4 Multiair,140 hp,180 hp,+ 40 hp,240 Nm,300 Nm,+ 60 Nm
+Fiat,124 Spider,2016>...,Gasoline,1.4 Multiair,170 hp,180 hp,+ 10 hp,250 Nm,300 Nm,+ 50 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,0.9 TwinAir,105 hp,110 hp,+ 5 hp,145 Nm,190 Nm,+ 45 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 595 1.4 Tjet,160 hp,170 hp,+ 10 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 1.4 T,145 hp,170 hp,+ 25 hp,210 Nm,300 Nm,+ 90 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth EsseEsse 1.4 Tjet,160 hp,170 hp,+ 10 hp,234 Nm,300 Nm,+ 66 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 Esse Esse 1.4 T,160 hp,170 hp,+ 10 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2007>2015,Diesel,1.3 MultiJet,75 hp,100 hp,+ 25 hp,145 Nm,245 Nm,+ 100 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 1.4 Tjet,135 hp,170 hp,+ 35 hp,206 Nm,300 Nm,+ 94 Nm
+Fiat,500 / 595 / 695,2007>2015,Diesel,1.3 MultiJet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,500 / 595 / 695,2015>...,Diesel,1.3 Multijet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 1.4 Tjet,140 hp,170 hp,+ 30 hp,206 Nm,300 Nm,+ 94 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 1.4 T,140 hp,170 hp,+ 30 hp,206 Nm,300 Nm,+ 94 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 695 Biposto - 1.4 T,190 hp,220 hp,+ 30 hp,250 Nm,340 Nm,+ 90 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 Competizione / Rivale / Esse Esse - 1.4 T,180 hp,200 hp,+ 20 hp,250 Nm,300 Nm,+ 50 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 695 Biposto 1.4 Tjet,190 hp,220 hp,+ 30 hp,250 Nm,340 Nm,+ 90 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 595 Competizione 1.4 Tjet,160 hp,170 hp,+ 10 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 Pista 1.4 T,165 hp,200 hp,+ 35 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth Assetto Corse 1.4 Tjet,190 hp,220 hp,+ 30 hp,300 Nm,340 Nm,+ 40 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 Turismo 1.4 T,165 hp,200 hp,+ 35 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,1.2 8V,69 hp,77 hp,+ 8 hp,102 Nm,112 Nm,+ 10 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 695 Tributo Maserati 1.4 Tjet,180 hp,200 hp,+ 20 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 Turismo 1.4 T,160 hp,170 hp,+ 10 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 695 XSR 1.4 T,163 hp,180 hp,+ 17 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 595 Competizione 1.4 Tjet,180 hp,200 hp,+ 20 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,Abarth 695 Tributo Ferrari 1.4 Tjet,180 hp,200 hp,+ 20 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 Pista 1.4 T,160 hp,170 hp,+ 10 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,1.4i 16v,100 hp,112 hp,+ 12 hp,131 Nm,146 Nm,+ 15 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,1.2 8v,70 hp,77 hp,+ 7 hp,102 Nm,112 Nm,+ 10 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,Abarth 595 1.4 T,135 hp,170 hp,+ 35 hp,206 Nm,300 Nm,+ 94 Nm
+Fiat,500 / 595 / 695,2015>...,Gasoline,0.9 TwinAir,85 hp,95 hp,+ 10 hp,145 Nm,190 Nm,+ 45 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,0.9 TwinAir,85 hp,95 hp,+ 10 hp,145 Nm,190 Nm,+ 45 Nm
+Fiat,500 / 595 / 695,2007>2015,Gasoline,0.9 TwinAir,105 hp,110 hp,+ 5 hp,145 Nm,190 Nm,+ 45 Nm
+Fiat,500L,2012>2017,Gasoline,1.4 T-Jet,120 hp,165 hp,+ 45 hp,215 Nm,280 Nm,+ 65 Nm
+Fiat,500L,2017>...,Diesel,1.3 Multijet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,500L,2012>2017,Gasoline,1.4i 16v,95 hp,105 hp,+ 10 hp,127 Nm,140 Nm,+ 13 Nm
+Fiat,500L,2012>2017,Diesel,1.6 MultiJet,105 hp,135 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,500L,2012>2017,Diesel,1.6 MultiJet,120 hp,155 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,500L,2017>...,Diesel,1.6 Multijet,120 hp,155 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,500L,2017>...,Gasoline,1.4i 16v,95 hp,105 hp,+ 10 hp,127 Nm,140 Nm,+ 13 Nm
+Fiat,500L,2012>2017,Gasoline,0.9 TwinAir,85 hp,95 hp,+ 10 hp,140 Nm,190 Nm,+ 50 Nm
+Fiat,500L,2012>2017,Diesel,1.3 MultiJet,85 hp,110 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,500L,2012>2017,Gasoline,0.9 TwinAir,105 hp,110 hp,+ 5 hp,145 Nm,190 Nm,+ 45 Nm
+Fiat,500L,2012>2017,Diesel,1.3 Multijet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,500X,2014>2018,Gasoline,1.4 Multiair,140 hp,165 hp,+ 25 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,500X,2014>2018,Gasoline,1.4 Multiair,170 hp,180 hp,+ 10 hp,250 Nm,300 Nm,+ 50 Nm
+Fiat,500X,2018>...,Gasoline,1.0 GSE T3,120 hp,140 hp,+ 20 hp,190 Nm,230 Nm,+ 40 Nm
+Fiat,500X,2018>...,Gasoline,0.9 TwinAir,85 hp,95 hp,+ 10 hp,145 Nm,190 Nm,+ 45 Nm
+Fiat,500X,2014>2018,Diesel,1.6 MultiJet,120 hp,155 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,500X,2014>2018,Diesel,1.3 Multijet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,500X,2018>...,Diesel,1.3 MJT,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,500X,2018>...,Diesel,2.0 MJT,150 hp,185 hp,+ 35 hp,350 Nm,400 Nm,+ 50 Nm
+Fiat,500X,2018>...,Gasoline,1.3 GSE T4,150 hp,170 hp,+ 20 hp,270 Nm,310 Nm,+ 40 Nm
+Fiat,500X,2014>2018,Diesel,2.0 MultiJet,140 hp,185 hp,+ 45 hp,350 Nm,400 Nm,+ 50 Nm
+Fiat,500X,2018>...,Diesel,1.6 MJT,120 hp,155 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Brava,...>2002,Diesel,1.9 JTD,105 hp,136 hp,+ 31 hp,200 Nm,265 Nm,+ 65 Nm
+Fiat,Brava,...>2002,Diesel,1.9 JTD,100 hp,130 hp,+ 30 hp,200 Nm,266 Nm,+ 66 Nm
+Fiat,Brava,...>2002,Diesel,1.6 JTDm,105 hp,130 hp,+ 25 hp,290 Nm,360 Nm,+ 70 Nm
+Fiat,Bravo,2007>2015,Diesel,1.9 JTDm,120 hp,155 hp,+ 35 hp,255 Nm,360 Nm,+ 105 Nm
+Fiat,Bravo,2007>2015,Gasoline,1.4 Tjet,155 hp,175 hp,+ 20 hp,230 Nm,280 Nm,+ 50 Nm
+Fiat,Bravo,2007>2015,Diesel,2.0 Mjet,150 hp,180 hp,+ 30 hp,367 Nm,440 Nm,+ 73 Nm
+Fiat,Bravo,2007>2015,Diesel,2.0 Mjet,163 hp,200 hp,+ 37 hp,360 Nm,425 Nm,+ 65 Nm
+Fiat,Bravo,2007>2015,Diesel,1.9 JTDm,90 hp,155 hp,+ 65 hp,210 Nm,360 Nm,+ 150 Nm
+Fiat,Bravo,2007>2015,Diesel,2.0 Mjet,135 hp,165 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Bravo,2000>2007,Diesel,1.9 JTD,100 hp,130 hp,+ 30 hp,200 Nm,290 Nm,+ 90 Nm
+Fiat,Bravo,2007>2015,Gasoline,1.4 Tjet,120 hp,165 hp,+ 45 hp,206 Nm,280 Nm,+ 74 Nm
+Fiat,Bravo,2007>2015,Gasoline,1.4 Multiair,140 hp,165 hp,+ 25 hp,230 Nm,300 Nm,+ 70 Nm
+Fiat,Bravo,2007>2015,Diesel,1.6 JTDm,90 hp,130 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Fiat,Bravo,2007>2015,Diesel,1.6 JTDm,105 hp,130 hp,+ 25 hp,290 Nm,360 Nm,+ 70 Nm
+Fiat,Bravo,2000>2007,Diesel,1.9 JTD,105 hp,136 hp,+ 31 hp,200 Nm,265 Nm,+ 65 Nm
+Fiat,Bravo,2007>2015,Diesel,1.9 JTDm 16v,150 hp,185 hp,+ 35 hp,305 Nm,380 Nm,+ 75 Nm
+Fiat,Bravo,2007>2015,Diesel,1.9 JTDm,115 hp,155 hp,+ 40 hp,255 Nm,360 Nm,+ 105 Nm
+Fiat,Bravo,2000>2007,Diesel,1.9 JTD,115 hp,145 hp,+ 30 hp,203 Nm,257 Nm,+ 54 Nm
+Fiat,Bravo,2007>2015,Diesel,1.6 JTDm,120 hp,145 hp,+ 25 hp,300 Nm,380 Nm,+ 80 Nm
+Fiat,Croma,2008>...,Diesel,1.9 Jtd,150 hp,180 hp,+ 30 hp,305 Nm,380 Nm,+ 75 Nm
+Fiat,Croma,2007>2008,Diesel,1.9 Jtd,115 hp,150 hp,+ 35 hp,280 Nm,350 Nm,+ 70 Nm
+Fiat,Croma,2007>2008,Diesel,2.4 Jtd,200 hp,230 hp,+ 30 hp,400 Nm,460 Nm,+ 60 Nm
+Fiat,Croma,2008>...,Diesel,1.9 Jtd,115 hp,155 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Fiat,Croma,2008>...,Diesel,1.9 Jtd,136 hp,180 hp,+ 44 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Croma,2008>...,Diesel,1.9 Jtd,120 hp,155 hp,+ 35 hp,280 Nm,350 Nm,+ 70 Nm
+Fiat,Croma,2007>2008,Diesel,1.9 Jtd,120 hp,150 hp,+ 30 hp,280 Nm,350 Nm,+ 70 Nm
+Fiat,Croma,2008>...,Diesel,2.4 Jtd,200 hp,235 hp,+ 35 hp,400 Nm,480 Nm,+ 80 Nm
+Fiat,Croma,2007>2008,Diesel,1.9 Jtd,150 hp,185 hp,+ 35 hp,305 Nm,385 Nm,+ 80 Nm
+Fiat,Doblo,...>2015,Diesel,2.0 Mjet,135 hp,165 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Doblo,...>2015,Diesel,1.9 JTD,120 hp,148 hp,+ 28 hp,280 Nm,365 Nm,+ 85 Nm
+Fiat,Doblo,...>2015,Diesel,1.9 JTD,100 hp,132 hp,+ 32 hp,200 Nm,290 Nm,+ 90 Nm
+Fiat,Doblo,2015>...,Diesel,1.6 Multijet,105 hp,140 hp,+ 35 hp,290 Nm,360 Nm,+ 70 Nm
+Fiat,Doblo,...>2015,Diesel,1.3 JTD,90 hp,115 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Doblo,2015>...,Diesel,1.6 Multijet (Euro 6),120 hp,140 hp,+ 20 hp,320 Nm,360 Nm,+ 40 Nm
+Fiat,Doblo,...>2015,Diesel,1.3 JTD,69 hp,85 hp,+ 16 hp,180 Nm,220 Nm,+ 40 Nm
+Fiat,Doblo,2015>...,Diesel,1.3 Multijet,90 hp,115 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Doblo,...>2015,Diesel,1.3 JTD,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Doblo,2015>...,Diesel,1.3 Multijet (Euro 6),95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Doblo,...>2015,Diesel,1.3 JTD,85 hp,110 hp,+ 25 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Doblo,2015>...,Diesel,1.6 Multijet,90 hp,120 hp,+ 30 hp,200 Nm,260 Nm,+ 60 Nm
+Fiat,Doblo,...>2015,Diesel,1.6 Mjet,90 hp,130 hp,+ 40 hp,290 Nm,360 Nm,+ 70 Nm
+Fiat,Doblo,2015>...,Diesel,2.0 Multijet,135 hp,165 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Doblo,2015>...,Diesel,1.6 Multijet (Euro 6),95 hp,120 hp,+ 25 hp,300 Nm,340 Nm,+ 40 Nm
+Fiat,Doblo,...>2015,Diesel,1.6 Mjet,105 hp,140 hp,+ 35 hp,290 Nm,360 Nm,+ 70 Nm
+Fiat,Doblo,...>2015,Diesel,1.9 JTD,105 hp,135 hp,+ 30 hp,205 Nm,292 Nm,+ 87 Nm
+Fiat,Ducato,2019>...,Diesel,2.3D (Euro 6d),160 hp,200 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.5 TDI,116 hp,140 hp,+ 24 hp,245 Nm,287 Nm,+ 42 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.8 JTD,146 hp,178 hp,+ 32 hp,310 Nm,400 Nm,+ 90 Nm
+Fiat,Ducato,2019>...,Diesel,2.3D (Euro 6d) (9 Speed),170 hp,200 hp,+ 30 hp,420 Nm,490 Nm,+ 70 Nm
+Fiat,Ducato,09/2011>2016,Diesel,180 Multijet,177 hp,200 hp,+ 23 hp,400 Nm,480 Nm,+ 80 Nm
+Fiat,Ducato,...>09/2011,Diesel,3.0 JTDm,158 hp,190 hp,+ 32 hp,408 Nm,500 Nm,+ 92 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.3 JTDm,130 hp,160 hp,+ 30 hp,320 Nm,410 Nm,+ 90 Nm
+Fiat,Ducato,2019>...,Diesel,2.3D (Euro 6d),180 hp,200 hp,+ 20 hp,400 Nm,460 Nm,+ 60 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.8 JTD,128 hp,160 hp,+ 32 hp,300 Nm,380 Nm,+ 80 Nm
+Fiat,Ducato,2019>...,Diesel,2.3D (Euro 6d) (9 Speed),180 hp,200 hp,+ 20 hp,450 Nm,490 Nm,+ 40 Nm
+Fiat,Ducato,09/2011>2016,Diesel,150 Multijet,148 hp,180 hp,+ 32 hp,350 Nm,410 Nm,+ 60 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.2 JTD,100 hp,130 hp,+ 30 hp,255 Nm,330 Nm,+ 75 Nm
+Fiat,Ducato,09/2011>2016,Diesel,160 Multijet,157 hp,200 hp,+ 43 hp,400 Nm,480 Nm,+ 80 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.3 JTDm,120 hp,155 hp,+ 35 hp,320 Nm,360 Nm,+ 40 Nm
+Fiat,Ducato,2016>2019,Diesel,130 Multijet² (Euro 6),131 hp,160 hp,+ 29 hp,320 Nm,400 Nm,+ 80 Nm
+Fiat,Ducato,09/2011>2016,Diesel,120 Multijet,120 hp,150 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Ducato,09/2011>2016,Diesel,130 Multijet,131 hp,180 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.3 JTD,110 hp,144 hp,+ 34 hp,300 Nm,390 Nm,+ 90 Nm
+Fiat,Ducato,2016>2019,Diesel,180 Multijet² (Euro 6),177 hp,200 hp,+ 23 hp,400 Nm,470 Nm,+ 70 Nm
+Fiat,Ducato,2019>...,Diesel,2.3D (Euro 6d),140 hp,200 hp,+ 60 hp,350 Nm,460 Nm,+ 110 Nm
+Fiat,Ducato,2019>...,Diesel,2.3D (Euro 6d),120 hp,200 hp,+ 80 hp,320 Nm,460 Nm,+ 140 Nm
+Fiat,Ducato,2016>2019,Diesel,115 Multijet² (Euro 6),116 hp,145 hp,+ 29 hp,290 Nm,340 Nm,+ 50 Nm
+Fiat,Ducato,09/2011>2016,Diesel,115 Multijet,116 hp,145 hp,+ 29 hp,280 Nm,340 Nm,+ 60 Nm
+Fiat,Ducato,...>09/2011,Diesel,2.0 JTD,84 hp,114 hp,+ 30 hp,192 Nm,265 Nm,+ 73 Nm
+Fiat,Ducato,2016>2019,Diesel,150 Multijet² (Euro 6),150 hp,180 hp,+ 30 hp,380 Nm,410 Nm,+ 30 Nm
+Fiat,Fiorino,2011>2013,Diesel,1.3 JTD,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Fiorino,2011>2013,Diesel,1.3 JTD,95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Freemont,2012>...,Diesel,2.0 Mjet,163 hp,185 hp,+ 22 hp,350 Nm,425 Nm,+ 75 Nm
+Fiat,Freemont,2012>...,Diesel,2.0 Mjet,140 hp,185 hp,+ 45 hp,350 Nm,400 Nm,+ 50 Nm
+Fiat,Freemont,2012>...,Diesel,2.0 Mjet,170 hp,185 hp,+ 15 hp,350 Nm,425 Nm,+ 75 Nm
+Fiat,Freemont,2012>...,Diesel,2.0 Mjet,136 hp,185 hp,+ 49 hp,350 Nm,400 Nm,+ 50 Nm
+Fiat,Fullback,2017>...,Diesel,2.4D,154 hp,200 hp,+ 46 hp,380 Nm,500 Nm,+ 120 Nm
+Fiat,Fullback,2017>...,Diesel,2.4D,180 hp,200 hp,+ 20 hp,430 Nm,500 Nm,+ 70 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.9 JTD,130 hp,160 hp,+ 30 hp,280 Nm,360 Nm,+ 80 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.3 JTD,85 hp,110 hp,+ 25 hp,204 Nm,250 Nm,+ 46 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.3 JTD,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.9 JTD,120 hp,160 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.3 JTD,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Grande Punto,10/2005>...,Gasoline,1.4 T-jet,120 hp,165 hp,+ 45 hp,206 Nm,280 Nm,+ 74 Nm
+Fiat,Grande Punto,10/2005>...,Gasoline,1.4 T-jet Supersport,180 hp,200 hp,+ 20 hp,270 Nm,320 Nm,+ 50 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.3 Mjet,95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Grande Punto,10/2005>...,Gasoline,1.4 T-jet Abarth,155 hp,175 hp,+ 20 hp,230 Nm,280 Nm,+ 50 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.6 JTDm,120 hp,145 hp,+ 25 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Grande Punto,10/2005>...,Diesel,1.3 JTD,70 hp,95 hp,+ 25 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Idea,2004>2012,Diesel,1.3 JTD,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Idea,2004>2012,Diesel,1.3 M-Jet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Idea,2004>2012,Diesel,1.9 JTD,100 hp,140 hp,+ 40 hp,260 Nm,340 Nm,+ 80 Nm
+Fiat,Idea,2004>2012,Diesel,1.3 JTD,70 hp,90 hp,+ 20 hp,180 Nm,230 Nm,+ 50 Nm
+Fiat,Linea,2007>...,Diesel,1.3 MJT,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Marea,1999>2002,Diesel,1.9 JTD,105 hp,135 hp,+ 30 hp,200 Nm,290 Nm,+ 90 Nm
+Fiat,Marea,1999>2002,Diesel,2.4 JTD,130 hp,166 hp,+ 36 hp,310 Nm,355 Nm,+ 45 Nm
+Fiat,Marea,1999>2002,Diesel,2.4 JTD,124 hp,150 hp,+ 26 hp,265 Nm,300 Nm,+ 35 Nm
+Fiat,Multipla,2002>2010,Diesel,1.9 JTD,115 hp,145 hp,+ 30 hp,203 Nm,257 Nm,+ 54 Nm
+Fiat,Multipla,2002>2010,Diesel,1.9 Multijet,120 hp,160 hp,+ 40 hp,206 Nm,350 Nm,+ 144 Nm
+Fiat,Ottimo,2014>...,Gasoline,1.4 T-Jet,150 hp,175 hp,+ 25 hp,231 Nm,280 Nm,+ 49 Nm
+Fiat,Ottimo,2014>...,Gasoline,1.4 T-Jet,120 hp,155 hp,+ 35 hp,207 Nm,280 Nm,+ 73 Nm
+Fiat,Panda,...>2017,Diesel,1.3 JTD Mjet II,75 hp,95 hp,+ 20 hp,145 Nm,245 Nm,+ 100 Nm
+Fiat,Panda,...>2017,Diesel,1.3 MJT (4x4),80 hp,100 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Panda,...>2017,Diesel,1.3 MJT,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Panda,...>2017,Gasoline,1.2 8V,69 hp,77 hp,+ 8 hp,102 Nm,112 Nm,+ 10 Nm
+Fiat,Panda,...>2017,Diesel,1.3 JTDm,70 hp,85 hp,+ 15 hp,145 Nm,180 Nm,+ 35 Nm
+Fiat,Panda,...>2017,Gasoline,0.9 TwinAir,85 hp,95 hp,+ 10 hp,145 Nm,190 Nm,+ 45 Nm
+Fiat,Panda,2017>...,Diesel,1.3 MultiJet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Punto,06/2003>01/2006,Diesel,1.3 JTD 16V,70 hp,90 hp,+ 20 hp,180 Nm,230 Nm,+ 50 Nm
+Fiat,Punto,06/2003>01/2006,Gasoline,1.2 8V,69 hp,77 hp,+ 8 hp,102 Nm,112 Nm,+ 10 Nm
+Fiat,Punto,06/2003>01/2006,Diesel,1.9 JTD,85 hp,115 hp,+ 30 hp,196 Nm,260 Nm,+ 64 Nm
+Fiat,Punto,06/2003>01/2006,Diesel,1.9 JTD,100 hp,140 hp,+ 40 hp,260 Nm,340 Nm,+ 80 Nm
+Fiat,Punto EVO,2010>...,Gasoline,1.4 T Abarth,165 hp,180 hp,+ 15 hp,250 Nm,300 Nm,+ 50 Nm
+Fiat,Punto EVO,2010>...,Diesel,1.3 Mjet,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Punto EVO,2010>...,Gasoline,1.4 Multiair,135 hp,160 hp,+ 25 hp,206 Nm,300 Nm,+ 94 Nm
+Fiat,Punto EVO,2010>...,Gasoline,1.4 T Abarth Supersport,180 hp,200 hp,+ 20 hp,270 Nm,320 Nm,+ 50 Nm
+Fiat,Punto EVO,2010>...,Diesel,1.3 Mjet,85 hp,110 hp,+ 25 hp,204 Nm,250 Nm,+ 46 Nm
+Fiat,Punto EVO,2010>...,Diesel,1.3 Mjet,95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Punto EVO,2010>...,Gasoline,1.4 T Abarth Scorpione,180 hp,200 hp,+ 20 hp,270 Nm,320 Nm,+ 50 Nm
+Fiat,Punto EVO,2010>...,Gasoline,1.4 8V,77 hp,85 hp,+ 8 hp,115 Nm,125 Nm,+ 10 Nm
+Fiat,Punto EVO,2010>...,Diesel,1.3 Mjet,70 hp,95 hp,+ 25 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Punto EVO,2010>...,Gasoline,1.4 T Abarth EsseEsse,180 hp,200 hp,+ 20 hp,270 Nm,320 Nm,+ 50 Nm
+Fiat,Punto EVO,2010>...,Gasoline,1.2 8V,69 hp,77 hp,+ 8 hp,102 Nm,112 Nm,+ 10 Nm
+Fiat,Punto EVO,2010>...,Diesel,1.6 Mjet,120 hp,145 hp,+ 25 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Qubo,2008>2016,Diesel,1.3 MJet,95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Qubo,2016>...,Diesel,1.3 MJet,80 hp,100 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Qubo,2016>...,Diesel,1.3 Mjet,95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Qubo,2008>2016,Diesel,1.3 MJet,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Fiat,Scudo,2008>...,Diesel,2.0 JTDM,120 hp,150 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Fiat,Scudo,2008>...,Diesel,1.6 JTDM,90 hp,115 hp,+ 25 hp,180 Nm,240 Nm,+ 60 Nm
+Fiat,Scudo,2008>...,Diesel,2.0 JTDM,136 hp,185 hp,+ 49 hp,320 Nm,400 Nm,+ 80 Nm
+Fiat,Scudo,2008>...,Diesel,2.0 JTD,80 hp,115 hp,+ 35 hp,190 Nm,260 Nm,+ 70 Nm
+Fiat,Scudo,2008>...,Diesel,2.0 JTDM (2011 > ...),128 hp,185 hp,+ 57 hp,300 Nm,400 Nm,+ 100 Nm
+Fiat,Scudo,2008>...,Diesel,2.0 JTDM,163 hp,195 hp,+ 32 hp,360 Nm,425 Nm,+ 65 Nm
+Fiat,Sedici,2006>2015,Diesel,2.0 Mjet,150 hp,180 hp,+ 30 hp,367 Nm,420 Nm,+ 53 Nm
+Fiat,Sedici,2006>2015,Diesel,2.0 Mjet,135 hp,165 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Sedici,2006>2015,Diesel,1.9 JTD,120 hp,155 hp,+ 35 hp,280 Nm,360 Nm,+ 80 Nm
+Fiat,Stilo,11/2001>07/2007,Diesel,1.9 JTD Multijet,150 hp,185 hp,+ 35 hp,305 Nm,380 Nm,+ 75 Nm
+Fiat,Stilo,11/2001>07/2007,Diesel,1.9 JTD Multijet,140 hp,175 hp,+ 35 hp,305 Nm,370 Nm,+ 65 Nm
+Fiat,Stilo,11/2001>07/2007,Diesel,1.9 JTD Multijet,120 hp,155 hp,+ 35 hp,280 Nm,345 Nm,+ 65 Nm
+Fiat,Stilo,11/2001>07/2007,Diesel,1.9 JTD Multijet,100 hp,135 hp,+ 35 hp,200 Nm,265 Nm,+ 65 Nm
+Fiat,Stilo,11/2001>07/2007,Diesel,1.9 JTD Multijet,115 hp,145 hp,+ 30 hp,255 Nm,325 Nm,+ 70 Nm
+Fiat,Stilo,11/2001>07/2007,Diesel,1.9 JTD Multijet,80 hp,110 hp,+ 30 hp,196 Nm,260 Nm,+ 64 Nm
+Fiat,Strada,2006>...,Diesel,1.3 MJT,85 hp,110 hp,+ 25 hp,204 Nm,250 Nm,+ 46 Nm
+Fiat,Strada,2006>...,Diesel,1.9 JTD,80 hp,110 hp,+ 30 hp,196 Nm,260 Nm,+ 64 Nm
+Fiat,Strada,2006>...,Diesel,1.3 MJT,95 hp,115 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Talento,2020>...,Diesel,2.0 EcoJet,120 hp,205 hp,+ 85 hp,320 Nm,420 Nm,+ 100 Nm
+Fiat,Talento,2020>...,Diesel,2.0 EcoJet,170 hp,205 hp,+ 35 hp,380 Nm,420 Nm,+ 40 Nm
+Fiat,Talento,2016>2020,Diesel,1.6 Mjet TwinTurbo,125 hp,165 hp,+ 40 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Talento,2016>2020,Diesel,1.6 Mjet TwinTurbo,145 hp,175 hp,+ 30 hp,340 Nm,390 Nm,+ 50 Nm
+Fiat,Talento,2020>...,Diesel,1.6 EcoJet,95 hp,145 hp,+ 50 hp,260 Nm,350 Nm,+ 90 Nm
+Fiat,Talento,2020>...,Diesel,2.0 EcoJet,145 hp,205 hp,+ 60 hp,350 Nm,420 Nm,+ 70 Nm
+Fiat,Talento,2016>2020,Diesel,1.6 Mjet,120 hp,145 hp,+ 25 hp,300 Nm,380 Nm,+ 80 Nm
+Fiat,Talento,2016>2020,Diesel,1.6 Mjet,95 hp,145 hp,+ 50 hp,260 Nm,380 Nm,+ 120 Nm
+Fiat,Tipo,2016>...,Diesel,1.3 MJT,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm
+Fiat,Tipo,2016>...,Gasoline,1.4 T-Jet,120 hp,150 hp,+ 30 hp,215 Nm,280 Nm,+ 65 Nm
+Fiat,Tipo,2016>...,Diesel,1.6 MJT,120 hp,145 hp,+ 25 hp,320 Nm,380 Nm,+ 60 Nm
+Fiat,Toro,2017>...,Diesel,2.0 Mjet,170 hp,200 hp,+ 30 hp,350 Nm,425 Nm,+ 75 Nm
+Fiat,Toro,2017>...,Gasoline,1.4 T-Jet,150 hp,185 hp,+ 35 hp,231 Nm,290 Nm,+ 59 Nm
+Fiat,Viaggio,2014>...,Gasoline,1.4 T-Jet,120 hp,150 hp,+ 30 hp,207 Nm,300 Nm,+ 93 Nm
+Fiat,Viaggio,2014>...,Gasoline,1.4 T-Jet,150 hp,185 hp,+ 35 hp,231 Nm,290 Nm,+ 59 Nm

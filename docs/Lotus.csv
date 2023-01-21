@@ -1,0 +1,20 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Lotus,2-Eleven,All,Gasoline,2-Eleven,192 hp,205 hp,+ 13 hp,181 Nm,196 Nm,+ 15 Nm
+Lotus,2-Eleven,All,Gasoline,2-Eleven SC,255 hp, hp,0 hp,242 Nm, Nm,0 Nm
+Lotus,Elise,2007>2011,Gasoline,Elise SC,220 hp,240 hp,+ 20 hp,212 Nm,230 Nm,+ 18 Nm
+Lotus,Elise,2011>...,Gasoline,Elise S / CR / Cup / Cup R,220 hp,240 hp,+ 20 hp,250 Nm,280 Nm,+ 30 Nm
+Lotus,Elise,2007>2011,Gasoline,Elise R,192 hp,205 hp,+ 13 hp,181 Nm,196 Nm,+ 15 Nm
+Lotus,Elise,2011>...,Gasoline,Elise Cup,246 hp,265 hp,+ 19 hp,250 Nm,270 Nm,+ 20 Nm
+Lotus,Elise,2007>2011,Gasoline,Elise S,136 hp,150 hp,+ 14 hp,160 Nm,175 Nm,+ 15 Nm
+Lotus,Elise,2011>...,Gasoline,Elise S / CR,136 hp,150 hp,+ 14 hp,160 Nm,180 Nm,+ 20 Nm
+Lotus,Europa,2006>2010,Gasoline,Europa S,200 hp,240 hp,+ 40 hp,272 Nm,360 Nm,+ 88 Nm
+Lotus,Evora,2009>2016,Gasoline,3.5 V6 S / SR,351 hp,360 hp,+ 9 hp,400 Nm,415 Nm,+ 15 Nm
+Lotus,Evora,2016>...,Gasoline,3.5 V6 S,416 hp, hp,0 hp,410 Nm, Nm,0 Nm
+Lotus,Evora,2009>2016,Gasoline,3.5 V6,280 hp,305 hp,+ 25 hp,350 Nm,400 Nm,+ 50 Nm
+Lotus,Evora,2016>...,Gasoline,3.5 V6,400 hp, hp,0 hp,410 Nm, Nm,0 Nm
+Lotus,Exige,2005>2016,Gasoline,Exige 1.8,192 hp,205 hp,+ 13 hp,185 Nm,200 Nm,+ 15 Nm
+Lotus,Exige,2016>...,Gasoline,Exige 3.5 V6,350 hp,375 hp,+ 25 hp,400 Nm,415 Nm,+ 15 Nm
+Lotus,Exige,2005>2016,Gasoline,Exige S 1.8 Comp,221 hp,240 hp,+ 19 hp,215 Nm,230 Nm,+ 15 Nm
+Lotus,Exige,2016>...,Gasoline,Exige Sport 3.5 V6,380 hp,390 hp,+ 10 hp,410 Nm,425 Nm,+ 15 Nm
+Lotus,Exige,2005>2016,Gasoline,Exige Cup 1.8 Comp,260 hp,270 hp,+ 10 hp,236 Nm,246 Nm,+ 10 Nm
+Lotus,Exige,2005>2016,Gasoline,Exige S 3.5 V6,350 hp,375 hp,+ 25 hp,400 Nm,415 Nm,+ 15 Nm

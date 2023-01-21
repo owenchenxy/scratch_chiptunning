@@ -1,0 +1,161 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Porsche,911,1997>2006,Gasoline,3.4i Carrera,300 hp,323 hp,+ 23 hp,340 Nm,361 Nm,+ 21 Nm
+Porsche,911,2004>2011,Gasoline,3.8i Carrera S X51,376 hp,390 hp,+ 14 hp,415 Nm,440 Nm,+ 25 Nm
+Porsche,911,2016>2018,Gasoline,GT3 RS,520 hp,540 hp,+ 20 hp,470 Nm,490 Nm,+ 20 Nm
+Porsche,911,2019>...,Gasoline,GT3,520 hp,540 hp,+ 20 hp,470 Nm,490 Nm,+ 20 Nm
+Porsche,911,2011>2015,Gasoline,3.8 DFI GTS,430 hp,450 hp,+ 20 hp,440 Nm,460 Nm,+ 20 Nm
+Porsche,911,1997>2006,Gasoline,3.6i GT3,381 hp,403 hp,+ 22 hp,385 Nm,415 Nm,+ 30 Nm
+Porsche,911,2004>2011,Gasoline,3.6i GT2,530 hp,580 hp,+ 50 hp,680 Nm,800 Nm,+ 120 Nm
+Porsche,911,2011>2015,Gasoline,3.8 DFI GT3,476 hp,500 hp,+ 24 hp,440 Nm,460 Nm,+ 20 Nm
+Porsche,911,2016>2018,Gasoline,GT3,500 hp,525 hp,+ 25 hp,460 Nm,485 Nm,+ 25 Nm
+Porsche,911,2004>2011,Gasoline,3.8i Carrera S,355 hp,373 hp,+ 18 hp,400 Nm,420 Nm,+ 20 Nm
+Porsche,911,2016>2018,Gasoline,4.0 R,500 hp,525 hp,+ 25 hp,460 Nm,485 Nm,+ 25 Nm
+Porsche,911,2019>...,Gasoline,3.8 Bi-Turbo,580 hp,700 hp,+ 120 hp,750 Nm,900 Nm,+ 150 Nm
+Porsche,911,1997>2006,Gasoline,3.6i GT3,360 hp,381 hp,+ 21 hp,370 Nm,405 Nm,+ 35 Nm
+Porsche,911,2016>2018,Gasoline,3.8 Turbo S Exclusive,607 hp,667 hp,+ 60 hp,750 Nm,830 Nm,+ 80 Nm
+Porsche,911,1997>2006,Gasoline,3.6i Carrera,345 hp,355 hp,+ 10 hp,370 Nm,386 Nm,+ 16 Nm
+Porsche,911,2019>...,Gasoline,3.8 Bi-Turbo S,650 hp,720 hp,+ 70 hp,800 Nm,950 Nm,+ 150 Nm
+Porsche,911,1997>2006,Gasoline,3.6i GT3 RS,400 hp,420 hp,+ 20 hp,385 Nm,420 Nm,+ 35 Nm
+Porsche,911,2004>2011,Gasoline,3.8 DFI Carrera S,385 hp,405 hp,+ 20 hp,420 Nm,440 Nm,+ 20 Nm
+Porsche,911,2011>2015,Gasoline,4.0 DFI GT3 RS,500 hp,525 hp,+ 25 hp,460 Nm,485 Nm,+ 25 Nm
+Porsche,911,2004>2011,Gasoline,3.8 DFI Turbo S,530 hp,580 hp,+ 50 hp,700 Nm,800 Nm,+ 100 Nm
+Porsche,911,2004>2011,Gasoline,3.8 DFI Turbo,500 hp,550 hp,+ 50 hp,650 Nm,740 Nm,+ 90 Nm
+Porsche,911,2004>2011,Gasoline,3.6i Turbo,480 hp,520 hp,+ 40 hp,620 Nm,720 Nm,+ 100 Nm
+Porsche,911,2004>2011,Gasoline,4.0 GT3 RS 4.0,500 hp,520 hp,+ 20 hp,460 Nm,480 Nm,+ 20 Nm
+Porsche,911,2004>2011,Gasoline,3.8 GT3 RS (& CUP ),450 hp,470 hp,+ 20 hp,430 Nm,470 Nm,+ 40 Nm
+Porsche,911,2004>2011,Gasoline,3.8 GT3,435 hp,456 hp,+ 21 hp,430 Nm,453 Nm,+ 23 Nm
+Porsche,911,2004>2011,Gasoline,3.6i GT3 RS,415 hp,436 hp,+ 21 hp,405 Nm,432 Nm,+ 27 Nm
+Porsche,911,1997>2006,Gasoline,3.6i GT2,462 hp,515 hp,+ 53 hp,620 Nm,725 Nm,+ 105 Nm
+Porsche,911,1997>2006,Gasoline,3.6i Turbo S ( & X50 ),450 hp,495 hp,+ 45 hp,620 Nm,670 Nm,+ 50 Nm
+Porsche,911,2011>2015,Gasoline,3.8 DFI Turbo S,560 hp,600 hp,+ 40 hp,750 Nm,800 Nm,+ 50 Nm
+Porsche,911,2004>2011,Gasoline,3.6i GT3,415 hp,436 hp,+ 21 hp,405 Nm,432 Nm,+ 27 Nm
+Porsche,911,2011>2015,Gasoline,3.8 DFI Turbo,520 hp,600 hp,+ 80 hp,710 Nm,800 Nm,+ 90 Nm
+Porsche,911,2004>2011,Gasoline,3.8 DFI Carrera GTS,408 hp,425 hp,+ 17 hp,420 Nm,445 Nm,+ 25 Nm
+Porsche,911,1997>2006,Gasoline,3.6i Turbo,420 hp,480 hp,+ 60 hp,560 Nm,650 Nm,+ 90 Nm
+Porsche,911,2016>2018,Gasoline,3.8T GT2 RS,700 hp,760 hp,+ 60 hp,750 Nm,830 Nm,+ 80 Nm
+Porsche,911,2004>2011,Gasoline,3.6 DFI Carrera,345 hp,360 hp,+ 15 hp,390 Nm,410 Nm,+ 20 Nm
+Porsche,911,2011>2015,Gasoline,3.8 DFI Carrera S,400 hp,420 hp,+ 20 hp,440 Nm,460 Nm,+ 20 Nm
+Porsche,911,2004>2011,Gasoline,3.6i GT2 RS,620 hp,650 hp,+ 30 hp,700 Nm,800 Nm,+ 100 Nm
+Porsche,911,2004>2011,Gasoline,3.6i Carrera,325 hp,340 hp,+ 15 hp,370 Nm,395 Nm,+ 25 Nm
+Porsche,911,2016>2018,Gasoline,3.8 Turbo S,580 hp,650 hp,+ 70 hp,700 Nm,820 Nm,+ 120 Nm
+Porsche,911,2016>2018,Gasoline,3.0T Carrera GTS / 4 GTS,450 hp,520 hp,+ 70 hp,550 Nm,660 Nm,+ 110 Nm
+Porsche,911,2019>...,Gasoline,3.0T,480 hp,530 hp,+ 50 hp,550 Nm,650 Nm,+ 100 Nm
+Porsche,911,2019>...,Gasoline,3.0T,450 hp,530 hp,+ 80 hp,530 Nm,650 Nm,+ 120 Nm
+Porsche,911,2019>...,Gasoline,3.0T,385 hp,470 hp,+ 85 hp,520 Nm,620 Nm,+ 100 Nm
+Porsche,911,1997>2006,Gasoline,3.6i Carrera,320 hp,338 hp,+ 18 hp,370 Nm,386 Nm,+ 16 Nm
+Porsche,911,2016>2018,Gasoline,3.8 Turbo,540 hp,650 hp,+ 110 hp,660 Nm,820 Nm,+ 160 Nm
+Porsche,911,2016>2018,Gasoline,3.0T Carrera / 4,370 hp,470 hp,+ 100 hp,450 Nm,620 Nm,+ 170 Nm
+Porsche,911,2016>2018,Gasoline,3.0T Carrera S / 4S,420 hp,470 hp,+ 50 hp,500 Nm,620 Nm,+ 120 Nm
+Porsche,911,2011>2015,Gasoline,3.4 DFI Carrera,350 hp,365 hp,+ 15 hp,390 Nm,410 Nm,+ 20 Nm
+Porsche,918,2013>...,Gasoline,4.6 V8 + 2 E-Engines,887 hp,924 hp,+ 37 hp,1275 Nm,1320 Nm,+ 45 Nm
+Porsche,Boxster,2005>2011,Gasoline,S 3.2i,280 hp,295 hp,+ 15 hp,320 Nm,335 Nm,+ 15 Nm
+Porsche,Boxster,2012>2016,Gasoline,3.4 DFI GTS,330 hp,350 hp,+ 20 hp,360 Nm,380 Nm,+ 20 Nm
+Porsche,Boxster,2016>...,Gasoline,GT4 - 4.0,420 hp,440 hp,+ 20 hp,420 Nm,440 Nm,+ 20 Nm
+Porsche,Boxster,2016>...,Gasoline,2.0T,300 hp,370 hp,+ 70 hp,380 Nm,460 Nm,+ 80 Nm
+Porsche,Boxster,2005>2011,Gasoline,2.9i,256 hp,274 hp,+ 18 hp,290 Nm,311 Nm,+ 21 Nm
+Porsche,Boxster,2016>...,Gasoline,2.0T,250 hp,370 hp,+ 120 hp,310 Nm,460 Nm,+ 150 Nm
+Porsche,Boxster,2012>2016,Gasoline,3.8 DFI Spyder,375 hp,395 hp,+ 20 hp,420 Nm,440 Nm,+ 20 Nm
+Porsche,Boxster,2005>2011,Gasoline,2.7i ( > 2007 ),211 hp,266 hp,+ 55 hp,273 Nm,291 Nm,+ 18 Nm
+Porsche,Boxster,2005>2011,Gasoline,S 3.4 DFI,310 hp,337 hp,+ 27 hp,360 Nm,381 Nm,+ 21 Nm
+Porsche,Boxster,2016>...,Gasoline,S - 2.5T,350 hp,400 hp,+ 50 hp,420 Nm,530 Nm,+ 110 Nm
+Porsche,Boxster,2012>2016,Gasoline,3.4 DFI S,315 hp,335 hp,+ 20 hp,360 Nm,380 Nm,+ 20 Nm
+Porsche,Boxster,2005>2011,Gasoline,2.7i,211 hp,255 hp,+ 44 hp,270 Nm,285 Nm,+ 15 Nm
+Porsche,Boxster,2012>2016,Gasoline,2.7 DFI,265 hp,285 hp,+ 20 hp,280 Nm,300 Nm,+ 20 Nm
+Porsche,Boxster,2016>...,Gasoline,GTS - 2.5T,365 hp,400 hp,+ 35 hp,430 Nm,530 Nm,+ 100 Nm
+Porsche,Boxster,2012>2016,Gasoline,2.7 DFI,211 hp,285 hp,+ 74 hp,290 Nm,300 Nm,+ 10 Nm
+Porsche,Boxster,2005>2011,Gasoline,2.9i,211 hp,274 hp,+ 63 hp,290 Nm,311 Nm,+ 21 Nm
+Porsche,Boxster,2005>2011,Gasoline,RS60 3.4i,303 hp,320 hp,+ 17 hp,340 Nm,360 Nm,+ 20 Nm
+Porsche,Boxster,2016>...,Gasoline,GTS - 4.0,400 hp,440 hp,+ 40 hp,420 Nm,440 Nm,+ 20 Nm
+Porsche,Boxster,2005>2011,Gasoline,2.7i,240 hp,255 hp,+ 15 hp,270 Nm,285 Nm,+ 15 Nm
+Porsche,Boxster,2005>2011,Gasoline,Spyder 3.4 DFI,320 hp,338 hp,+ 18 hp,360 Nm,385 Nm,+ 25 Nm
+Porsche,Boxster,2005>2011,Gasoline,2.7i ( > 2007 ),245 hp,266 hp,+ 21 hp,273 Nm,291 Nm,+ 18 Nm
+Porsche,Boxster,2005>2011,Gasoline,S 3.4i,295 hp,310 hp,+ 15 hp,340 Nm,355 Nm,+ 15 Nm
+Porsche,Carrera GT,2005>2007,Gasoline,5.7i V10,612 hp,639 hp,+ 27 hp,590 Nm,628 Nm,+ 38 Nm
+Porsche,Cayenne,2014>2017,Diesel,4.2 V8 TDI,385 hp,450 hp,+ 65 hp,850 Nm,950 Nm,+ 100 Nm
+Porsche,Cayenne,2002>2006,Gasoline,4.5i Turbo X51,500 hp,530 hp,+ 30 hp,700 Nm,780 Nm,+ 80 Nm
+Porsche,Cayenne,2010>2014,Gasoline,4.8 DFI V8 Turbo,500 hp,590 hp,+ 90 hp,700 Nm,850 Nm,+ 150 Nm
+Porsche,Cayenne,2007>2010,Gasoline,4.8i Turbo,500 hp,550 hp,+ 50 hp,700 Nm,790 Nm,+ 90 Nm
+Porsche,Cayenne,2014>2017,Diesel,3.0 V6 TDI,211 hp,300 hp,+ 89 hp,580 Nm,630 Nm,+ 50 Nm
+Porsche,Cayenne,2010>2014,Diesel,3.0 TDI,240 hp,300 hp,+ 60 hp,550 Nm,630 Nm,+ 80 Nm
+Porsche,Cayenne,2014>2017,Gasoline,4.8 DFI V8 Turbo S,570 hp,640 hp,+ 70 hp,800 Nm,950 Nm,+ 150 Nm
+Porsche,Cayenne,2007>2010,Gasoline,3.6 V6,290 hp,312 hp,+ 22 hp,385 Nm,407 Nm,+ 22 Nm
+Porsche,Cayenne,2010>2014,Diesel,4.2 V8 TDI,382 hp,450 hp,+ 68 hp,850 Nm,950 Nm,+ 100 Nm
+Porsche,Cayenne,2018>...,Gasoline(default),4.0T Turbo,550 hp,620 hp,+ 70 hp,770 Nm,880 Nm,+ 110 Nm
+Porsche,Cayenne,2007>2010,Gasoline,4.8i Turbo S,550 hp,600 hp,+ 50 hp,750 Nm,850 Nm,+ 100 Nm
+Porsche,Cayenne,2002>2006,Gasoline,4.5i Turbo S,520 hp,560 hp,+ 40 hp,720 Nm,800 Nm,+ 80 Nm
+Porsche,Cayenne,2018>...,Gasoline(default),Turbo Coupé GT,460 hp, hp,0 hp, Nm, Nm,0 Nm
+Porsche,Cayenne,2010>2014,Gasoline,4.8 DFI V8 Turbo S,550 hp,590 hp,+ 40 hp,700 Nm,850 Nm,+ 150 Nm
+Porsche,Cayenne,2014>2017,Diesel,3.0 V6 TDI,262 hp,300 hp,+ 38 hp,580 Nm,630 Nm,+ 50 Nm
+Porsche,Cayenne,2010>2014,Diesel,3.0 TDI,211 hp,300 hp,+ 89 hp,560 Nm,630 Nm,+ 70 Nm
+Porsche,Cayenne,2007>2010,Diesel,3.0 TDI,240 hp,295 hp,+ 55 hp,550 Nm,620 Nm,+ 70 Nm
+Porsche,Cayenne,2018>...,Gasoline,GTS 4.0T,460 hp,620 hp,+ 160 hp,620 Nm,880 Nm,+ 260 Nm
+Porsche,Cayenne,2002>2006,Gasoline,3.2i v6,250 hp,270 hp,+ 20 hp,320 Nm,345 Nm,+ 25 Nm
+Porsche,Cayenne,2018>...,Gasoline(default),3.0T,340 hp,400 hp,+ 60 hp,450 Nm,680 Nm,+ 230 Nm
+Porsche,Cayenne,2010>2014,Gasoline,4.8 DFI V8 S,400 hp,420 hp,+ 20 hp,500 Nm,520 Nm,+ 20 Nm
+Porsche,Cayenne,2007>2010,Gasoline,4.8 V8 GTS,405 hp,425 hp,+ 20 hp,500 Nm,535 Nm,+ 35 Nm
+Porsche,Cayenne,2014>2017,Gasoline,3.6T S DFI,420 hp,480 hp,+ 60 hp,550 Nm,660 Nm,+ 110 Nm
+Porsche,Cayenne,2002>2006,Gasoline,4.5i S,340 hp,362 hp,+ 22 hp,420 Nm,447 Nm,+ 27 Nm
+Porsche,Cayenne,2014>2017,Gasoline,3.6T DFI GTS,440 hp,480 hp,+ 40 hp,600 Nm,660 Nm,+ 60 Nm
+Porsche,Cayenne,2010>2014,Gasoline,3.6 DFI,300 hp,320 hp,+ 20 hp,400 Nm,420 Nm,+ 20 Nm
+Porsche,Cayenne,2018>...,Gasoline,2.9T,440 hp,510 hp,+ 70 hp,550 Nm,780 Nm,+ 230 Nm
+Porsche,Cayenne,2007>2010,Diesel,3.0 TDI,211 hp,295 hp,+ 84 hp,550 Nm,620 Nm,+ 70 Nm
+Porsche,Cayenne,2014>2017,Gasoline,4.8 DFI V8 Turbo,520 hp,640 hp,+ 120 hp,750 Nm,950 Nm,+ 200 Nm
+Porsche,Cayenne,2010>2014,Gasoline,4.8 DFI V8 GTS,420 hp,440 hp,+ 20 hp,515 Nm,535 Nm,+ 20 Nm
+Porsche,Cayenne,2007>2010,Gasoline,4.8 V8 S,385 hp,405 hp,+ 20 hp,500 Nm,535 Nm,+ 35 Nm
+Porsche,Cayenne,2010>2014,Diesel,3.0 TDI,245 hp,300 hp,+ 55 hp,550 Nm,630 Nm,+ 80 Nm
+Porsche,Cayenne,2002>2006,Gasoline,4.5i Turbo,450 hp,500 hp,+ 50 hp,620 Nm,750 Nm,+ 130 Nm
+Porsche,Cayenne,2014>2017,Gasoline,3.6 DFI,300 hp,320 hp,+ 20 hp,400 Nm,420 Nm,+ 20 Nm
+Porsche,Cayman,2013>2015,Gasoline,2.7 DFI,275 hp,285 hp,+ 10 hp,290 Nm,310 Nm,+ 20 Nm
+Porsche,Cayman,2006>2013,Gasoline,2.9i,265 hp,280 hp,+ 15 hp,300 Nm,322 Nm,+ 22 Nm
+Porsche,Cayman,2016>...,Gasoline,2.0T,300 hp,370 hp,+ 70 hp,380 Nm,460 Nm,+ 80 Nm
+Porsche,Cayman,2006>2013,Gasoline,3.4i,295 hp,305 hp,+ 10 hp,340 Nm,350 Nm,+ 10 Nm
+Porsche,Cayman,2013>2015,Gasoline,2.7 DFI,211 hp,285 hp,+ 74 hp,290 Nm,310 Nm,+ 20 Nm
+Porsche,Cayman,2013>2015,Gasoline,3.4 DFI,325 hp,340 hp,+ 15 hp,370 Nm,390 Nm,+ 20 Nm
+Porsche,Cayman,2013>2015,Gasoline,3.4 DFI GTS,340 hp,355 hp,+ 15 hp,380 Nm,400 Nm,+ 20 Nm
+Porsche,Cayman,2016>...,Gasoline,GTS - 4.0,400 hp,440 hp,+ 40 hp,420 Nm,440 Nm,+ 20 Nm
+Porsche,Cayman,2006>2013,Gasoline,2.9i,211 hp,280 hp,+ 69 hp,300 Nm,322 Nm,+ 22 Nm
+Porsche,Cayman,2016>...,Gasoline,2.0T,250 hp,300 hp,+ 50 hp,310 Nm,380 Nm,+ 70 Nm
+Porsche,Cayman,2006>2013,Gasoline,2.7i,211 hp,255 hp,+ 44 hp,273 Nm,285 Nm,+ 12 Nm
+Porsche,Cayman,2006>2013,Gasoline,3.4 DFI S,320 hp,337 hp,+ 17 hp,370 Nm,390 Nm,+ 20 Nm
+Porsche,Cayman,2013>2015,Gasoline,3.8 DFI GT4,385 hp,405 hp,+ 20 hp,420 Nm,440 Nm,+ 20 Nm
+Porsche,Cayman,2006>2013,Gasoline,3.4 DFI S,310 hp,337 hp,+ 27 hp,360 Nm,381 Nm,+ 21 Nm
+Porsche,Cayman,2006>2013,Gasoline,3.4 DFI R,330 hp,347 hp,+ 17 hp,370 Nm,390 Nm,+ 20 Nm
+Porsche,Cayman,2016>...,Gasoline,GT4 - 4.0,420 hp,440 hp,+ 20 hp,420 Nm,440 Nm,+ 20 Nm
+Porsche,Cayman,2006>2013,Gasoline,3.4i S,303 hp,318 hp,+ 15 hp,340 Nm,360 Nm,+ 20 Nm
+Porsche,Cayman,2016>...,Gasoline,GTS - 2.5T,365 hp,400 hp,+ 35 hp,430 Nm,530 Nm,+ 100 Nm
+Porsche,Cayman,2016>...,Gasoline,S - 2.5T,350 hp,400 hp,+ 50 hp,420 Nm,530 Nm,+ 110 Nm
+Porsche,Cayman,2006>2013,Gasoline,2.7i,245 hp,255 hp,+ 10 hp,273 Nm,285 Nm,+ 12 Nm
+Porsche,Macan,2019>...,Gasoline,2.0 TFSI,245 hp,290 hp,+ 45 hp,370 Nm,470 Nm,+ 100 Nm
+Porsche,Macan,2013>2018,Gasoline,3.0 Bi-Turbo S,340 hp,400 hp,+ 60 hp,460 Nm,600 Nm,+ 140 Nm
+Porsche,Macan,2019>...,Gasoline,2.9T - Turbo,440 hp,510 hp,+ 70 hp,550 Nm,680 Nm,+ 130 Nm
+Porsche,Macan,2013>2018,Diesel,3.0 V6 TDI S,211 hp,310 hp,+ 99 hp,580 Nm,650 Nm,+ 70 Nm
+Porsche,Macan,2013>2018,Diesel,3.0 V6 TDI S,258 hp,310 hp,+ 52 hp,580 Nm,650 Nm,+ 70 Nm
+Porsche,Macan,2013>2018,Gasoline,2.0 TFSI,252 hp,290 hp,+ 38 hp,370 Nm,470 Nm,+ 100 Nm
+Porsche,Macan,2019>...,Gasoline,3.0T - S,354 hp,400 hp,+ 46 hp,480 Nm,600 Nm,+ 120 Nm
+Porsche,Macan,2013>2018,Gasoline,3.0 Bi-Turbo GTS,360 hp,400 hp,+ 40 hp,500 Nm,600 Nm,+ 100 Nm
+Porsche,Macan,2013>2018,Gasoline,3.6 Bi-Turbo,400 hp,460 hp,+ 60 hp,550 Nm,660 Nm,+ 110 Nm
+Porsche,Macan,2013>2018,Gasoline,3.6 Bi-Turbo Pack Performance,440 hp,460 hp,+ 20 hp,550 Nm,660 Nm,+ 110 Nm
+Porsche,Macan,2019>...,Gasoline,2.9T - GTS,380 hp, hp,0 hp,520 Nm, Nm,0 Nm
+Porsche,Panamera,2009>2013,Diesel,3.0 TDi,240 hp,300 hp,+ 60 hp,550 Nm,630 Nm,+ 80 Nm
+Porsche,Panamera,2009>2013,Diesel,3.0 TDi,250 hp,300 hp,+ 50 hp,550 Nm,630 Nm,+ 80 Nm
+Porsche,Panamera,2009>2013,Gasoline,4.8 DFI Turbo S,550 hp,590 hp,+ 40 hp,750 Nm,800 Nm,+ 50 Nm
+Porsche,Panamera,2013>2016,Diesel,3.0 V6 Bi TDI,300 hp,350 hp,+ 50 hp,650 Nm,720 Nm,+ 70 Nm
+Porsche,Panamera,2017>2020,Gasoline,3.0T,330 hp,400 hp,+ 70 hp,450 Nm,680 Nm,+ 230 Nm
+Porsche,Panamera,2009>2013,Gasoline,4.8 DFI Turbo,500 hp,590 hp,+ 90 hp,700 Nm,800 Nm,+ 100 Nm
+Porsche,Panamera,2020>...,Gasoline,2.9T,330 hp, hp,0 hp,450 Nm, Nm,0 Nm
+Porsche,Panamera,2013>2016,Gasoline,3.0T S,420 hp,475 hp,+ 55 hp,500 Nm,570 Nm,+ 70 Nm
+Porsche,Panamera,2020>...,Gasoline,4.0T - GTS,480 hp, hp,0 hp,620 Nm, Nm,0 Nm
+Porsche,Panamera,2009>2013,Gasoline,3.6 DFI,300 hp,320 hp,+ 20 hp,400 Nm,420 Nm,+ 20 Nm
+Porsche,Panamera,2017>2020,Gasoline,2.9T,440 hp,510 hp,+ 70 hp,550 Nm,780 Nm,+ 230 Nm
+Porsche,Panamera,2020>...,Gasoline,4.0T - Turbo S,630 hp, hp,0 hp,820 Nm, Nm,0 Nm
+Porsche,Panamera,2009>2013,Gasoline,4.8 DFI S/4S,400 hp,420 hp,+ 20 hp,500 Nm,520 Nm,+ 20 Nm
+Porsche,Panamera,2017>2020,Gasoline,GTS 4.0T,460 hp,620 hp,+ 160 hp,620 Nm,880 Nm,+ 260 Nm
+Porsche,Panamera,2013>2016,Gasoline,3.0 DFI,320 hp,380 hp,+ 60 hp,450 Nm,550 Nm,+ 100 Nm
+Porsche,Panamera,2013>2016,Gasoline,3.6 DFI,310 hp,330 hp,+ 20 hp,400 Nm,420 Nm,+ 20 Nm
+Porsche,Panamera,2017>2020,Gasoline,4.0T Turbo,550 hp,620 hp,+ 70 hp,770 Nm,880 Nm,+ 110 Nm
+Porsche,Panamera,2017>2020,Diesel,4.0D,422 hp,480 hp,+ 58 hp,850 Nm,1000 Nm,+ 150 Nm
+Porsche,Panamera,2013>2016,Gasoline,4.8 DFI S/4S,420 hp,440 hp,+ 20 hp,520 Nm,540 Nm,+ 20 Nm
+Porsche,Panamera,2013>2016,Gasoline,4.8 DFI V8 GTS,440 hp,460 hp,+ 20 hp,520 Nm,540 Nm,+ 20 Nm
+Porsche,Panamera,2013>2016,Gasoline,4.8 DFI Turbo,520 hp,640 hp,+ 120 hp,700 Nm,950 Nm,+ 250 Nm
+Porsche,Panamera,2013>2016,Gasoline,4.8 DFI Turbo S,570 hp,640 hp,+ 70 hp,800 Nm,950 Nm,+ 150 Nm
+Porsche,Panamera,2009>2013,Gasoline,4.8 DFI V8 GTS,430 hp,450 hp,+ 20 hp,520 Nm,540 Nm,+ 20 Nm

@@ -1,0 +1,8 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+PGO,Cevennes,All,Gasoline,1.6 THP,184 hp,210 hp,+ 26 hp,240 Nm,340 Nm,+ 100 Nm
+PGO,Cevennes,All,Gasoline,2.0 16v,140 hp,155 hp,+ 15 hp,190 Nm,205 Nm,+ 15 Nm
+PGO,Hemera,All,Gasoline,1.6 THP,184 hp,210 hp,+ 26 hp,240 Nm,340 Nm,+ 100 Nm
+PGO,Hemera,All,Gasoline,2.0 16v,140 hp,155 hp,+ 15 hp,190 Nm,205 Nm,+ 15 Nm
+PGO,Speedster,All,Gasoline,2.0 16v,140 hp,155 hp,+ 15 hp,190 Nm,205 Nm,+ 15 Nm
+PGO,Speedster II,All,Gasoline,1.6 THP,184 hp,210 hp,+ 26 hp,240 Nm,340 Nm,+ 100 Nm
+PGO,Speedster II,All,Gasoline,2.0 16v,140 hp,155 hp,+ 15 hp,190 Nm,205 Nm,+ 15 Nm

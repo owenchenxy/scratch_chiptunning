@@ -1,0 +1,10 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Pagani,Zonda,All,Gasoline,C12,394 hp,420 hp,+ 26 hp,570 Nm,600 Nm,+ 30 Nm
+Pagani,Zonda,All,Gasoline,S 7.3,555 hp,585 hp,+ 30 hp,750 Nm,650 Nm,0 Nm
+Pagani,Zonda,All,Gasoline,Roadster,555 hp,585 hp,+ 30 hp,750 Nm,650 Nm,0 Nm
+Pagani,Zonda,All,Gasoline,"F ""Fangio""",650 hp,680 hp,+ 30 hp,780 Nm,810 Nm,+ 30 Nm
+Pagani,Zonda,All,Gasoline,Roadster F,650 hp,680 hp,+ 30 hp,780 Nm,810 Nm,+ 30 Nm
+Pagani,Zonda,All,Gasoline,CinQue,678 hp,708 hp,+ 30 hp,780 Nm,810 Nm,+ 30 Nm
+Pagani,Zonda,All,Gasoline,CinQue Roadster,678 hp,708 hp,+ 30 hp,780 Nm,810 Nm,+ 30 Nm
+Pagani,Zonda,All,Gasoline,Tricolore,678 hp,708 hp,+ 30 hp,780 Nm,810 Nm,+ 30 Nm
+Pagani,Zonda,All,Gasoline,R,750 hp,775 hp,+ 25 hp,710 Nm,735 Nm,+ 25 Nm

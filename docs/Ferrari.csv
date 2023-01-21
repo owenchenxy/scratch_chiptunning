@@ -1,0 +1,29 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Ferrari,348 GTS/GTB/Spider,All,Gasoline,3.4 V8,320 hp,345 hp,+ 25 hp,325 Nm,350 Nm,+ 25 Nm
+Ferrari,355 GTS/GTB/Spider,All,Gasoline,3.5 v8,380 hp,400 hp,+ 20 hp,360 Nm,388 Nm,+ 28 Nm
+Ferrari,360 Modena/Spider,1999>2004,Gasoline,3.6 V8,401 hp,424 hp,+ 23 hp,375 Nm,400 Nm,+ 25 Nm
+Ferrari,456,All,Gasoline,5.5 v12,428 hp,435 hp,+ 7 hp,490 Nm,510 Nm,+ 20 Nm
+Ferrari,458 Italia,All,Gasoline,4.5 V8 Speciale,605 hp,625 hp,+ 20 hp,540 Nm,580 Nm,+ 40 Nm
+Ferrari,458 Italia,All,Gasoline,Challenge V8 (Track Only),570 hp,610 hp,+ 40 hp,540 Nm,590 Nm,+ 50 Nm
+Ferrari,458 Italia,All,Gasoline,4.5 V8,570 hp,591 hp,+ 21 hp,540 Nm,562 Nm,+ 22 Nm
+Ferrari,488 GTB/Spider,2015>...,Gasoline,3.9 V8 Bi-Turbo Pista,720 hp,800 hp,+ 80 hp,770 Nm,900 Nm,+ 130 Nm
+Ferrari,488 GTB/Spider,2015>...,Gasoline,3.9 V8 Bi-Turbo,670 hp,770 hp,+ 100 hp,760 Nm,860 Nm,+ 100 Nm
+Ferrari,599 GTB,All,Gasoline,6.0 V12,620 hp,645 hp,+ 25 hp,608 Nm,635 Nm,+ 27 Nm
+Ferrari,599 GTO,All,Gasoline,6.0 V12,670 hp, hp,0 hp,620 Nm, Nm,0 Nm
+Ferrari,612 Scaglietti,All,Gasoline,5.7 V12,540 hp,564 hp,+ 24 hp,588 Nm,607 Nm,+ 19 Nm
+Ferrari,812 Superfast,2017>...,Gasoline,6.5 V12,800 hp,825 hp,+ 25 hp,718 Nm,748 Nm,+ 30 Nm
+Ferrari,California,All,Gasoline,3.9 V8 Turbo,560 hp,660 hp,+ 100 hp,755 Nm,850 Nm,+ 95 Nm
+Ferrari,California,All,Gasoline,4.3 V8,460 hp,480 hp,+ 20 hp,485 Nm,505 Nm,+ 20 Nm
+Ferrari,Enzo,2002>2004,Gasoline,6.0 V12,660 hp,685 hp,+ 25 hp,657 Nm,690 Nm,+ 33 Nm
+Ferrari,F12,2012>...,Gasoline,6.3 V12,740 hp,770 hp,+ 30 hp,690 Nm,720 Nm,+ 30 Nm
+Ferrari,F12,2012>...,Gasoline,6.3 V12 TDF,780 hp,810 hp,+ 30 hp,705 Nm,740 Nm,+ 35 Nm
+Ferrari,F150 / La Ferrari,All,Gasoline,6.3 V12,963 hp,993 hp,+ 30 hp,900 Nm,930 Nm,+ 30 Nm
+Ferrari,F430,10/2004>...,Gasoline,4.3 V8,510 hp,540 hp,+ 30 hp,490 Nm,520 Nm,+ 30 Nm
+Ferrari,F430,10/2004>...,Gasoline,4.3 V8,490 hp,517 hp,+ 27 hp,465 Nm,490 Nm,+ 25 Nm
+Ferrari,F8 Tributo / Spider,2020>...,Gasoline,3.9 V8 Bi-Turbo,710 hp,800 hp,+ 90 hp,770 Nm,900 Nm,+ 130 Nm
+Ferrari,FF,2011>...,Gasoline,6.3 V12,660 hp,685 hp,+ 25 hp,683 Nm,703 Nm,+ 20 Nm
+Ferrari,GTC 4 Lusso,2016>...,Gasoline,3.9 V8 Bi-Turbo,610 hp,720 hp,+ 110 hp,760 Nm,850 Nm,+ 90 Nm
+Ferrari,GTC 4 Lusso,2016>...,Gasoline,6.3 V12,690 hp,720 hp,+ 30 hp,697 Nm,725 Nm,+ 28 Nm
+Ferrari,M575,All,Gasoline,5.8 v12,515 hp,537 hp,+ 22 hp,589 Nm,612 Nm,+ 23 Nm
+Ferrari,Portofino,2017>...,Gasoline,3.9 V8 Bi-Turbo,600 hp,660 hp,+ 60 hp,760 Nm,850 Nm,+ 90 Nm
+Ferrari,Roma,2020>...,Gasoline,3.9 V8 Bi-Turbo,620 hp, hp,0 hp,760 Nm, Nm,0 Nm

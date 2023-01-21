@@ -1,0 +1,6 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Mahindra,XUV500 / Scorpio,All,Diesel,2.2 CRDi,140 hp,220 hp,+ 80 hp,330 Nm,500 Nm,+ 170 Nm
+Mahindra,XUV500 / Scorpio,All,Diesel,2.2 CRDi,170 hp,220 hp,+ 50 hp,340 Nm,500 Nm,+ 160 Nm
+Mahindra,Xylo,All,Diesel,2.2 CRDi,120 hp,160 hp,+ 40 hp,290 Nm,380 Nm,+ 90 Nm
+Mahindra,Xylo,All,Diesel,2.2 CRDi,140 hp,160 hp,+ 20 hp,290 Nm,380 Nm,+ 90 Nm
+Mahindra,Xylo,All,Diesel,2.5 CRDi,95 hp,140 hp,+ 45 hp,218 Nm,350 Nm,+ 132 Nm

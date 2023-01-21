@@ -1,0 +1,231 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Citroën,Berlingo,2000>2015,Diesel,1.6 Hdi,75 hp,115 hp,+ 40 hp,175 Nm,260 Nm,+ 85 Nm
+Citroën,Berlingo,2018>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,Berlingo,2018>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Citroën,Berlingo,2000>2015,Diesel,2.0 Hdi,109 hp,136 hp,+ 27 hp,250 Nm,290 Nm,+ 40 Nm
+Citroën,Berlingo,2018>...,Diesel,1.5 BlueHDI,75 hp,115 hp,+ 40 hp,230 Nm,300 Nm,+ 70 Nm
+Citroën,Berlingo,2000>2015,Diesel,1.6 Hdi,110 hp,140 hp,+ 30 hp,240 Nm,330 Nm,+ 90 Nm
+Citroën,Berlingo,2000>2015,Diesel,1.6 Hdi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,Berlingo,2018>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Citroën,Berlingo,2000>2015,Diesel,1.6 HDI,116 hp,140 hp,+ 24 hp,240 Nm,330 Nm,+ 90 Nm
+Citroën,Berlingo,06/2015>2017,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,Berlingo,2000>2015,Diesel,1.6 Hdi,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,Berlingo,2000>2015,Diesel,2.0 Hdi,90 hp,115 hp,+ 25 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,Berlingo,2000>2015,Diesel,1.6 Hdi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Citroën,Berlingo,06/2015>2017,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,Berlingo,06/2015>2017,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,Berlingo,06/2015>2017,Diesel,1.6 BlueHDI,75 hp,120 hp,+ 45 hp,230 Nm,280 Nm,+ 50 Nm
+Citroën,Berlingo,2018>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C- Elysée,06/2012>...,Diesel,1.6 e-HDI,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,C- Elysée,11/2016>...,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,C-Crosser,2007>2013,Diesel,2.2HDi,156 hp,185 hp,+ 29 hp,380 Nm,430 Nm,+ 50 Nm
+Citroën,C1,06/2005>...,Diesel,1.4 HDi,55 hp,80 hp,+ 25 hp,130 Nm,170 Nm,+ 40 Nm
+Citroën,C2,09/2003>11/2009,Diesel,1.6 HDi,110 hp,136 hp,+ 26 hp,240 Nm,320 Nm,+ 80 Nm
+Citroën,C2,09/2003>11/2009,Gasoline,1.6 16v VTS,125 hp,137 hp,+ 12 hp,140 Nm,160 Nm,+ 20 Nm
+Citroën,C2,09/2003>11/2009,Diesel,1.4HDi,68 hp,90 hp,+ 22 hp,160 Nm,210 Nm,+ 50 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Diesel,1.6 HDi,110 hp,136 hp,+ 26 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,C3 / C3 Picasso,11/2016>2020,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,C3 / C3 Picasso,2002>2009,Diesel,1.6 HDi,110 hp,136 hp,+ 26 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Diesel,1.6 BlueHDI,75 hp,120 hp,+ 45 hp,230 Nm,280 Nm,+ 50 Nm
+Citroën,C3 / C3 Picasso,11/2016>2020,Diesel,1.6 BlueHDI,75 hp,120 hp,+ 45 hp,230 Nm,280 Nm,+ 50 Nm
+Citroën,C3 / C3 Picasso,05/2020>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Diesel,1.6 HDi,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,C3 / C3 Picasso,11/2016>2020,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,C3 / C3 Picasso,11/2016>2020,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C3 / C3 Picasso,05/2020>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Citroën,C3 / C3 Picasso,2002>2009,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Citroën,C3 / C3 Picasso,2009>2016,Diesel,1.4 HDi,70 hp,90 hp,+ 20 hp,160 Nm,210 Nm,+ 50 Nm
+Citroën,C3 / C3 Picasso,2002>2009,Diesel,1.4 HDi,70 hp,90 hp,+ 20 hp,160 Nm,210 Nm,+ 50 Nm
+Citroën,C3 Aircross,10/2017>...,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,C3 Aircross,10/2017>...,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Citroën,C3 Aircross,10/2017>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C3 Aircross,10/2017>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Citroën,C3 Aircross,10/2017>...,Diesel,1.6 BlueHDi,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,C3 Aircross,10/2017>...,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,254 Nm,350 Nm,+ 96 Nm
+Citroën,C4,2015>2020,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,C4,2010>2014,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Citroën,C4,2005>2010,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Citroën,C4,2005>2010,Diesel,1.6 HDi,110 hp,140 hp,+ 30 hp,240 Nm,330 Nm,+ 90 Nm
+Citroën,C4,2010>2014,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,C4,2015>2020,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C4,12/2020>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Citroën,C4,2015>2020,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,C4,2015>2020,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Citroën,C4,12/2020>...,Gasoline,1.2 PureTech (GPF),155 hp,175 hp,+ 20 hp,240 Nm,270 Nm,+ 30 Nm
+Citroën,C4,2015>2020,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Citroën,C4,2015>2020,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,C4,12/2020>...,Diesel,1.5 BlueHDI,110 hp,140 hp,+ 30 hp,250 Nm,340 Nm,+ 90 Nm
+Citroën,C4,2005>2010,Diesel,2.0 HDi,138 hp,164 hp,+ 26 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,C4,2010>2014,Diesel,1.8 HDi,150 hp,175 hp,+ 25 hp,300 Nm,360 Nm,+ 60 Nm
+Citroën,C4,2010>2014,Diesel,2.0 HDi,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,C4,2015>2020,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,C4,2005>2010,Gasoline,2.0 16v VTS,180 hp,195 hp,+ 15 hp,202 Nm,217 Nm,+ 15 Nm
+Citroën,C4,2015>2020,Diesel,1.6 HDI,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,C4,12/2020>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,C4,2010>2014,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,C4,12/2020>...,Gasoline,1.2 PureTech (GPF),100 hp,145 hp,+ 45 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C4,2005>2010,Gasoline,1.6 THP,150 hp,190 hp,+ 40 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,C4,2010>2014,Diesel,2.0 HDI,150 hp,190 hp,+ 40 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,C4,2010>2014,Diesel,1.6 HDI,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,C4,2010>2014,Diesel,1.6 HDI,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,C4 Aircross,2012>...,Diesel,1.8 e-HDI,150 hp,175 hp,+ 25 hp,300 Nm,360 Nm,+ 60 Nm
+Citroën,C4 Aircross,2012>...,Diesel,1.6 e-HDI,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,C4 Cactus,06/2014>2017,Diesel,1.6 BlueHDi,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,C4 Cactus,11/2017>...,Gasoline,1.2 Puretech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,C4 Cactus,11/2017>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C4 Cactus,11/2017>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Citroën,C4 Cactus,06/2014>2017,Diesel,1.2 BlueHDI,110 hp, hp,0 hp,205 Nm, Nm,0 Nm
+Citroën,C4 Cactus,06/2014>2017,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,06/2013>2016,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,254 Nm,350 Nm,+ 96 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,06/2013>2016,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Diesel,1.6 BlueHDi,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,08/2006>05/2013,Diesel,2.0 HDI,150 hp,190 hp,+ 40 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,08/2006>05/2013,Diesel,1.6 HDi,109 hp,136 hp,+ 27 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,1999>2006,Diesel,2.0 HDI,110 hp,140 hp,+ 30 hp,250 Nm,310 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Gasoline,1.6 PureTech (GPF),180 hp,220 hp,+ 40 hp,250 Nm,300 Nm,+ 50 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,08/2006>05/2013,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,06/2013>2016,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Diesel,2.0 BlueHDi (EAT8),160 hp,205 hp,+ 45 hp,400 Nm,460 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,08/2006>05/2013,Diesel,2.0 HDI,138 hp,170 hp,+ 32 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,06/2013>2016,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,1999>2006,Diesel,2.0 HDI,90 hp,115 hp,+ 25 hp,205 Nm,265 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,06/2013>2016,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,08/2006>05/2013,Diesel,1.6 HDi,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,08/2006>05/2013,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,06/2013>2016,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,254 Nm,350 Nm,+ 96 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,06/2013>2016,Gasoline,1.8 THP,204 hp,230 hp,+ 26 hp,280 Nm,330 Nm,+ 50 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,2016>...,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,C4 Picasso / Picasso / C4 Space Tourer,08/2006>05/2013,Diesel,2.0 HDI,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.7HDI,207 hp,240 hp,+ 33 hp,440 Nm,520 Nm,+ 80 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.0 HDI,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.2 HDI,136 hp,170 hp,+ 34 hp,314 Nm,400 Nm,+ 86 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.0 HDI,138 hp,170 hp,+ 32 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.0 HDI FAP,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.2 HDi,204 hp,235 hp,+ 31 hp,450 Nm,520 Nm,+ 70 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.0 HDI,110 hp,140 hp,+ 30 hp,250 Nm,320 Nm,+ 70 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.2 HDI,163 hp,196 hp,+ 33 hp,370 Nm,440 Nm,+ 70 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,1.6 e-Hdi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,2.2 HDI,173 hp,205 hp,+ 32 hp,370 Nm,440 Nm,+ 70 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,3.0HDI,243 hp,270 hp,+ 27 hp,450 Nm,530 Nm,+ 80 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,1.6 HDi,110 hp,140 hp,+ 30 hp,240 Nm,330 Nm,+ 90 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,C5 / C5 Aircross,2018>...,Gasoline,1.6 PureTech (GPF),180 hp,220 hp,+ 40 hp,250 Nm,300 Nm,+ 50 Nm
+Citroën,C5 / C5 Aircross,2018>...,Gasoline,1.6 Puretech,180 hp, hp,0 hp, Nm, Nm,0 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,3.0HDI,207 hp,270 hp,+ 63 hp,450 Nm,530 Nm,+ 80 Nm
+Citroën,C5 / C5 Aircross,2018>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,C5 / C5 Aircross,2018>...,Diesel,2.0 BlueHDi,180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Gasoline,3.0 V6,210 hp,225 hp,+ 15 hp,285 Nm,305 Nm,+ 20 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Gasoline,1.8 THP,204 hp,230 hp,+ 26 hp,280 Nm,330 Nm,+ 50 Nm
+Citroën,C5 / C5 Aircross,2001>2017,Diesel,1.6 HDi,115 hp,140 hp,+ 25 hp,240 Nm,330 Nm,+ 90 Nm
+Citroën,C5 / C5 Aircross,2018>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Citroën,C6,2007>2010,Diesel,3.0HDI,240 hp,270 hp,+ 30 hp,450 Nm,530 Nm,+ 80 Nm
+Citroën,C6,2007>2010,Diesel,2.2 HDI,173 hp,205 hp,+ 32 hp,370 Nm,440 Nm,+ 70 Nm
+Citroën,C6,2007>2010,Diesel,3.0HDI,207 hp,270 hp,+ 63 hp,450 Nm,530 Nm,+ 80 Nm
+Citroën,C6,2007>2010,Gasoline,1.8 THP,204 hp,230 hp,+ 26 hp,280 Nm,330 Nm,+ 50 Nm
+Citroën,C6,2007>2010,Diesel,2.7 V6 HDI,207 hp,240 hp,+ 33 hp,440 Nm,520 Nm,+ 80 Nm
+Citroën,C8,All,Diesel,2.0 HDI,120 hp,170 hp,+ 50 hp,280 Nm,380 Nm,+ 100 Nm
+Citroën,C8,All,Diesel,2.0 HDI,138 hp,170 hp,+ 32 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,C8,All,Diesel,2.0 HDI,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,C8,All,Diesel,2.2 HDI,163 hp,195 hp,+ 32 hp,370 Nm,410 Nm,+ 40 Nm
+Citroën,C8,All,Diesel,2.2 HDI,138 hp,164 hp,+ 26 hp,314 Nm,400 Nm,+ 86 Nm
+Citroën,C8,All,Diesel,2.0 HDI,110 hp,142 hp,+ 32 hp,270 Nm,340 Nm,+ 70 Nm
+Citroën,C8,All,Gasoline,3.0 V6,210 hp,225 hp,+ 15 hp,285 Nm,305 Nm,+ 20 Nm
+Citroën,DS3,2009>2020,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Citroën,DS3,2009>2020,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,DS3,2009>2020,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,230 Nm,275 Nm,+ 45 Nm
+Citroën,DS3,2009>2020,Gasoline,1.6 THP - Racing,207 hp,220 hp,+ 13 hp,275 Nm,360 Nm,+ 85 Nm
+Citroën,DS3,2009>2020,Diesel,1.6 HDi,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,DS3,2009>2020,Diesel,1.4 HDi,68 hp,90 hp,+ 22 hp,160 Nm,210 Nm,+ 50 Nm
+Citroën,DS3,2009>2020,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Citroën,DS3,2009>2020,Gasoline,1.6 THP,150 hp,190 hp,+ 40 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,DS3,2009>2020,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,DS3,2009>2020,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Citroën,DS3,2009>2020,Gasoline,1.2T PureTech,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Citroën,DS3,2009>2020,Gasoline,1.6 THP,156 hp,190 hp,+ 34 hp,240 Nm,300 Nm,+ 60 Nm
+Citroën,DS3,2009>2020,Gasoline,1.6 THP - Racing,202 hp,220 hp,+ 18 hp,275 Nm,360 Nm,+ 85 Nm
+Citroën,DS4,2015>2019,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Citroën,DS4,2010>2015,Diesel,2.0 HDI,160 hp,190 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,DS4,2010>2015,Diesel,2.0 HDi,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,DS4,2010>2015,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,DS4,2010>2015,Diesel,1.6 e-HDI,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,DS4,2015>2019,Gasoline,1.6 THP,210 hp,220 hp,+ 10 hp,300 Nm,360 Nm,+ 60 Nm
+Citroën,DS4,2010>2015,Gasoline,1.6 THP,155 hp,190 hp,+ 35 hp,240 Nm,310 Nm,+ 70 Nm
+Citroën,DS4,2010>2015,Diesel,1.6 HDi,112 hp,140 hp,+ 28 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,DS4,2010>2015,Gasoline,1.6 THP,160 hp,190 hp,+ 30 hp,240 Nm,310 Nm,+ 70 Nm
+Citroën,DS4,2010>2015,Diesel,1.6 e-HDI,92 hp,115 hp,+ 23 hp,230 Nm,260 Nm,+ 30 Nm
+Citroën,DS4,2015>2019,Diesel,2.0 BlueHDI,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,DS4,2010>2015,Gasoline,1.6 VTi,120 hp,135 hp,+ 15 hp,160 Nm,180 Nm,+ 20 Nm
+Citroën,DS4,2015>2019,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Citroën,DS4,2015>2019,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Citroën,DS4,2010>2015,Gasoline,1.6 THP,200 hp,230 hp,+ 30 hp,275 Nm,360 Nm,+ 85 Nm
+Citroën,DS4,2015>2019,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Citroën,DS4,2015>2019,Diesel,1.6 BlueHDI,115 hp,145 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,DS4,2010>2015,Gasoline,1.2T PureTech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Citroën,DS5,06/2015>2019,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Citroën,DS5,2011>2015,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Citroën,DS5,2011>2015,Diesel,2.0 HDi,163 hp,190 hp,+ 27 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,DS5,2011>2015,Diesel,2.0 HDi,167 hp,190 hp,+ 23 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,DS5,2011>2015,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,DS5,2011>2015,Diesel,1.6 E-HDi,110 hp,140 hp,+ 30 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,DS5,2011>2015,Gasoline,1.6 THP,159 hp,190 hp,+ 31 hp,240 Nm,310 Nm,+ 70 Nm
+Citroën,DS5,06/2015>2019,Gasoline,1.6 THP,165 hp,190 hp,+ 25 hp,240 Nm,320 Nm,+ 80 Nm
+Citroën,DS5,2011>2015,Diesel,1.6 BlueHDi,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,DS5,06/2015>2019,Diesel,1.6 Blue HDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,DS5,06/2015>2019,Gasoline,1.6 THP,210 hp,220 hp,+ 10 hp,275 Nm,360 Nm,+ 85 Nm
+Citroën,DS5,2011>2015,Diesel,1.6 E-HDi,115 hp,140 hp,+ 25 hp,270 Nm,330 Nm,+ 60 Nm
+Citroën,DS5,06/2015>2019,Diesel,2.0 BlueHDI,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,DS5,2011>2015,Diesel,2.0 HDi,138 hp,170 hp,+ 32 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,DS5,2011>2015,Gasoline,1.6 THP,200 hp,220 hp,+ 20 hp,275 Nm,360 Nm,+ 85 Nm
+Citroën,Jumper,2014>2019,Diesel,2.2 HDi,110 hp,180 hp,+ 70 hp,250 Nm,360 Nm,+ 110 Nm
+Citroën,Jumper,2019>...,Diesel,2.2 BlueHDi,120 hp,185 hp,+ 65 hp,310 Nm,430 Nm,+ 120 Nm
+Citroën,Jumper,2019>...,Diesel,2.2 BlueHDI,165 hp,185 hp,+ 20 hp,370 Nm,430 Nm,+ 60 Nm
+Citroën,Jumper,...>2014,Diesel,2.2 HDI,150 hp,180 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Citroën,Jumper,...>2014,Diesel,3.0 HDI,180 hp,215 hp,+ 35 hp,400 Nm,500 Nm,+ 100 Nm
+Citroën,Jumper,2014>2019,Diesel,2.2 HDI,150 hp,180 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Citroën,Jumper,2014>2019,Diesel,2.2 HDi,130 hp,180 hp,+ 50 hp,320 Nm,420 Nm,+ 100 Nm
+Citroën,Jumper,...>2014,Diesel,2.0 HDI,84 hp,109 hp,+ 25 hp,192 Nm,245 Nm,+ 53 Nm
+Citroën,Jumper,2014>2019,Diesel,3.0 HDi,180 hp,215 hp,+ 35 hp,400 Nm,500 Nm,+ 100 Nm
+Citroën,Jumper,...>2014,Diesel,2.2 HDI,110 hp,180 hp,+ 70 hp,250 Nm,360 Nm,+ 110 Nm
+Citroën,Jumper,2019>...,Diesel,2.2 BlueHDI,140 hp,185 hp,+ 45 hp,340 Nm,430 Nm,+ 90 Nm
+Citroën,Jumper,2014>2019,Diesel,2.0 BlueHDI,110 hp,200 hp,+ 90 hp,304 Nm,450 Nm,+ 146 Nm
+Citroën,Jumper,...>2014,Diesel,2.8 HDI,128 hp,160 hp,+ 32 hp,300 Nm,380 Nm,+ 80 Nm
+Citroën,Jumper,2014>2019,Diesel,2.0 BlueHDI,160 hp,200 hp,+ 40 hp,350 Nm,450 Nm,+ 100 Nm
+Citroën,Jumper,...>2014,Diesel,2.2 HDI,120 hp,150 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,Jumper,...>2014,Diesel,2.2 HDI,101 hp,125 hp,+ 24 hp,240 Nm,293 Nm,+ 53 Nm
+Citroën,Jumper,...>2014,Diesel,2.2 HDI,130 hp,180 hp,+ 50 hp,320 Nm,420 Nm,+ 100 Nm
+Citroën,Jumper,2014>2019,Diesel,2.0 BlueHDI,130 hp,200 hp,+ 70 hp,340 Nm,450 Nm,+ 110 Nm
+Citroën,Jumper,...>2014,Diesel,3.0 HDI,158 hp,190 hp,+ 32 hp,400 Nm,470 Nm,+ 70 Nm
+Citroën,Jumpy / SpaceTourer,2016>2019,Diesel,2.0 BlueHDi,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Citroën,Jumpy / SpaceTourer,2016>2019,Diesel,2.0 BlueHDi,120 hp,200 hp,+ 80 hp,310 Nm,450 Nm,+ 140 Nm
+Citroën,Jumpy / SpaceTourer,2016>2019,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,2.0 HDI 16v,90 hp,114 hp,+ 24 hp,180 Nm,233 Nm,+ 53 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,2.0 HDI,110 hp,140 hp,+ 30 hp,250 Nm,310 Nm,+ 60 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,2.0 HDi (2011 -> ...),128 hp,190 hp,+ 62 hp,300 Nm,400 Nm,+ 100 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,1.6 HDi,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Citroën,Jumpy / SpaceTourer,2016>2019,Diesel,1.6 BlueHDi,115 hp,145 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,2.0 HDI 16v,160 hp,190 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Citroën,Jumpy / SpaceTourer,2016>2019,Diesel,1.6 BlueHDi,95 hp,130 hp,+ 35 hp,210 Nm,320 Nm,+ 110 Nm
+Citroën,Jumpy / SpaceTourer,2019>...,Diesel,1.5 BlueHDi,100 hp,160 hp,+ 60 hp,270 Nm,350 Nm,+ 80 Nm
+Citroën,Jumpy / SpaceTourer,2019>...,Diesel,2.0 BlueHDi,180 hp,205 hp,+ 25 hp,400 Nm,460 Nm,+ 60 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,2.0 HDI 16v,136 hp,170 hp,+ 34 hp,320 Nm,380 Nm,+ 60 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,2.0 HDI 16v,120 hp,143 hp,+ 23 hp,300 Nm,387 Nm,+ 87 Nm
+Citroën,Jumpy / SpaceTourer,2019>...,Diesel,1.5 BlueHDI,120 hp,160 hp,+ 40 hp,300 Nm,350 Nm,+ 50 Nm
+Citroën,Jumpy / SpaceTourer,2019>...,Diesel,2.0 BlueHDi,150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm
+Citroën,Jumpy / SpaceTourer,2019>...,Diesel,2.0 BlueHDi,120 hp,205 hp,+ 85 hp,340 Nm,460 Nm,+ 120 Nm
+Citroën,Jumpy / SpaceTourer,...>2016,Diesel,2.0 HDi (... -> 2011),128 hp,160 hp,+ 32 hp,300 Nm,360 Nm,+ 60 Nm
+Citroën,Nemo,All,Diesel,1.3 HDi,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Citroën,Nemo,All,Diesel,1.3 HDI,80 hp,100 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Citroën,Nemo,All,Diesel,1.4 HDi,70 hp,90 hp,+ 20 hp,160 Nm,210 Nm,+ 50 Nm

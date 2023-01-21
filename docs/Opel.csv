@@ -1,0 +1,277 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Opel,Adam,2012>...,Gasoline,1.0 T (3cyl),90 hp,130 hp,+ 40 hp,170 Nm,220 Nm,+ 50 Nm
+Opel,Adam,2012>...,Gasoline,1.4i 16V,87 hp,96 hp,+ 9 hp,130 Nm,142 Nm,+ 12 Nm
+Opel,Adam,2012>...,Gasoline,1.4i 16v,100 hp,110 hp,+ 10 hp,130 Nm,145 Nm,+ 15 Nm
+Opel,Adam,2012>...,Gasoline,S - 1.4 T,150 hp,170 hp,+ 20 hp,220 Nm,270 Nm,+ 50 Nm
+Opel,Adam,2012>...,Gasoline,1.0T Ecotec,115 hp,130 hp,+ 15 hp,170 Nm,220 Nm,+ 50 Nm
+Opel,Adam,2012>...,Gasoline,1.2 Twinport,70 hp,76 hp,+ 6 hp,115 Nm,125 Nm,+ 10 Nm
+Opel,Agila,2003>2016,Diesel,1.3 CDTI,70 hp,95 hp,+ 25 hp,170 Nm,240 Nm,+ 70 Nm
+Opel,Antara,2006>2011,Diesel,2.0 CDTI,127 hp,185 hp,+ 58 hp,295 Nm,400 Nm,+ 105 Nm
+Opel,Antara,2011>2016,Diesel,2.2 CDTI,184 hp,200 hp,+ 16 hp,400 Nm,430 Nm,+ 30 Nm
+Opel,Antara,2006>2011,Diesel,2.0 CDTI,150 hp,185 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Antara,2011>2016,Diesel,2.2 CDTI,163 hp,200 hp,+ 37 hp,350 Nm,430 Nm,+ 80 Nm
+Opel,Astra,2004>2009,Diesel,1.9 CDTI 16V,150 hp,190 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Astra,09/2009>2015,Gasoline,1.6T,180 hp,210 hp,+ 30 hp,230 Nm,300 Nm,+ 70 Nm
+Opel,Astra,09/2009>2015,Diesel,2.0 CDTI,160 hp,200 hp,+ 40 hp,350 Nm,420 Nm,+ 70 Nm
+Opel,Astra,09/2009>2015,Diesel,2.0 CDTI GTC,195 hp,225 hp,+ 30 hp,400 Nm,480 Nm,+ 80 Nm
+Opel,Astra,2004>2009,Diesel,1.9 CDTI 8V,120 hp,150 hp,+ 30 hp,280 Nm,360 Nm,+ 80 Nm
+Opel,Astra,09/2015>2019,Diesel,1.6 CDTI,95 hp,140 hp,+ 45 hp,280 Nm,360 Nm,+ 80 Nm
+Opel,Astra,2020>...,Gasoline,1.2T,145 hp, hp,0 hp,225 Nm, Nm,0 Nm
+Opel,Astra,2004>2009,Diesel,1.9 CDTI 8V,100 hp,150 hp,+ 50 hp,260 Nm,360 Nm,+ 100 Nm
+Opel,Astra,2004>2009,Diesel,2.0 CDTI,160 hp,190 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Opel,Astra,09/2009>2015,Diesel,2.0 CDTI,165 hp,205 hp,+ 40 hp,357 Nm,430 Nm,+ 73 Nm
+Opel,Astra,2004>2009,Diesel,1.7 CDTI,125 hp,150 hp,+ 25 hp,280 Nm,330 Nm,+ 50 Nm
+Opel,Astra,2004>2009,Diesel,1.7 CDTI,110 hp,150 hp,+ 40 hp,260 Nm,330 Nm,+ 70 Nm
+Opel,Astra,09/2009>2015,Gasoline,2.0T OPC,280 hp,310 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Astra,09/2009>2015,Diesel,1.3 CDTI,95 hp,115 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Opel,Astra,2004>2009,Diesel,1.7 CDTI,100 hp,135 hp,+ 35 hp,240 Nm,305 Nm,+ 65 Nm
+Opel,Astra,2020>...,Gasoline,1.4T,145 hp, hp,0 hp,236 Nm, Nm,0 Nm
+Opel,Astra,09/2015>2019,Diesel,1.6 CDTi Bi-Turbo,150 hp,175 hp,+ 25 hp,350 Nm,390 Nm,+ 40 Nm
+Opel,Astra,09/2009>2015,Diesel,1.7 CDTI,110 hp,150 hp,+ 40 hp,260 Nm,330 Nm,+ 70 Nm
+Opel,Astra,2020>...,Diesel,1.5D,105 hp, hp,0 hp,260 Nm, Nm,0 Nm
+Opel,Astra,09/2009>2015,Diesel,1.6 CDTI (2014 -> ...),110 hp,140 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Opel,Astra,2004>2009,Diesel,1.3 CDTI,90 hp,110 hp,+ 20 hp,200 Nm,245 Nm,+ 45 Nm
+Opel,Astra,09/2015>2019,Diesel,1.6 CDTI,110 hp,140 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Opel,Astra,09/2009>2015,Diesel,1.7 CDTI - (2012 > ...),110 hp,165 hp,+ 55 hp,260 Nm,350 Nm,+ 90 Nm
+Opel,Astra,2020>...,Diesel,1.5D,122 hp, hp,0 hp,300 Nm, Nm,0 Nm
+Opel,Astra,09/2015>2019,Diesel,1.6 CDTI,136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Astra,2004>2009,Diesel,1.7 CDTI,80 hp,110 hp,+ 30 hp,180 Nm,250 Nm,+ 70 Nm
+Opel,Astra,2004>2009,Diesel,2.0 DTI,100 hp,130 hp,+ 30 hp,230 Nm,280 Nm,+ 50 Nm
+Opel,Astra,09/2009>2015,Diesel,1.7 CDTI,125 hp,150 hp,+ 25 hp,280 Nm,330 Nm,+ 50 Nm
+Opel,Astra,09/2009>2015,Diesel,1.7 CDTI,130 hp,165 hp,+ 35 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Astra,09/2015>2019,Diesel,1.6 CDTI,160 hp,190 hp,+ 30 hp,350 Nm,400 Nm,+ 50 Nm
+Opel,Astra,09/2015>2019,Gasoline,1.6 T,200 hp,220 hp,+ 20 hp,300 Nm,340 Nm,+ 40 Nm
+Opel,Astra,09/2009>2015,Diesel,1.6 CDTI (2014 ->...),136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Astra,2004>2009,Gasoline,2.0 T,200 hp,240 hp,+ 40 hp,262 Nm,360 Nm,+ 98 Nm
+Opel,Astra,09/2015>2019,Gasoline,1.4 T (4cyl),125 hp,180 hp,+ 55 hp,245 Nm,290 Nm,+ 45 Nm
+Opel,Astra,09/2009>2015,Gasoline,1.4T,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Astra,2004>2009,Gasoline,2.0 T OPC,240 hp,275 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Astra,09/2009>2015,Gasoline,1.6T SIDI,170 hp,190 hp,+ 20 hp,280 Nm,300 Nm,+ 20 Nm
+Opel,Astra,2020>...,Gasoline,1.2T,130 hp, hp,0 hp,225 Nm, Nm,0 Nm
+Opel,Astra,2020>...,Gasoline,1.2T,110 hp, hp,0 hp,195 Nm, Nm,0 Nm
+Opel,Astra,09/2009>2015,Gasoline,1.4T,120 hp,170 hp,+ 50 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Astra,09/2015>2019,Gasoline,1.0 T (3cyl),105 hp,130 hp,+ 25 hp,170 Nm,220 Nm,+ 50 Nm
+Opel,Astra,09/2015>2019,Gasoline,1.4 T (4cyl),150 hp,180 hp,+ 30 hp,235 Nm,290 Nm,+ 55 Nm
+Opel,Astra,2004>2009,Gasoline,1.6 T,180 hp,210 hp,+ 30 hp,210 Nm,280 Nm,+ 70 Nm
+Opel,Astra,2004>2009,Gasoline,2.0 T,170 hp,200 hp,+ 30 hp,250 Nm,300 Nm,+ 50 Nm
+Opel,Cascada,2013>...,Diesel,2.0 CDTI,165 hp,205 hp,+ 40 hp,350 Nm,430 Nm,+ 80 Nm
+Opel,Cascada,2013>...,Gasoline,1.6 Turbo,170 hp,190 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Opel,Cascada,2013>...,Gasoline,1.4 Turbo,120 hp,170 hp,+ 50 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Cascada,2013>...,Diesel,2.0 CDTI,195 hp,225 hp,+ 30 hp,400 Nm,480 Nm,+ 80 Nm
+Opel,Cascada,2013>...,Gasoline,1.4 Turbo,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Cascada,2013>...,Diesel,2.0 CDTI,170 hp,195 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Cascada,2013>...,Gasoline,1.6 Turbo,136 hp,190 hp,+ 54 hp,240 Nm,300 Nm,+ 60 Nm
+Opel,Cascada,2013>...,Gasoline,1.6 Turbo,200 hp,220 hp,+ 20 hp,300 Nm,340 Nm,+ 40 Nm
+Opel,Combo,2018>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Combo,2014>2017,Diesel,1.6 CDTI,105 hp,140 hp,+ 35 hp,290 Nm,360 Nm,+ 70 Nm
+Opel,Combo,2018>...,Gasoline,1.2 PureTech (GPF),110 hp,145 hp,+ 35 hp,205 Nm,250 Nm,+ 45 Nm
+Opel,Combo,2018>...,Gasoline,1.2 PureTech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Opel,Combo,2014>2017,Diesel,1.6 CDTI,90 hp,140 hp,+ 50 hp,290 Nm,360 Nm,+ 70 Nm
+Opel,Combo,...>2014,Diesel,1.7 CDTI,100 hp,135 hp,+ 35 hp,240 Nm,305 Nm,+ 65 Nm
+Opel,Combo,...>2014,Diesel,1.3 CDTi,75 hp,95 hp,+ 20 hp,170 Nm,225 Nm,+ 55 Nm
+Opel,Combo,...>2014,Diesel,1.3 CDTI,70 hp,95 hp,+ 25 hp,170 Nm,225 Nm,+ 55 Nm
+Opel,Combo,2018>...,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Opel,Combo,2018>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Opel,Combo,2018>...,Diesel,1.3 CDTi,95 hp,115 hp,+ 20 hp,190 Nm,230 Nm,+ 40 Nm
+Opel,Combo,2018>...,Diesel,1.5 BlueHDI,75 hp,115 hp,+ 40 hp,230 Nm,300 Nm,+ 70 Nm
+Opel,Corsa,2006>2014,Gasoline,1.4T,120 hp,170 hp,+ 50 hp,175 Nm,270 Nm,+ 95 Nm
+Opel,Corsa,2014>2019,Gasoline,1.4 T (4cyl),100 hp,170 hp,+ 70 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Corsa,2006>2014,Gasoline,GSI 1.6T,150 hp,205 hp,+ 55 hp,210 Nm,300 Nm,+ 90 Nm
+Opel,Corsa,2014>2019,Gasoline,1.4 T (4cyl),150 hp,170 hp,+ 20 hp,235 Nm,270 Nm,+ 35 Nm
+Opel,Corsa,2006>2014,Gasoline,OPC 1.6T Nürburgring,210 hp,220 hp,+ 10 hp,250 Nm,320 Nm,+ 70 Nm
+Opel,Corsa,2014>2019,Gasoline,1.4 16v,90 hp,100 hp,+ 10 hp,130 Nm,142 Nm,+ 12 Nm
+Opel,Corsa,2006>2014,Gasoline,OPC 1.6T,192 hp,210 hp,+ 18 hp,230 Nm,300 Nm,+ 70 Nm
+Opel,Corsa,2014>2019,Gasoline,1.6 T OPC,207 hp,220 hp,+ 13 hp,280 Nm,340 Nm,+ 60 Nm
+Opel,Corsa,2006>2014,Diesel,1.3 CDTI,75 hp,95 hp,+ 20 hp,170 Nm,225 Nm,+ 55 Nm
+Opel,Corsa,2019>...,Gasoline,1.2 Turbo (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Opel,Corsa,2006>2014,Diesel,1.7 CDTI,130 hp,165 hp,+ 35 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Corsa,2006>2014,Diesel,1.7 CDTI,125 hp,150 hp,+ 25 hp,280 Nm,330 Nm,+ 50 Nm
+Opel,Corsa,2006>2014,Diesel,1.7 CDTI,100 hp,135 hp,+ 35 hp,240 Nm,305 Nm,+ 65 Nm
+Opel,Corsa,2014>2019,Gasoline,1.0 T (3cyl),115 hp,130 hp,+ 15 hp,170 Nm,220 Nm,+ 50 Nm
+Opel,Corsa,2019>...,Gasoline,1.2 Turbo (GPF),100 hp,145 hp,+ 45 hp,205 Nm,250 Nm,+ 45 Nm
+Opel,Corsa,2006>2014,Gasoline,1.4 16v,100 hp,110 hp,+ 10 hp,130 Nm,142 Nm,+ 12 Nm
+Opel,Corsa,2014>2019,Gasoline,1.0 T (3cyl),90 hp,130 hp,+ 40 hp,170 Nm,220 Nm,+ 50 Nm
+Opel,Corsa,2006>2014,Gasoline,1.4,86 hp,94 hp,+ 8 hp,125 Nm,135 Nm,+ 10 Nm
+Opel,Corsa,2006>2014,Diesel,1.3 CDTI Ecotec,95 hp,120 hp,+ 25 hp,210 Nm,250 Nm,+ 40 Nm
+Opel,Corsa,2019>...,Diesel,1.5 BlueHDi,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Opel,Corsa,2014>2019,Diesel,1.3 CDTI,75 hp,95 hp,+ 20 hp,190 Nm,230 Nm,+ 40 Nm
+Opel,Corsa,2014>2019,Diesel,1.3 CDTI,95 hp,115 hp,+ 20 hp,190 Nm,230 Nm,+ 40 Nm
+Opel,Corsa,2006>2014,Diesel,1.3 CDTI,90 hp,105 hp,+ 15 hp,200 Nm,245 Nm,+ 45 Nm
+Opel,Crossland X,04/2017>...,Diesel,1.6 BlueHDI,100 hp,130 hp,+ 30 hp,254 Nm,320 Nm,+ 66 Nm
+Opel,Crossland X,04/2017>...,Gasoline,1.2 Turbo (GPF),110 hp, hp,0 hp,205 Nm, Nm,0 Nm
+Opel,Crossland X,04/2017>...,Gasoline,1.2 Turbo,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Opel,Crossland X,04/2017>...,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Crossland X,04/2017>...,Gasoline,1.2 Turbo (GPF),130 hp, hp,0 hp,230 Nm, Nm,0 Nm
+Opel,Crossland X,04/2017>...,Gasoline,1.2 Turbo,110 hp,145 hp,+ 35 hp,205 Nm,270 Nm,+ 65 Nm
+Opel,Crossland X,04/2017>...,Diesel,1.5 D,120 hp,150 hp,+ 30 hp,300 Nm,340 Nm,+ 40 Nm
+Opel,Crossland X,04/2017>...,Diesel,1.5 D,102 hp,140 hp,+ 38 hp,250 Nm,340 Nm,+ 90 Nm
+Opel,Crossland X,04/2017>...,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,GT,2007>2009,Gasoline,2.0 T,264 hp,295 hp,+ 31 hp,353 Nm,430 Nm,+ 77 Nm
+Opel,Grandland X,2019>...,Diesel,2.0 D,177 hp,205 hp,+ 28 hp,400 Nm,460 Nm,+ 60 Nm
+Opel,Grandland X,2017>2019,Gasoline,1.6T,180 hp,200 hp,+ 20 hp,250 Nm,300 Nm,+ 50 Nm
+Opel,Grandland X,2019>...,Gasoline,1.2T Puretech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Opel,Grandland X,2017>2019,Diesel,2.0 BlueHDI,150 hp,200 hp,+ 50 hp,370 Nm,450 Nm,+ 80 Nm
+Opel,Grandland X,2017>2019,Gasoline,1.2T Puretech,130 hp,145 hp,+ 15 hp,230 Nm,270 Nm,+ 40 Nm
+Opel,Grandland X,2017>2019,Diesel,2.0 D,177 hp,205 hp,+ 28 hp,400 Nm,460 Nm,+ 60 Nm
+Opel,Grandland X,2017>2019,Gasoline,1.2T Puretech (GPF),130 hp,145 hp,+ 15 hp,230 Nm,250 Nm,+ 20 Nm
+Opel,Grandland X,2017>2019,Diesel,1.5 BlueHDi,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Grandland X,2019>...,Diesel,1.5 D,130 hp,160 hp,+ 30 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Grandland X,2017>2019,Diesel,1.6 BlueHDI,120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Grandland X,2017>2019,Diesel,1.5 D,120 hp,150 hp,+ 30 hp,300 Nm,340 Nm,+ 40 Nm
+Opel,Grandland X,2017>2019,Diesel,2.0 BlueHDi (EAT6),180 hp,200 hp,+ 20 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Insignia / Insignia Grand Sport,2015>2017,Diesel,1.6 CDTI,120 hp,160 hp,+ 40 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,2.0 T,220 hp,295 hp,+ 75 hp,350 Nm,450 Nm,+ 100 Nm
+Opel,Insignia / Insignia Grand Sport,2017>2020,Diesel,1.6 CDTI,110 hp,140 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Diesel,2.0 CDTI,130 hp,190 hp,+ 60 hp,300 Nm,400 Nm,+ 100 Nm
+Opel,Insignia / Insignia Grand Sport,2015>2017,Diesel,1.6 CDTI,136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Diesel,2.0 CDTI,110 hp,190 hp,+ 80 hp,260 Nm,400 Nm,+ 140 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,2.8 T OPC,325 hp,360 hp,+ 35 hp,435 Nm,530 Nm,+ 95 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Diesel,2.0 CDTI,160 hp,200 hp,+ 40 hp,350 Nm,420 Nm,+ 70 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,2.8 T,260 hp,300 hp,+ 40 hp,350 Nm,450 Nm,+ 100 Nm
+Opel,Insignia / Insignia Grand Sport,2015>2017,Gasoline,2.8 Bi Turbo OPC,325 hp,360 hp,+ 35 hp,435 Nm,530 Nm,+ 95 Nm
+Opel,Insignia / Insignia Grand Sport,2020>...,Diesel,2.0 CDTI,174 hp, hp,0 hp,380 Nm, Nm,0 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Diesel,2.0 CDTI,130 hp,190 hp,+ 60 hp,300 Nm,400 Nm,+ 100 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Diesel,2.0 CDTI,195 hp,225 hp,+ 30 hp,400 Nm,480 Nm,+ 80 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Diesel,2.0 CDTI,140 hp,190 hp,+ 50 hp,350 Nm,400 Nm,+ 50 Nm
+Opel,Insignia / Insignia Grand Sport,2020>...,Diesel,1.5 CDTI,122 hp, hp,0 hp,300 Nm, Nm,0 Nm
+Opel,Insignia / Insignia Grand Sport,2017>2020,Diesel,2.0 CDTI,170 hp,195 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Insignia / Insignia Grand Sport,2015>2017,Diesel,2.0 CDTI,170 hp,195 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Insignia / Insignia Grand Sport,2017>2020,Diesel,1.6 CDTI,136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,2.0 T,250 hp,295 hp,+ 45 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Diesel,2.0 CDTI,163 hp,205 hp,+ 42 hp,350 Nm,430 Nm,+ 80 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,GT 2.0T,264 hp,295 hp,+ 31 hp,350 Nm,430 Nm,+ 80 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Diesel,2.0 CDTI,195 hp,225 hp,+ 30 hp,400 Nm,480 Nm,+ 80 Nm
+Opel,Insignia / Insignia Grand Sport,2017>2020,Gasoline,GSI - 2.0T,260 hp,290 hp,+ 30 hp,400 Nm,480 Nm,+ 80 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,1.6i,115 hp,125 hp,+ 10 hp,155 Nm,175 Nm,+ 20 Nm
+Opel,Insignia / Insignia Grand Sport,2020>...,Gasoline,2.0T GSI,230 hp, hp,0 hp,350 Nm, Nm,0 Nm
+Opel,Insignia / Insignia Grand Sport,2015>2017,Gasoline,1.6 T,170 hp,190 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Opel,Insignia / Insignia Grand Sport,2017>2020,Gasoline,1.5T,140 hp,180 hp,+ 40 hp,250 Nm,300 Nm,+ 50 Nm
+Opel,Insignia / Insignia Grand Sport,2020>...,Gasoline,2.0T,200 hp, hp,0 hp,350 Nm, Nm,0 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,1.6 T,180 hp,210 hp,+ 30 hp,230 Nm,300 Nm,+ 70 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Diesel,2.0 CDTI,110 hp,190 hp,+ 80 hp,260 Nm,400 Nm,+ 140 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Gasoline,1.4T,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Insignia / Insignia Grand Sport,2015>2017,Gasoline,1.4 T,170 hp,180 hp,+ 10 hp,260 Nm,290 Nm,+ 30 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,1.4 T,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Insignia / Insignia Grand Sport,2015>2017,Gasoline,1.4 T,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Gasoline,2.0T,250 hp,295 hp,+ 45 hp,350 Nm,430 Nm,+ 80 Nm
+Opel,Insignia / Insignia Grand Sport,2017>2020,Gasoline,1.6 T,200 hp,220 hp,+ 20 hp,280 Nm,340 Nm,+ 60 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,2.0 T (Delco Injection),220 hp,250 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Diesel,2.0 CDTI,190 hp,225 hp,+ 35 hp,400 Nm,480 Nm,+ 80 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Gasoline,1.6T,170 hp,190 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Opel,Insignia / Insignia Grand Sport,2009>2013,Gasoline,1.4 T,120 hp,170 hp,+ 50 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Insignia / Insignia Grand Sport,2017>2020,Gasoline,1.5T,165 hp,180 hp,+ 15 hp,250 Nm,300 Nm,+ 50 Nm
+Opel,Insignia / Insignia Grand Sport,2020>...,Gasoline,1.4T,145 hp, hp,0 hp,236 Nm, Nm,0 Nm
+Opel,Insignia / Insignia Grand Sport,2013>2015,Diesel,2.0 CDTI,120 hp,190 hp,+ 70 hp,300 Nm,400 Nm,+ 100 Nm
+Opel,Meriva,2014>...,Gasoline,1.4 T,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Meriva,...>2010,Gasoline,1.6 T OPC,180 hp,210 hp,+ 30 hp,230 Nm,300 Nm,+ 70 Nm
+Opel,Meriva,2010>2013,Diesel,1.3 CDTI,75 hp,95 hp,+ 20 hp,180 Nm,240 Nm,+ 60 Nm
+Opel,Meriva,2010>2013,Gasoline,1.4 T,140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Meriva,...>2010,Diesel,1.7 DTI,75 hp,105 hp,+ 30 hp,165 Nm,215 Nm,+ 50 Nm
+Opel,Meriva,2010>2013,Diesel,1.7 CDTI,110 hp,150 hp,+ 40 hp,260 Nm,330 Nm,+ 70 Nm
+Opel,Meriva,...>2010,Diesel,1.3 CDTI,75 hp,95 hp,+ 20 hp,170 Nm,240 Nm,+ 70 Nm
+Opel,Meriva,2010>2013,Diesel,1.7 CDTI (2013 -> ...),110 hp,165 hp,+ 55 hp,260 Nm,350 Nm,+ 90 Nm
+Opel,Meriva,2014>...,Gasoline,1.4 T,120 hp,170 hp,+ 50 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Meriva,2010>2013,Diesel,1.7 CDTI,130 hp,165 hp,+ 35 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Meriva,2010>2013,Diesel,1.7 CDTI,100 hp,135 hp,+ 35 hp,240 Nm,305 Nm,+ 65 Nm
+Opel,Meriva,2014>...,Diesel,1.6 CDTI,110 hp,140 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Opel,Meriva,2010>2013,Diesel,1.3 CDTI,95 hp,115 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Opel,Meriva,...>2010,Diesel,1.3 CDTI,70 hp,95 hp,+ 25 hp,170 Nm,240 Nm,+ 70 Nm
+Opel,Meriva,...>2010,Diesel,1.7 CDTI,100 hp,135 hp,+ 35 hp,240 Nm,305 Nm,+ 65 Nm
+Opel,Meriva,2014>...,Diesel,1.6 CDTI,95 hp,140 hp,+ 45 hp,280 Nm,360 Nm,+ 80 Nm
+Opel,Meriva,2010>2013,Diesel,1.7 CDTI,125 hp,150 hp,+ 25 hp,280 Nm,330 Nm,+ 50 Nm
+Opel,Meriva,2010>2013,Gasoline,1.4 T,120 hp,170 hp,+ 50 hp,175 Nm,270 Nm,+ 95 Nm
+Opel,Mokka,2016>2019,Diesel,1.6 CDTi,136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Mokka,2016>2019,Diesel,1.6 CDTi,110 hp,140 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Opel,Mokka,2012>2016,Diesel,1.6 CDTi,136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Mokka,2012>2016,Diesel,1.6 CDTi,110 hp,140 hp,+ 30 hp,300 Nm,360 Nm,+ 60 Nm
+Opel,Mokka,2016>2019,Gasoline,1.4 T,120 hp,170 hp,+ 50 hp,200 Nm,260 Nm,+ 60 Nm
+Opel,Mokka,2020>...,Gasoline,1.2T,110 hp, hp,0 hp,195 Nm, Nm,0 Nm
+Opel,Mokka,2012>2016,Gasoline,1.4 Turbo,140 hp,170 hp,+ 30 hp,200 Nm,260 Nm,+ 60 Nm
+Opel,Mokka,2020>...,Gasoline,1.2T,130 hp, hp,0 hp,225 Nm, Nm,0 Nm
+Opel,Mokka,2012>2016,Diesel,1.7 CDTI,130 hp,165 hp,+ 35 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Mokka,2020>...,Gasoline,1.2T,155 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Opel,Mokka,2020>...,Diesel,1.5D,100 hp,140 hp,+ 40 hp,250 Nm,340 Nm,+ 90 Nm
+Opel,Mokka,2016>2019,Gasoline,1.4 T,140 hp,170 hp,+ 30 hp,200 Nm,260 Nm,+ 60 Nm
+Opel,Mokka,2020>...,Diesel,1.5D,130 hp,160 hp,+ 30 hp,230 Nm,350 Nm,+ 120 Nm
+Opel,Mokka,2016>2019,Gasoline,1.4 T,152 hp,175 hp,+ 23 hp,235 Nm,280 Nm,+ 45 Nm
+Opel,Movano,...>2010,Diesel,3.0 CDTI,136 hp,160 hp,+ 24 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Movano,2016>...,Diesel,2.3 DCi Bi-Turbo (Euro 6),145 hp,210 hp,+ 65 hp,360 Nm,440 Nm,+ 80 Nm
+Opel,Movano,2016>...,Diesel,2.3 DCi (Euro 6),170 hp,210 hp,+ 40 hp,380 Nm,440 Nm,+ 60 Nm
+Opel,Movano,2014>2016,Diesel,2.3 DCi Bi Turbo,135 hp,195 hp,+ 60 hp,340 Nm,420 Nm,+ 80 Nm
+Opel,Movano,...>2010,Diesel,2.5 CDTI,100 hp,130 hp,+ 30 hp,260 Nm,335 Nm,+ 75 Nm
+Opel,Movano,2010>2014,Diesel,2.3 CDTI,146 hp,180 hp,+ 34 hp,350 Nm,430 Nm,+ 80 Nm
+Opel,Movano,2016>...,Diesel,2.3 DCi (Euro 6),110 hp,180 hp,+ 70 hp,285 Nm,420 Nm,+ 135 Nm
+Opel,Movano,...>2010,Diesel,2.2 CDTI,90 hp,120 hp,+ 30 hp,260 Nm,310 Nm,+ 50 Nm
+Opel,Movano,...>2010,Diesel,2.5 CDTI,145 hp,174 hp,+ 29 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Movano,...>2010,Diesel,2.0 CDTI,115 hp,145 hp,+ 30 hp,290 Nm,380 Nm,+ 90 Nm
+Opel,Movano,2016>...,Diesel,2.3 DCi Bi-Turbo (Euro 6),165 hp,210 hp,+ 45 hp,380 Nm,440 Nm,+ 60 Nm
+Opel,Movano,2014>2016,Diesel,2.3 DCi,125 hp,155 hp,+ 30 hp,310 Nm,370 Nm,+ 60 Nm
+Opel,Movano,2010>2014,Diesel,2.3 CDTI,100 hp,155 hp,+ 55 hp,285 Nm,370 Nm,+ 85 Nm
+Opel,Movano,2010>2014,Diesel,2.3 CDTI,125 hp,155 hp,+ 30 hp,310 Nm,370 Nm,+ 60 Nm
+Opel,Movano,...>2010,Diesel,1.9 CDTI,82 hp,112 hp,+ 30 hp,200 Nm,260 Nm,+ 60 Nm
+Opel,Movano,2016>...,Diesel,2.3 DCi (Euro 6),130 hp,180 hp,+ 50 hp,340 Nm,420 Nm,+ 80 Nm
+Opel,Movano,2014>2016,Diesel,2.3 DCi Bi Turbo,166 hp,195 hp,+ 29 hp,360 Nm,420 Nm,+ 60 Nm
+Opel,Movano,2014>2016,Diesel,2.3 DCi,110 hp,140 hp,+ 30 hp,285 Nm,345 Nm,+ 60 Nm
+Opel,Movano,...>2010,Diesel,2.5 CDTI,120 hp,148 hp,+ 28 hp,300 Nm,368 Nm,+ 68 Nm
+Opel,Signum,2003>2008,Diesel,1.9 CDTI,120 hp,150 hp,+ 30 hp,280 Nm,340 Nm,+ 60 Nm
+Opel,Signum,2003>2008,Gasoline,2.0 T,175 hp,200 hp,+ 25 hp,265 Nm,310 Nm,+ 45 Nm
+Opel,Signum,2003>2008,Diesel,1.9 CDTI,150 hp,190 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Signum,2003>2008,Diesel,1.9 CDTI,100 hp,140 hp,+ 40 hp,260 Nm,330 Nm,+ 70 Nm
+Opel,Signum,2003>2008,Gasoline,2.8 T,250 hp,290 hp,+ 40 hp,340 Nm,400 Nm,+ 60 Nm
+Opel,Tigra,2005>2009,Diesel,1.3 CDTI,70 hp,95 hp,+ 25 hp,170 Nm,215 Nm,+ 45 Nm
+Opel,Tigra,2005>2009,Diesel,1.3 CDTI,75 hp,95 hp,+ 20 hp,170 Nm,215 Nm,+ 45 Nm
+Opel,Vectra,2004>2009,Diesel,1.9 CDTI,100 hp,140 hp,+ 40 hp,260 Nm,330 Nm,+ 70 Nm
+Opel,Vectra,2004>2009,Gasoline,2.8 T OPC,255 hp,300 hp,+ 45 hp,355 Nm,450 Nm,+ 95 Nm
+Opel,Vectra,2004>2009,Diesel,1.9 CDTI 16V,150 hp,190 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Vectra,2004>2009,Gasoline,2.8 T OPC,280 hp,300 hp,+ 20 hp,355 Nm,450 Nm,+ 95 Nm
+Opel,Vectra,2004>2009,Diesel,1.9 CDTI 8V,120 hp,150 hp,+ 30 hp,280 Nm,340 Nm,+ 60 Nm
+Opel,Vivaro,...>2014,Diesel,2.5 CDTI,145 hp,174 hp,+ 29 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Vivaro,2016>2019,Diesel,1.6 Dci Bi-Turbo (Euro 6),145 hp,175 hp,+ 30 hp,340 Nm,390 Nm,+ 50 Nm
+Opel,Vivaro,2019>...,Diesel,1.5D,120 hp,160 hp,+ 40 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Vivaro,2019>...,Diesel,2.0D,177 hp,205 hp,+ 28 hp,400 Nm,460 Nm,+ 60 Nm
+Opel,Vivaro,2019>...,Diesel,2.0D,122 hp,205 hp,+ 83 hp,340 Nm,460 Nm,+ 120 Nm
+Opel,Vivaro,2019>...,Diesel,1.5D,102 hp,160 hp,+ 58 hp,270 Nm,350 Nm,+ 80 Nm
+Opel,Vivaro,2014>2016,Diesel,1.6 CDTI Bi-Turbo (Euro 5),140 hp,175 hp,+ 35 hp,340 Nm,390 Nm,+ 50 Nm
+Opel,Vivaro,2014>2016,Diesel,1.6 CDTI (Euro 5),90 hp,145 hp,+ 55 hp,260 Nm,380 Nm,+ 120 Nm
+Opel,Vivaro,2014>2016,Diesel,1.6 CDTI (Euro 5),115 hp,145 hp,+ 30 hp,300 Nm,380 Nm,+ 80 Nm
+Opel,Vivaro,...>2014,Diesel,2.0 CDTI,90 hp,145 hp,+ 55 hp,240 Nm,350 Nm,+ 110 Nm
+Opel,Vivaro,...>2014,Diesel,1.9 DTI,100 hp,130 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Opel,Vivaro,2019>...,Diesel,2.0D,150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm
+Opel,Vivaro,...>2014,Diesel,2.0 CDTI,115 hp,145 hp,+ 30 hp,290 Nm,350 Nm,+ 60 Nm
+Opel,Vivaro,2016>2019,Diesel,1.6 Dci Bi-Turbo (Euro 6),125 hp,175 hp,+ 50 hp,320 Nm,390 Nm,+ 70 Nm
+Opel,Vivaro,2016>2019,Diesel,1.6 Dci (Euro 6),95 hp,145 hp,+ 50 hp,260 Nm,350 Nm,+ 90 Nm
+Opel,Vivaro,2014>2016,Diesel,1.6 CDTI Bi-Turbo (Euro 5),120 hp,175 hp,+ 55 hp,320 Nm,390 Nm,+ 70 Nm
+Opel,Vivaro,2016>2019,Diesel,1.6 Dci (Euro 6),120 hp,145 hp,+ 25 hp,300 Nm,350 Nm,+ 50 Nm
+Opel,Vivaro,...>2014,Diesel,2.5 CDTI,115 hp,149 hp,+ 34 hp,290 Nm,370 Nm,+ 80 Nm
+Opel,Zafira,2005>2011,Diesel,1.9 CDTI,100 hp,160 hp,+ 60 hp,230 Nm,360 Nm,+ 130 Nm
+Opel,Zafira,2011>2016,Diesel,2.0 CDTI,165 hp,205 hp,+ 40 hp,350 Nm,430 Nm,+ 80 Nm
+Opel,Zafira,2011>2016,Diesel,2.0 CDTI,170 hp,195 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Zafira,2005>2011,Gasoline,2.0 T OPC,240 hp,275 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Zafira,2011>2016,Diesel,2.0 CDTI,110 hp,190 hp,+ 80 hp,300 Nm,400 Nm,+ 100 Nm
+Opel,Zafira,2011>2016,Diesel,2.0 CDTI Bi Turbo,195 hp,225 hp,+ 30 hp,400 Nm,480 Nm,+ 80 Nm
+Opel,Zafira,2016>2019,Diesel,1.6 CDTI Ecotec,134 hp,160 hp,+ 26 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Zafira,2011>2016,Diesel,2.0 CDTI,130 hp,190 hp,+ 60 hp,300 Nm,400 Nm,+ 100 Nm
+Opel,Zafira,2005>2011,Gasoline,1.6 T,150 hp,205 hp,+ 55 hp,210 Nm,300 Nm,+ 90 Nm
+Opel,Zafira,2005>2011,Gasoline,2.0 T OPC,200 hp,240 hp,+ 40 hp,262 Nm,360 Nm,+ 98 Nm
+Opel,Zafira,2005>2011,Diesel,1.7 CDTI,125 hp,150 hp,+ 25 hp,280 Nm,330 Nm,+ 50 Nm
+Opel,Zafira,2011>2016,Gasoline,1.4 Turbo,140 hp,170 hp,+ 30 hp,200 Nm,260 Nm,+ 60 Nm
+Opel,Zafira,2016>2019,Gasoline,1.4 T Ecotec LPG,140 hp,170 hp,+ 30 hp,230 Nm,270 Nm,+ 40 Nm
+Opel,Zafira,2011>2016,Gasoline,1.6 Turbo,200 hp,220 hp,+ 20 hp,280 Nm,340 Nm,+ 60 Nm
+Opel,Zafira,2005>2011,Diesel,1.9 CDTI,120 hp,150 hp,+ 30 hp,280 Nm,360 Nm,+ 80 Nm
+Opel,Zafira,2016>2019,Gasoline,1.4 T (Ecotec),120 hp,170 hp,+ 50 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Zafira,2016>2019,Gasoline,1.6 T Ecotec CNG,150 hp,190 hp,+ 40 hp,210 Nm,300 Nm,+ 90 Nm
+Opel,Zafira,2016>2019,Diesel,1.6 CDTI,120 hp,160 hp,+ 40 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Zafira,2011>2016,Diesel,1.6 CDTI,120 hp,160 hp,+ 40 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Zafira,2005>2011,Diesel,1.7 CDTI,110 hp,150 hp,+ 40 hp,260 Nm,330 Nm,+ 70 Nm
+Opel,Zafira,2016>2019,Gasoline,1.6 T,170 hp,190 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Opel,Zafira,2016>2019,Diesel,2.0 CDTI (Ecotec),170 hp,195 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Opel,Zafira,2005>2011,Diesel,1.9 CDTI,150 hp,190 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Opel,Zafira,2011>2016,Gasoline,1.4 Turbo,120 hp,170 hp,+ 50 hp,200 Nm,260 Nm,+ 60 Nm
+Opel,Zafira,2011>2016,Diesel,1.6 CDTI,136 hp,160 hp,+ 24 hp,320 Nm,380 Nm,+ 60 Nm
+Opel,Zafira,2016>2019,Gasoline,1.6 T,200 hp,220 hp,+ 20 hp,280 Nm,340 Nm,+ 60 Nm
+Opel,Zafira,2016>2019,Gasoline,1.4 T (Ecotec),140 hp,170 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Opel,Zafira,2016>2019,Diesel,2.0 CDTI,130 hp,190 hp,+ 60 hp,300 Nm,400 Nm,+ 100 Nm
+Opel,Zafira Life,2019>...,Diesel,1.5 D,120 hp, hp,0 hp,300 Nm, Nm,0 Nm
+Opel,Zafira Life,2019>...,Diesel,2.0 D,177 hp,205 hp,+ 28 hp,400 Nm,460 Nm,+ 60 Nm
+Opel,Zafira Life,2019>...,Diesel,2.0 D,122 hp, hp,0 hp,340 Nm, Nm,0 Nm
+Opel,Zafira Life,2019>...,Diesel,2.0 D,150 hp,205 hp,+ 55 hp,370 Nm,460 Nm,+ 90 Nm

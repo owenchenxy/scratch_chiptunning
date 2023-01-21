@@ -1,0 +1,139 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Nissan,350Z,2003>2009,Gasoline,3.5 V6,280 hp,300 hp,+ 20 hp,350 Nm,370 Nm,+ 20 Nm
+Nissan,350Z,2003>2009,Gasoline,3.5 V6,301 hp,315 hp,+ 14 hp,350 Nm,370 Nm,+ 20 Nm
+Nissan,350Z,2003>2009,Gasoline,3.5 V6,313 hp,335 hp,+ 22 hp,353 Nm,375 Nm,+ 22 Nm
+Nissan,370Z,2009>...,Gasoline,3.7 V6 Nismo,344 hp,360 hp,+ 16 hp,371 Nm,386 Nm,+ 15 Nm
+Nissan,370Z,2009>...,Gasoline,3.7 V6,328 hp,348 hp,+ 20 hp,363 Nm,383 Nm,+ 20 Nm
+Nissan,370Z,2009>...,Gasoline,3.7 V6,331 hp,350 hp,+ 19 hp,366 Nm,385 Nm,+ 19 Nm
+Nissan,Almera,2000>2006,Diesel,2.2 dCi,110 hp,136 hp,+ 26 hp,230 Nm,275 Nm,+ 45 Nm
+Nissan,Almera,2000>2006,Diesel,2.2 DITD,126 hp,152 hp,+ 26 hp,280 Nm,320 Nm,+ 40 Nm
+Nissan,Almera,2000>2006,Diesel,1.5 dci,82 hp,105 hp,+ 23 hp,185 Nm,230 Nm,+ 45 Nm
+Nissan,Atleon / NT 500,2014>...,Diesel,3.0 DCI,150 hp,180 hp,+ 30 hp,350 Nm,410 Nm,+ 60 Nm
+Nissan,Cabstar / NT400,...>2016,Diesel,2.5 DCi,100 hp,130 hp,+ 30 hp,260 Nm,335 Nm,+ 75 Nm
+Nissan,Cabstar / NT400,...>2016,Diesel,2.5 DCi,120 hp,148 hp,+ 28 hp,300 Nm,368 Nm,+ 68 Nm
+Nissan,Cabstar / NT400,2016>...,Diesel,3.0 DCI,130 hp,180 hp,+ 50 hp,300 Nm,430 Nm,+ 130 Nm
+Nissan,Cabstar / NT400,2016>...,Diesel,3.0 DCI,150 hp,180 hp,+ 30 hp,350 Nm,430 Nm,+ 80 Nm
+Nissan,Cabstar / NT400,...>2016,Diesel,2.5 DCi,130 hp,160 hp,+ 30 hp,270 Nm,340 Nm,+ 70 Nm
+Nissan,Cabstar / NT400,...>2016,Diesel,3.0 DCi,150 hp,180 hp,+ 30 hp,350 Nm,415 Nm,+ 65 Nm
+Nissan,Cube,2010>2012,Diesel,1.5 dci,85 hp,105 hp,+ 20 hp,200 Nm,260 Nm,+ 60 Nm
+Nissan,Cube,2010>2012,Diesel,1.5 dci,110 hp,130 hp,+ 20 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,Evalia,2014>...,Diesel,1.5 DCi,90 hp,110 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Nissan,Evalia,2014>...,Diesel,1.5 DCi,110 hp,130 hp,+ 20 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,GTR,2018>...,Gasoline,3.8 Bi Turbo,570 hp, hp,0 hp,637 Nm, Nm,0 Nm
+Nissan,GTR,2016>2017,Gasoline,3.8 Bi Turbo,550 hp,580 hp,+ 30 hp,632 Nm,750 Nm,+ 118 Nm
+Nissan,GTR,2016>2017,Gasoline,"3.8 Bi Turbo ""Nismo""",600 hp, hp,0 hp,652 Nm, Nm,0 Nm
+Nissan,GTR,2014>2015,Gasoline,"3.8 Bi Turbo ""Nismo""",600 hp, hp,0 hp,652 Nm, Nm,0 Nm
+Nissan,GTR,2014>2015,Gasoline,3.8 Bi Turbo,550 hp,580 hp,+ 30 hp,632 Nm,750 Nm,+ 118 Nm
+Nissan,GTR,2011>...,Gasoline,3.8 Bi Turbo,530 hp,580 hp,+ 50 hp,612 Nm,750 Nm,+ 138 Nm
+Nissan,GTR,2012>2013,Gasoline,3.8 Bi Turbo,550 hp,580 hp,+ 30 hp,632 Nm,750 Nm,+ 118 Nm
+Nissan,GTR,2018>...,Gasoline,"3.8 Bi Turbo ""Nismo""",600 hp, hp,0 hp,637 Nm, Nm,0 Nm
+Nissan,GTR,2016>2017,Gasoline,3.8 Bi Turbo,570 hp,580 hp,+ 10 hp,637 Nm,750 Nm,+ 113 Nm
+Nissan,GTR,2008>2010,Gasoline,3.8i,485 hp,550 hp,+ 65 hp,588 Nm,720 Nm,+ 132 Nm
+Nissan,Interstar,2005>2011,Diesel,2.5 DCI,120 hp,150 hp,+ 30 hp,290 Nm,360 Nm,+ 70 Nm
+Nissan,Interstar,2005>2011,Diesel,2.5 DCI,100 hp,135 hp,+ 35 hp,260 Nm,350 Nm,+ 90 Nm
+Nissan,Juke,2018>2019,Gasoline,1.6 DIG-T Nismo,218 hp,230 hp,+ 12 hp,280 Nm,350 Nm,+ 70 Nm
+Nissan,Juke,2010>2018,Gasoline,1.6 T Nismo RS,214 hp,230 hp,+ 16 hp,250 Nm,350 Nm,+ 100 Nm
+Nissan,Juke,2020>...,Gasoline,1.3 DIG-T,155 hp, hp,0 hp, Nm, Nm,0 Nm
+Nissan,Juke,2010>2018,Gasoline,1.6 T Nismo,200 hp,230 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,Juke,2018>2019,Gasoline,1.6 DIG-T,190 hp,220 hp,+ 30 hp,240 Nm,310 Nm,+ 70 Nm
+Nissan,Juke,2020>...,Gasoline,1.3 DIG-T,130 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Nissan,Juke,2010>2018,Diesel,1.5 DCi,110 hp,138 hp,+ 28 hp,240 Nm,310 Nm,+ 70 Nm
+Nissan,Juke,2010>2018,Gasoline,1.6 T,190 hp,230 hp,+ 40 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,Juke,2010>2018,Gasoline,1.6 T Nismo RS,218 hp,230 hp,+ 12 hp,280 Nm,350 Nm,+ 70 Nm
+Nissan,Juke,2010>2018,Gasoline,1.6,117 hp,130 hp,+ 13 hp,158 Nm,173 Nm,+ 15 Nm
+Nissan,Juke,2018>2019,Gasoline,1.2 DIG-T,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Nissan,Juke,2020>...,Gasoline,1.0 IG-T,100 hp, hp,0 hp,160 Nm, Nm,0 Nm
+Nissan,Juke,2018>2019,Diesel,1.5 DCi,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Nissan,Juke,2010>2018,Gasoline,1.2 DIG-T,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Nissan,Kubistar,All,Diesel,1.5 dci,105 hp,130 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,Micra,2016>...,Gasoline,0.9 TCE,90 hp,110 hp,+ 20 hp,140 Nm,200 Nm,+ 60 Nm
+Nissan,Micra,2003>2016,Diesel,1.5 dci,85 hp,105 hp,+ 20 hp,200 Nm,240 Nm,+ 40 Nm
+Nissan,Micra,2016>...,Gasoline,1.0 DIG-T,100 hp, hp,0 hp,160 Nm, Nm,0 Nm
+Nissan,Micra,2016>...,Diesel,1.5 DCi,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Nissan,Micra,2003>2016,Diesel,1.5 dci,65 hp,85 hp,+ 20 hp,160 Nm,200 Nm,+ 40 Nm
+Nissan,Micra,2016>...,Gasoline,1.0 DIG-T,117 hp, hp,0 hp,180 Nm, Nm,0 Nm
+Nissan,Murano,2009>2016,Diesel,2.5 DCI,190 hp,225 hp,+ 35 hp,450 Nm,540 Nm,+ 90 Nm
+Nissan,NP 300 - Navara,2005>2015,Diesel,2.5 Di,133 hp,165 hp,+ 32 hp,304 Nm,365 Nm,+ 61 Nm
+Nissan,NP 300 - Navara,2005>2015,Diesel,3.0 DCi,231 hp,280 hp,+ 49 hp,550 Nm,600 Nm,+ 50 Nm
+Nissan,NP 300 - Navara,2019>...,Diesel,2.3 BlueDCI,190 hp,210 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Nissan,NP 300 - Navara,2005>2015,Diesel,2.5 DCi,190 hp,225 hp,+ 35 hp,450 Nm,540 Nm,+ 90 Nm
+Nissan,NP 300 - Navara,2016>2019,Diesel,2.3 DCi Bi-turbo (Euro 5),190 hp,210 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Nissan,NP 300 - Navara,2019>...,Diesel,2.3 BlueDCI,160 hp,190 hp,+ 30 hp,403 Nm,460 Nm,+ 57 Nm
+Nissan,NP 300 - Navara,2005>2015,Diesel,2.5 DCi,172 hp,210 hp,+ 38 hp,403 Nm,460 Nm,+ 57 Nm
+Nissan,NP 300 - Navara,2016>2019,Diesel,2.3 DCi Bi-turbo (Euro 6),160 hp,190 hp,+ 30 hp,403 Nm,460 Nm,+ 57 Nm
+Nissan,NP 300 - Navara,2016>2019,Diesel,2.3 DCi Bi-turbo (Euro 5),160 hp,190 hp,+ 30 hp,403 Nm,460 Nm,+ 57 Nm
+Nissan,NP 300 - Navara,2016>2019,Diesel,2.3 DCi Bi-turbo (Euro 6),190 hp,210 hp,+ 20 hp,450 Nm,500 Nm,+ 50 Nm
+Nissan,NV 200,2010>...,Diesel,1.5 dci,110 hp,135 hp,+ 25 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,NV 200,2010>...,Diesel,1.5 dci,90 hp,106 hp,+ 16 hp,200 Nm,250 Nm,+ 50 Nm
+Nissan,NV 200,2009>...,Diesel,1.5 dci,86 hp,105 hp,+ 19 hp,200 Nm,250 Nm,+ 50 Nm
+Nissan,NV 250,09/2019>...,Diesel,1.5 BlueDCI,80 hp,140 hp,+ 60 hp,210 Nm,310 Nm,+ 100 Nm
+Nissan,NV 250,09/2019>...,Diesel,1.5 BlueDCI,95 hp,135 hp,+ 40 hp,220 Nm,310 Nm,+ 90 Nm
+Nissan,NV 250,09/2019>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Nissan,NV 300,2016>...,Diesel,1.6 Dci (Euro 6),95 hp,145 hp,+ 50 hp,260 Nm,350 Nm,+ 90 Nm
+Nissan,NV 300,2016>...,Diesel,2.0 DCi,170 hp,205 hp,+ 35 hp,380 Nm,420 Nm,+ 40 Nm
+Nissan,NV 300,2016>...,Diesel,2.0 DCi,145 hp,205 hp,+ 60 hp,350 Nm,420 Nm,+ 70 Nm
+Nissan,NV 300,2016>...,Diesel,1.6 Dci Bi-Turbo (Euro 6),125 hp,175 hp,+ 50 hp,320 Nm,390 Nm,+ 70 Nm
+Nissan,NV 300,2016>...,Diesel,2.0 DCi,120 hp,205 hp,+ 85 hp,320 Nm,420 Nm,+ 100 Nm
+Nissan,NV 300,2016>...,Diesel,1.6 Dci Bi-Turbo (Euro 6),145 hp,175 hp,+ 30 hp,340 Nm,390 Nm,+ 50 Nm
+Nissan,NV 400,2010>2016,Diesel,2.3 DCI,100 hp,130 hp,+ 30 hp,285 Nm,345 Nm,+ 60 Nm
+Nissan,NV 400,2016>...,Diesel,2.3 DCi Bi-Turbo (Euro 6),145 hp,210 hp,+ 65 hp,360 Nm,440 Nm,+ 80 Nm
+Nissan,NV 400,2016>...,Diesel,2.3 DCi (Euro 6),110 hp,180 hp,+ 70 hp,285 Nm,420 Nm,+ 135 Nm
+Nissan,NV 400,2016>...,Diesel,2.3 DCi (Euro 6),130 hp,180 hp,+ 50 hp,340 Nm,420 Nm,+ 80 Nm
+Nissan,NV 400,2016>...,Diesel,2.3 DCi Bi-Turbo (Euro 6),165 hp,210 hp,+ 45 hp,380 Nm,440 Nm,+ 60 Nm
+Nissan,NV 400,2010>2016,Diesel,2.3 DCI,150 hp,180 hp,+ 30 hp,350 Nm,410 Nm,+ 60 Nm
+Nissan,NV 400,2016>...,Diesel,2.3 DCi Bi-Turbo (Euro 6),170 hp,210 hp,+ 40 hp,380 Nm,440 Nm,+ 60 Nm
+Nissan,NV 400,2010>2016,Diesel,2.3 DCI,125 hp,155 hp,+ 30 hp,310 Nm,370 Nm,+ 60 Nm
+Nissan,Note,2006>...,Diesel,1.5 dci,68 hp,82 hp,+ 14 hp,160 Nm,208 Nm,+ 48 Nm
+Nissan,Note,2006>...,Diesel,1.5 dci,90 hp,115 hp,+ 25 hp,220 Nm,260 Nm,+ 40 Nm
+Nissan,Note,2006>...,Diesel,1.5 dci,103 hp,125 hp,+ 22 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,Note,2006>...,Diesel,1.5 dci,86 hp,105 hp,+ 19 hp,200 Nm,260 Nm,+ 60 Nm
+Nissan,Pathfinder,2006>2016,Diesel,2.5 DCI,190 hp,230 hp,+ 40 hp,450 Nm,520 Nm,+ 70 Nm
+Nissan,Pathfinder,2006>2016,Diesel,2.5 DCI,163 hp,210 hp,+ 47 hp,403 Nm,460 Nm,+ 57 Nm
+Nissan,Pathfinder,2006>2016,Diesel,3.0 DCI,231 hp,280 hp,+ 49 hp,550 Nm,600 Nm,+ 50 Nm
+Nissan,Pathfinder,2006>2016,Diesel,2.5 DCI,173 hp,210 hp,+ 37 hp,403 Nm,460 Nm,+ 57 Nm
+Nissan,Patrol,2006>2009,Diesel,3.0 DI,160 hp,185 hp,+ 25 hp,323 Nm,400 Nm,+ 77 Nm
+Nissan,Primastar,All,Diesel,2.0 DCi,90 hp,145 hp,+ 55 hp,240 Nm,350 Nm,+ 110 Nm
+Nissan,Primastar,All,Diesel,2.0 DCi,115 hp,145 hp,+ 30 hp,290 Nm,350 Nm,+ 60 Nm
+Nissan,Primastar,All,Diesel,1.9 DCi,100 hp,130 hp,+ 30 hp,240 Nm,300 Nm,+ 60 Nm
+Nissan,Primastar,All,Diesel,2.5 DCI,145 hp,174 hp,+ 29 hp,320 Nm,400 Nm,+ 80 Nm
+Nissan,Primastar,All,Diesel,1.9 DCi,82 hp,110 hp,+ 28 hp,190 Nm,240 Nm,+ 50 Nm
+Nissan,Primastar,All,Diesel,2.5 DCI,115 hp,149 hp,+ 34 hp,290 Nm,370 Nm,+ 80 Nm
+Nissan,Primera,2002>2007,Diesel,2.2 DCI,126 hp,155 hp,+ 29 hp,280 Nm,320 Nm,+ 40 Nm
+Nissan,Primera,2002>2007,Diesel,1.9 DCI,120 hp,165 hp,+ 45 hp,270 Nm,320 Nm,+ 50 Nm
+Nissan,Primera,2002>2007,Diesel,2.2 DCI,139 hp,170 hp,+ 31 hp,314 Nm,370 Nm,+ 56 Nm
+Nissan,Primera,2002>2007,Diesel,1.9 DCI,115 hp,160 hp,+ 45 hp,250 Nm,310 Nm,+ 60 Nm
+Nissan,Pulsar,2014>...,Gasoline,1.6 DIG-T,190 hp,220 hp,+ 30 hp,240 Nm,310 Nm,+ 70 Nm
+Nissan,Pulsar,2014>...,Gasoline,1.2 DIG-T,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Nissan,Pulsar,2014>...,Diesel,1.5 DCi,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Nissan,Qashqai,02/2014>2017,Diesel,1.5 DCI,110 hp,130 hp,+ 20 hp,260 Nm,300 Nm,+ 40 Nm
+Nissan,Qashqai,2017>2019,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Nissan,Qashqai,2019>...,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Nissan,Qashqai,2019>...,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm
+Nissan,Qashqai,02/2014>2017,Diesel,1.6 DCI,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Nissan,Qashqai,2017>2019,Diesel,1.6 DCI,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Nissan,Qashqai,2007>2014,Diesel,2.0 dci,150 hp,190 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Nissan,Qashqai,2007>2014,Diesel,1.6 dci,130 hp,160 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Nissan,Qashqai,2017>2019,Diesel,1.5 BlueDCI,115 hp,140 hp,+ 25 hp,260 Nm,320 Nm,+ 60 Nm
+Nissan,Qashqai,02/2014>2017,Gasoline,1.6 DIG-T,163 hp,205 hp,+ 42 hp,240 Nm,320 Nm,+ 80 Nm
+Nissan,Qashqai,2019>...,Gasoline,1.3 DIG-T,140 hp, hp,0 hp,240 Nm, Nm,0 Nm
+Nissan,Qashqai,2017>2019,Diesel,1.5 DCI,110 hp,135 hp,+ 25 hp,260 Nm,310 Nm,+ 50 Nm
+Nissan,Qashqai,02/2014>2017,Gasoline,1.2 DIG-T,115 hp,130 hp,+ 15 hp,190 Nm,230 Nm,+ 40 Nm
+Nissan,Qashqai,2007>2014,Diesel,1.5 dci,110 hp,125 hp,+ 15 hp,240 Nm,285 Nm,+ 45 Nm
+Nissan,Qashqai,2017>2019,Gasoline,1.6 DIG-T,163 hp,205 hp,+ 42 hp,240 Nm,320 Nm,+ 80 Nm
+Nissan,Qashqai,2019>...,Gasoline,1.3 DIG-T,160 hp, hp,0 hp,270 Nm, Nm,0 Nm
+Nissan,Qashqai,2017>2019,Gasoline,1.2 DIG-T,115 hp,140 hp,+ 25 hp,190 Nm,240 Nm,+ 50 Nm
+Nissan,Qashqai,2007>2014,Diesel,1.5 dci,105 hp,125 hp,+ 20 hp,240 Nm,290 Nm,+ 50 Nm
+Nissan,Sentra,2017>...,Gasoline,1.6 T,188 hp,220 hp,+ 32 hp,240 Nm,310 Nm,+ 70 Nm
+Nissan,Terrano 2,2002>2008,Diesel,2.7 tdi,125 hp,150 hp,+ 25 hp,280 Nm,340 Nm,+ 60 Nm
+Nissan,X-Trail,2014>2019,Gasoline,1.6 DIG-T,163 hp,205 hp,+ 42 hp,240 Nm,320 Nm,+ 80 Nm
+Nissan,X-Trail,...>2014,Diesel,2.2 DCi,136 hp,168 hp,+ 32 hp,314 Nm,370 Nm,+ 56 Nm
+Nissan,X-Trail,2019>...,Diesel,2.0 DCi,177 hp,205 hp,+ 28 hp,380 Nm,440 Nm,+ 60 Nm
+Nissan,X-Trail,...>2014,Diesel,2.0 DCi,173 hp,210 hp,+ 37 hp,380 Nm,450 Nm,+ 70 Nm
+Nissan,X-Trail,2014>2019,Diesel,1.6 DCI,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Nissan,X-Trail,...>2014,Diesel,2.0 DCi,150 hp,180 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Nissan,X-Trail,2019>...,Diesel,1.6 DCi,130 hp,155 hp,+ 25 hp,320 Nm,370 Nm,+ 50 Nm
+Nissan,X-Trail,2019>...,Gasoline,1.3 DIG-T,160 hp, hp,0 hp,270 Nm, Nm,0 Nm
+Nissan,X-Trail,...>2014,Diesel,1.6 DCI,130 hp,160 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Nissan,X-Trail,2019>...,Gasoline,1.6 DIG-T,163 hp,180 hp,+ 17 hp,240 Nm,270 Nm,+ 30 Nm
+Nissan,X-Trail,2014>2019,Diesel,2.0 DCI,177 hp,205 hp,+ 28 hp,380 Nm,440 Nm,+ 60 Nm
+Nissan,X-Trail,2019>...,Diesel,1.7 BlueDCI,150 hp,170 hp,+ 20 hp,340 Nm,380 Nm,+ 40 Nm

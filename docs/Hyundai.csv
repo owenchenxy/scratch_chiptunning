@@ -1,0 +1,107 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Hyundai,Accent,2000>2006,Diesel,1.5 CRDI,82 hp,102 hp,+ 20 hp,184 Nm,234 Nm,+ 50 Nm
+Hyundai,Accent,2000>2006,Diesel,1.5 CRDI,110 hp,130 hp,+ 20 hp,240 Nm,285 Nm,+ 45 Nm
+Hyundai,Accent,2000>2006,Diesel,1.6 CRDi,90 hp,130 hp,+ 40 hp,235 Nm,300 Nm,+ 65 Nm
+Hyundai,Accent,2000>2006,Diesel,1.6 CRDi,110 hp,155 hp,+ 45 hp,255 Nm,320 Nm,+ 65 Nm
+Hyundai,Avante Sport,2017>...,Gasoline,1.6T-GDI,201 hp,220 hp,+ 19 hp,265 Nm,325 Nm,+ 60 Nm
+Hyundai,Azera,2007>2009,Diesel,2.2CRDI vgt,150 hp,180 hp,+ 30 hp,340 Nm,400 Nm,+ 60 Nm
+Hyundai,Elantra,2017>...,Gasoline,1.6T-GDI,201 hp,220 hp,+ 19 hp,265 Nm,325 Nm,+ 60 Nm
+Hyundai,Elantra,2007>...,Gasoline,1.6 MPI,132 hp,147 hp,+ 15 hp,157 Nm,177 Nm,+ 20 Nm
+Hyundai,Genesis,2011>...,Gasoline,2.0T,275 hp, hp,0 hp,372 Nm, Nm,0 Nm
+Hyundai,Genesis,2011>...,Gasoline,3.3 V6 Bi-Turbo,375 hp,400 hp,+ 25 hp,510 Nm,610 Nm,+ 100 Nm
+Hyundai,Genesis,2011>...,Gasoline,2.0T,209 hp,240 hp,+ 31 hp,299 Nm,370 Nm,+ 71 Nm
+Hyundai,Getz,2003>2010,Diesel,1.5 CRDI,110 hp,130 hp,+ 20 hp,235 Nm,285 Nm,+ 50 Nm
+Hyundai,Getz,2003>2010,Diesel,1.5 CRDI,82 hp,102 hp,+ 20 hp,187 Nm,230 Nm,+ 43 Nm
+Hyundai,Getz,2003>2010,Diesel,1.5 CRDI,88 hp,104 hp,+ 16 hp,215 Nm,250 Nm,+ 35 Nm
+Hyundai,Getz,2003>2010,Diesel,2.0 CRDI,113 hp,140 hp,+ 27 hp,255 Nm,300 Nm,+ 45 Nm
+Hyundai,Grandeur,All,Diesel,2.5 CRDI,150 hp,182 hp,+ 32 hp,343 Nm,422 Nm,+ 79 Nm
+Hyundai,H serie,2007>...,Diesel,H300 2.5 CRDI,163 hp,200 hp,+ 37 hp,392 Nm,463 Nm,+ 71 Nm
+Hyundai,H serie,2007>...,Diesel,H200 2.5 CRDI,140 hp,170 hp,+ 30 hp,343 Nm,400 Nm,+ 57 Nm
+Hyundai,H serie,2007>...,Diesel,H300 2.5 CRDI,170 hp,200 hp,+ 30 hp,392 Nm,463 Nm,+ 71 Nm
+Hyundai,H serie,2007>...,Diesel,H200 2.5 CRDI,136 hp,170 hp,+ 34 hp,343 Nm,400 Nm,+ 57 Nm
+Hyundai,Kona,2017>...,Gasoline,1.0 T-GDI (GPF),120 hp,140 hp,+ 20 hp,172 Nm,230 Nm,+ 58 Nm
+Hyundai,Kona,2017>...,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,260 Nm,320 Nm,+ 60 Nm
+Hyundai,Kona,2017>...,Diesel,1.6 CRDi,136 hp,160 hp,+ 24 hp,280 Nm,330 Nm,+ 50 Nm
+Hyundai,Kona,2017>...,Gasoline,1.0 T-GDI,120 hp,140 hp,+ 20 hp,172 Nm,230 Nm,+ 58 Nm
+Hyundai,Kona,2017>...,Gasoline,1.6 T-GDI,177 hp,210 hp,+ 33 hp,265 Nm,350 Nm,+ 85 Nm
+Hyundai,Matrix,2001>2009,Diesel,1.5 CRDI,110 hp,130 hp,+ 20 hp,235 Nm,285 Nm,+ 50 Nm
+Hyundai,Matrix,2001>2009,Diesel,1.5 CRDI,102 hp,130 hp,+ 28 hp,235 Nm,285 Nm,+ 50 Nm
+Hyundai,Porter,2006>...,Diesel,2.5 CRDI,140 hp,170 hp,+ 30 hp,314 Nm,400 Nm,+ 86 Nm
+Hyundai,Santa Fe,2013>2015,Diesel,2.2 CRDI,197 hp,230 hp,+ 33 hp,421 Nm,480 Nm,+ 59 Nm
+Hyundai,Santa Fe,2019>...,Diesel,2.0 CRDi,185 hp, hp,0 hp,400 Nm, Nm,0 Nm
+Hyundai,Santa Fe,2006>2012,Diesel,2.2 CRDI VGT,155 hp,180 hp,+ 25 hp,343 Nm,420 Nm,+ 77 Nm
+Hyundai,Santa Fe,2006>2012,Diesel,2.2 CRDI,197 hp,230 hp,+ 33 hp,422 Nm,500 Nm,+ 78 Nm
+Hyundai,Santa Fe,2006>2012,Diesel,2.0 CRDI,150 hp,175 hp,+ 25 hp,335 Nm,400 Nm,+ 65 Nm
+Hyundai,Santa Fe,2013>2015,Diesel,2.0 CRDI,150 hp,175 hp,+ 25 hp,383 Nm,400 Nm,+ 17 Nm
+Hyundai,Santa Fe,2001>2006,Diesel,2.0 CRDI,112 hp,140 hp,+ 28 hp,255 Nm,300 Nm,+ 45 Nm
+Hyundai,Santa Fe,2015>2019,Diesel,2.2 CRDI,200 hp,230 hp,+ 30 hp,440 Nm,500 Nm,+ 60 Nm
+Hyundai,Santa Fe,2006>2012,Diesel,2.2 CRDI,150 hp,180 hp,+ 30 hp,343 Nm,400 Nm,+ 57 Nm
+Hyundai,Santa Fe,2001>2006,Diesel,2.0 CRDI VGT,125 hp,150 hp,+ 25 hp,285 Nm,330 Nm,+ 45 Nm
+Hyundai,Sonata,2006>2011,Diesel,2.0CRDi vgt,136 hp,170 hp,+ 34 hp,304 Nm,365 Nm,+ 61 Nm
+Hyundai,Starex,...>2006,Diesel,2.5 CRDI,140 hp,170 hp,+ 30 hp,314 Nm,375 Nm,+ 61 Nm
+Hyundai,Starex,2007>...,Diesel,2.5 CRDi,170 hp,200 hp,+ 30 hp,314 Nm,400 Nm,+ 86 Nm
+Hyundai,Terracan,2003>2007,Diesel,2.9 CRDI,163 hp,200 hp,+ 37 hp,345 Nm,400 Nm,+ 55 Nm
+Hyundai,Terracan,2003>2007,Diesel,2.9 CRDI,150 hp,177 hp,+ 27 hp,333 Nm,380 Nm,+ 47 Nm
+Hyundai,Trajet,2001>2007,Diesel,2.0 CRDI,113 hp,140 hp,+ 27 hp,255 Nm,295 Nm,+ 40 Nm
+Hyundai,Tucson,2015>2018,Gasoline,1.6T-GDI,177 hp,210 hp,+ 33 hp,265 Nm,350 Nm,+ 85 Nm
+Hyundai,Tucson,2015>2018,Diesel,1.7 CRDi,115 hp,150 hp,+ 35 hp,260 Nm,310 Nm,+ 50 Nm
+Hyundai,Tucson,2015>2018,Diesel,1.7 CRDi,141 hp,170 hp,+ 29 hp,340 Nm,380 Nm,+ 40 Nm
+Hyundai,Tucson,2015>2018,Diesel,2.0 CRDi,136 hp,170 hp,+ 34 hp,373 Nm,410 Nm,+ 37 Nm
+Hyundai,Tucson,09/2018>...,Gasoline,1.6 T-GDI,177 hp,210 hp,+ 33 hp,265 Nm,350 Nm,+ 85 Nm
+Hyundai,Tucson,2015>2018,Diesel,2.0 CRDi,184 hp,200 hp,+ 16 hp,392 Nm,450 Nm,+ 58 Nm
+Hyundai,Tucson,09/2018>...,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,260 Nm,320 Nm,+ 60 Nm
+Hyundai,Tucson,08/2004>2015,Diesel,2.0 CRDi,112 hp,137 hp,+ 25 hp,245 Nm,300 Nm,+ 55 Nm
+Hyundai,Tucson,08/2004>2015,Diesel,2.0 CRDi (... -> 2009),140 hp,170 hp,+ 30 hp,305 Nm,365 Nm,+ 60 Nm
+Hyundai,Tucson,08/2004>2015,Diesel,2.0 CRDi (2009 -> ...),150 hp,170 hp,+ 20 hp,305 Nm,365 Nm,+ 60 Nm
+Hyundai,Veloster,2011>...,Gasoline,1.6T-GDI,204 hp,220 hp,+ 16 hp,265 Nm,325 Nm,+ 60 Nm
+Hyundai,Veloster,2011>...,Gasoline,1.6T-GDI,186 hp,220 hp,+ 34 hp,265 Nm,325 Nm,+ 60 Nm
+Hyundai,Veloster,2011>...,Gasoline,1.6 GDI,140 hp,156 hp,+ 16 hp,167 Nm,185 Nm,+ 18 Nm
+Hyundai,Verna,2010>...,Diesel,1.5 CRDi,110 hp,130 hp,+ 20 hp,240 Nm,285 Nm,+ 45 Nm
+Hyundai,i 10,05/2020>...,Gasoline,1.0 T-GDI,100 hp,140 hp,+ 40 hp,172 Nm,230 Nm,+ 58 Nm
+Hyundai,i 10,2008>2016,Diesel,1.1CRDI,75 hp,100 hp,+ 25 hp,153 Nm,220 Nm,+ 67 Nm
+Hyundai,i 20,2014>2020,Diesel,1.1 CRDI,75 hp,100 hp,+ 25 hp,180 Nm,220 Nm,+ 40 Nm
+Hyundai,i 20,...>2014,Diesel,1.1 CRDI,75 hp,100 hp,+ 25 hp,180 Nm,220 Nm,+ 40 Nm
+Hyundai,i 20,2014>2020,Gasoline,1.0 T-GDI,100 hp,140 hp,+ 40 hp,172 Nm,230 Nm,+ 58 Nm
+Hyundai,i 20,...>2014,Diesel,1.4 CRDI,75 hp,125 hp,+ 50 hp,220 Nm,290 Nm,+ 70 Nm
+Hyundai,i 20,...>2014,Diesel,1.4 CRDI,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Hyundai,i 20,2014>2020,Gasoline,1.0 T-GDI,120 hp,140 hp,+ 20 hp,171 Nm,230 Nm,+ 59 Nm
+Hyundai,i 20,...>2014,Diesel,1.6 CRDI,128 hp,155 hp,+ 27 hp,260 Nm,320 Nm,+ 60 Nm
+Hyundai,i 20,2014>2020,Diesel,1.4 CRDI,90 hp,115 hp,+ 25 hp,220 Nm,290 Nm,+ 70 Nm
+Hyundai,i 30,2017>2020,Gasoline,2.0 T 'N' Performance (GPF),275 hp,300 hp,+ 25 hp,378 Nm,440 Nm,+ 62 Nm
+Hyundai,i 30,2017>2020,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,280 Nm,320 Nm,+ 40 Nm
+Hyundai,i 30,2017>2020,Gasoline,2.0 T 'N',250 hp,300 hp,+ 50 hp,353 Nm,440 Nm,+ 87 Nm
+Hyundai,i 30,2007>2010,Diesel,1.6CRDi,115 hp,145 hp,+ 30 hp,255 Nm,320 Nm,+ 65 Nm
+Hyundai,i 30,2020>...,Diesel,1.6 CRDi,136 hp,160 hp,+ 24 hp,320 Nm,330 Nm,+ 10 Nm
+Hyundai,i 30,2010>2016,Diesel,1.6 CRDi,110 hp,155 hp,+ 45 hp,255 Nm,320 Nm,+ 65 Nm
+Hyundai,i 30,2017>2020,Diesel,1.6 CRDi,110 hp,145 hp,+ 35 hp,260 Nm,320 Nm,+ 60 Nm
+Hyundai,i 30,2017>2020,Diesel,1.6 CRDi,95 hp, hp,0 hp,280 Nm, Nm,0 Nm
+Hyundai,i 30,2017>2020,Diesel,1.6 CRDi,136 hp,160 hp,+ 24 hp,280 Nm,330 Nm,+ 50 Nm
+Hyundai,i 30,2017>2020,Gasoline,2.0 T 'N' (GPF),250 hp,300 hp,+ 50 hp,353 Nm,440 Nm,+ 87 Nm
+Hyundai,i 30,2017>2020,Gasoline,1.0 T-GDI,120 hp,140 hp,+ 20 hp,171 Nm,230 Nm,+ 59 Nm
+Hyundai,i 30,2007>2010,Diesel,2.0CRDi vgt,136 hp,180 hp,+ 44 hp,304 Nm,400 Nm,+ 96 Nm
+Hyundai,i 30,2010>2016,Gasoline,1.6T-GDI,186 hp,220 hp,+ 34 hp,265 Nm,325 Nm,+ 60 Nm
+Hyundai,i 30,2017>2020,Gasoline,2.0 T 'N' Performance,275 hp,300 hp,+ 25 hp,378 Nm,440 Nm,+ 62 Nm
+Hyundai,i 30,2010>2016,Diesel,1.6 CRDI,116 hp,155 hp,+ 39 hp,255 Nm,320 Nm,+ 65 Nm
+Hyundai,i 30,2010>2016,Diesel,1.4 CRDI,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Hyundai,i 30,2017>2020,Gasoline,1.4 T-GDI (GPF),140 hp,170 hp,+ 30 hp,242 Nm,290 Nm,+ 48 Nm
+Hyundai,i 30,2010>2016,Diesel,1.6 CRDi,90 hp,130 hp,+ 40 hp,235 Nm,300 Nm,+ 65 Nm
+Hyundai,i 30,2017>2020,Gasoline,1.4 T-GDI,140 hp,170 hp,+ 30 hp,242 Nm,290 Nm,+ 48 Nm
+Hyundai,i 30,2007>2010,Diesel,1.6CRDi,90 hp,145 hp,+ 55 hp,235 Nm,320 Nm,+ 85 Nm
+Hyundai,i 30,2007>2010,Diesel,2.0CRDi vgt,140 hp,180 hp,+ 40 hp,304 Nm,400 Nm,+ 96 Nm
+Hyundai,i 30,2010>2016,Diesel,1.6 CRDi,128 hp,155 hp,+ 27 hp,260 Nm,325 Nm,+ 65 Nm
+Hyundai,i 30,2020>...,Diesel,1.6 CRDi,115 hp,145 hp,+ 30 hp,280 Nm,320 Nm,+ 40 Nm
+Hyundai,i 40,2011>...,Diesel,1.7 CRDI,141 hp,170 hp,+ 29 hp,340 Nm,380 Nm,+ 40 Nm
+Hyundai,i 40,2011>...,Diesel,1.7 CRDI,115 hp,150 hp,+ 35 hp,260 Nm,310 Nm,+ 50 Nm
+Hyundai,i 40,2011>...,Diesel,1.7 CRDI,136 hp,170 hp,+ 34 hp,325 Nm,380 Nm,+ 55 Nm
+Hyundai,ix 20,2015>...,Diesel,1.6 CRDI,116 hp,145 hp,+ 29 hp,255 Nm,320 Nm,+ 65 Nm
+Hyundai,ix 20,2010>2015,Diesel,1.6 CRDI,116 hp,160 hp,+ 44 hp,255 Nm,325 Nm,+ 70 Nm
+Hyundai,ix 20,2015>...,Diesel,1.4 CRDI,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Hyundai,ix 20,2010>2015,Diesel,1.4 CRDI,77 hp,125 hp,+ 48 hp,220 Nm,290 Nm,+ 70 Nm
+Hyundai,ix 20,2010>2015,Diesel,1.4 CRDI,90 hp,125 hp,+ 35 hp,220 Nm,290 Nm,+ 70 Nm
+Hyundai,ix 35,2010>...,Diesel,2.0 CRDI,136 hp,175 hp,+ 39 hp,313 Nm,430 Nm,+ 117 Nm
+Hyundai,ix 35,2010>...,Diesel,1.7 CRDI,115 hp,150 hp,+ 35 hp,260 Nm,310 Nm,+ 50 Nm
+Hyundai,ix 35,2010>...,Diesel,2.0 CRDI,184 hp,205 hp,+ 21 hp,392 Nm,450 Nm,+ 58 Nm
+Hyundai,ix 45,10/2012>...,Diesel,2.2 CRDi,200 hp,230 hp,+ 30 hp,431 Nm,500 Nm,+ 69 Nm
+Hyundai,ix 45,10/2012>...,Diesel,2.0 CRDi,150 hp,175 hp,+ 25 hp,382 Nm,430 Nm,+ 48 Nm
+Hyundai,ix 55,2009>...,Diesel,3.0 V6 CRDI,240 hp,280 hp,+ 40 hp,450 Nm,530 Nm,+ 80 Nm
+Hyundai,ix 55,2009>...,Diesel,3.0 V6 CRDI,250 hp,280 hp,+ 30 hp,471 Nm,530 Nm,+ 59 Nm

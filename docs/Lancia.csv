@@ -1,0 +1,39 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Lancia,Delta,2008>...,Diesel,2.0 Jtdm,165 hp,200 hp,+ 35 hp,360 Nm,425 Nm,+ 65 Nm
+Lancia,Delta,2008>...,Gasoline,1.4 Multiair,140 hp,170 hp,+ 30 hp,230 Nm,300 Nm,+ 70 Nm
+Lancia,Delta,2008>...,Diesel,1.9 Jtdm Twin Turbo,190 hp,230 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Lancia,Delta,2008>...,Diesel,1.6 Jtdm,105 hp,130 hp,+ 25 hp,320 Nm,360 Nm,+ 40 Nm
+Lancia,Delta,2008>...,Diesel,1.6 Jtdm,120 hp,145 hp,+ 25 hp,320 Nm,380 Nm,+ 60 Nm
+Lancia,Delta,2008>...,Gasoline,1.4 Tjet,120 hp,155 hp,+ 35 hp,206 Nm,265 Nm,+ 59 Nm
+Lancia,Delta,2008>...,Gasoline,1.8 Di-Tjet,200 hp,255 hp,+ 55 hp,320 Nm,400 Nm,+ 80 Nm
+Lancia,Delta,2008>...,Diesel,1.6 Jtdm,115 hp,145 hp,+ 30 hp,300 Nm,380 Nm,+ 80 Nm
+Lancia,Delta,2008>...,Gasoline,1.4 Tjet,155 hp,175 hp,+ 20 hp,230 Nm,280 Nm,+ 50 Nm
+Lancia,Lybra,2000>2005,Diesel,2.4 JTD,136 hp,170 hp,+ 34 hp,304 Nm,380 Nm,+ 76 Nm
+Lancia,Lybra,2000>2005,Diesel,1.9 JTD,115 hp,145 hp,+ 30 hp,275 Nm,325 Nm,+ 50 Nm
+Lancia,Lybra,2000>2005,Diesel,2.4 JTD,150 hp,185 hp,+ 35 hp,308 Nm,385 Nm,+ 77 Nm
+Lancia,Lybra,2000>2005,Diesel,1.9 JTD,109 hp,143 hp,+ 34 hp,275 Nm,335 Nm,+ 60 Nm
+Lancia,Lybra,2000>2005,Diesel,1.9 JTD,105 hp,135 hp,+ 30 hp,255 Nm,300 Nm,+ 45 Nm
+Lancia,Lybra,2000>2005,Diesel,2.4 JTD,140 hp,170 hp,+ 30 hp,304 Nm,380 Nm,+ 76 Nm
+Lancia,Musa,11/2004>...,Diesel,1.9 Multijet 16V,100 hp,135 hp,+ 35 hp,260 Nm,295 Nm,+ 35 Nm
+Lancia,Musa,11/2004>...,Diesel,1.3 Multijet 16V,70 hp,90 hp,+ 20 hp,180 Nm,230 Nm,+ 50 Nm
+Lancia,Musa,11/2004>...,Diesel,1.3 Multijet 16V,95 hp,115 hp,+ 20 hp,230 Nm,270 Nm,+ 40 Nm
+Lancia,Musa,11/2004>...,Diesel,1.3 Multijet 16V,90 hp,110 hp,+ 20 hp,200 Nm,245 Nm,+ 45 Nm
+Lancia,Phedra,09/2002>...,Diesel,2.0Jtd 16V,136 hp,165 hp,+ 29 hp,320 Nm,380 Nm,+ 60 Nm
+Lancia,Phedra,09/2002>...,Diesel,2.2Jtd 16v,128 hp,160 hp,+ 32 hp,314 Nm,355 Nm,+ 41 Nm
+Lancia,Phedra,09/2002>...,Diesel,2.2Jtd 16v,163 hp,200 hp,+ 37 hp,400 Nm,460 Nm,+ 60 Nm
+Lancia,Phedra,09/2002>...,Diesel,2.0Jtd 16V,109 hp,130 hp,+ 21 hp,270 Nm,340 Nm,+ 70 Nm
+Lancia,Phedra,09/2002>...,Diesel,2.0Jtd 16V,120 hp,165 hp,+ 45 hp,306 Nm,380 Nm,+ 74 Nm
+Lancia,Phedra,09/2002>...,Diesel,2.2Jtd 16v,170 hp,200 hp,+ 30 hp,400 Nm,460 Nm,+ 60 Nm
+Lancia,Thema,2011>...,Diesel,3.0 MJet,239 hp,270 hp,+ 31 hp,550 Nm,630 Nm,+ 80 Nm
+Lancia,Thema,2011>...,Diesel,3.0 MJet,190 hp,270 hp,+ 80 hp,440 Nm,630 Nm,+ 190 Nm
+Lancia,Thesis,09/2002>...,Diesel,2.4Jtd Multijet,175 hp,220 hp,+ 45 hp,385 Nm,440 Nm,+ 55 Nm
+Lancia,Thesis,09/2002>...,Diesel,2.4Jtd 10V,150 hp,180 hp,+ 30 hp,305 Nm,380 Nm,+ 75 Nm
+Lancia,Voyager,2011>...,Diesel,2.8 CRD,163 hp,200 hp,+ 37 hp,360 Nm,430 Nm,+ 70 Nm
+Lancia,Voyager,2011>...,Diesel,2.8 Multijet,178 hp,215 hp,+ 37 hp,360 Nm,500 Nm,+ 140 Nm
+Lancia,Ypsilon,2016>...,Gasoline,0.9 TwinAir,85 hp,95 hp,+ 10 hp,145 Nm,190 Nm,+ 45 Nm
+Lancia,Ypsilon,11/2004>2011,Diesel,1.3 Multijet 16V,105 hp,125 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Lancia,Ypsilon,2011>2015,Gasoline,0.9 TwinAir,85 hp,95 hp,+ 10 hp,145 Nm,190 Nm,+ 45 Nm
+Lancia,Ypsilon,11/2004>2011,Diesel,1.3 Multijet 16V,90 hp,110 hp,+ 20 hp,200 Nm,245 Nm,+ 45 Nm
+Lancia,Ypsilon,2011>2015,Gasoline,1.2 8V,69 hp,77 hp,+ 8 hp,102 Nm,112 Nm,+ 10 Nm
+Lancia,Ypsilon,11/2004>2011,Diesel,1.3 Multijet 16V,70 hp,90 hp,+ 20 hp,180 Nm,220 Nm,+ 40 Nm
+Lancia,Ypsilon,2016>...,Diesel,1.3 MultiJet,95 hp,120 hp,+ 25 hp,200 Nm,250 Nm,+ 50 Nm

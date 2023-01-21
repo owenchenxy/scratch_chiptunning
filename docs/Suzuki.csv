@@ -1,0 +1,32 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Suzuki,Baleno,2017>...,Gasoline,1.0 Boosterjet,112 hp,130 hp,+ 18 hp,170 Nm,230 Nm,+ 60 Nm
+Suzuki,Grand Vitara,12/2005>...,Diesel,1.9DDiS,129 hp,165 hp,+ 36 hp,300 Nm,370 Nm,+ 70 Nm
+Suzuki,Grand Vitara,2001>2005,Diesel,2.0TD,90 hp,118 hp,+ 28 hp,205 Nm,260 Nm,+ 55 Nm
+Suzuki,Grand Vitara,12/2005>...,Diesel,1.6 DDiS,120 hp,150 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Suzuki,Grand Vitara,2001>2005,Diesel,2.0TD,109 hp,140 hp,+ 31 hp,250 Nm,320 Nm,+ 70 Nm
+Suzuki,Grand Vitara,2001>2005,Diesel,XL--7 2.0HDi,109 hp,140 hp,+ 31 hp,270 Nm,340 Nm,+ 70 Nm
+Suzuki,Ignis,All,Diesel,1.3 DDiS,70 hp,95 hp,+ 25 hp,170 Nm,240 Nm,+ 70 Nm
+Suzuki,Jimny,...>2005,Diesel,1.5DDiS,86 hp,105 hp,+ 19 hp,200 Nm,250 Nm,+ 50 Nm
+Suzuki,Jimny,2018>...,Gasoline,1.5 VVT,102 hp,112 hp,+ 10 hp,130 Nm,140 Nm,+ 10 Nm
+Suzuki,Liana,2001>2006,Diesel,1.4DDiS,90 hp,108 hp,+ 18 hp,200 Nm,240 Nm,+ 40 Nm
+Suzuki,SX-4,2006>...,Diesel,1.9 DDIS,120 hp,152 hp,+ 32 hp,280 Nm,350 Nm,+ 70 Nm
+Suzuki,SX-4,2006>...,Diesel,2.0 DDIS,134 hp,170 hp,+ 36 hp,320 Nm,390 Nm,+ 70 Nm
+Suzuki,SX-4,2006>...,Diesel,1.6 DDIS,90 hp,115 hp,+ 25 hp,215 Nm,260 Nm,+ 45 Nm
+Suzuki,SX-4 S-Cross,2013>...,Gasoline,1.0 Boosterjet,111 hp,130 hp,+ 19 hp,160 Nm,210 Nm,+ 50 Nm
+Suzuki,SX-4 S-Cross,2013>...,Diesel,1.6 DDiS,120 hp,150 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Suzuki,SX-4 S-Cross,2013>...,Gasoline,1.6 VVT,120 hp,134 hp,+ 14 hp,156 Nm,171 Nm,+ 15 Nm
+Suzuki,SX-4 S-Cross,2013>...,Gasoline,1.4 Boosterjet,140 hp,165 hp,+ 25 hp,220 Nm,280 Nm,+ 60 Nm
+Suzuki,Splash,2008>2015,Diesel,1.3 DDiS,75 hp,95 hp,+ 20 hp,190 Nm,240 Nm,+ 50 Nm
+Suzuki,Swift,2005>2010,Gasoline,1.6 SPORT,125 hp,140 hp,+ 15 hp,148 Nm,165 Nm,+ 17 Nm
+Suzuki,Swift,2011>2017,Diesel,1.3 DDiS,75 hp,95 hp,+ 20 hp,190 Nm,230 Nm,+ 40 Nm
+Suzuki,Swift,2017>...,Gasoline,1.4 Boosterjet,140 hp,165 hp,+ 25 hp,220 Nm,300 Nm,+ 80 Nm
+Suzuki,Swift,2005>2010,Diesel,1.3 DDiS,75 hp,95 hp,+ 20 hp,190 Nm,230 Nm,+ 40 Nm
+Suzuki,Swift,2017>...,Gasoline,1.0 Boosterjet,112 hp,130 hp,+ 18 hp,170 Nm,210 Nm,+ 40 Nm
+Suzuki,Swift,2011>2017,Gasoline,1.2 VVT,94 hp,101 hp,+ 7 hp,118 Nm,128 Nm,+ 10 Nm
+Suzuki,Swift,2011>2017,Gasoline,1.6 VVT Sport,136 hp,150 hp,+ 14 hp,160 Nm,175 Nm,+ 15 Nm
+Suzuki,Vitara,2015>2017,Gasoline,1.4 Boosterjet,140 hp,165 hp,+ 25 hp,220 Nm,280 Nm,+ 60 Nm
+Suzuki,Vitara,2018>...,Gasoline,1.0 Boosterjet,111 hp,130 hp,+ 19 hp,170 Nm,210 Nm,+ 40 Nm
+Suzuki,Vitara,2018>...,Gasoline,S 1.4 Boosterjet,140 hp,165 hp,+ 25 hp,220 Nm,300 Nm,+ 80 Nm
+Suzuki,Vitara,2015>2017,Gasoline,1.6 VVT,120 hp,130 hp,+ 10 hp,156 Nm,165 Nm,+ 9 Nm
+Suzuki,Vitara,2015>2017,Diesel,1.6 DDIS,120 hp,150 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Suzuki,Wagon-R,2003>2008,Diesel,1.3 DDiS,70 hp,95 hp,+ 25 hp,170 Nm,215 Nm,+ 45 Nm

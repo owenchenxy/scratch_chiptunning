@@ -1,0 +1,17 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Iveco,Daily,...>2016,Diesel,2.3D,96 hp,125 hp,+ 29 hp,240 Nm,300 Nm,+ 60 Nm
+Iveco,Daily,2016>...,Diesel,E6 120 - 2.3,116 hp,145 hp,+ 29 hp,320 Nm,380 Nm,+ 60 Nm
+Iveco,Daily,2016>...,Diesel,E6 140 - 2.3,136 hp,165 hp,+ 29 hp,350 Nm,410 Nm,+ 60 Nm
+Iveco,Daily,...>2016,Diesel,2.3D,106 hp,145 hp,+ 39 hp,270 Nm,330 Nm,+ 60 Nm
+Iveco,Daily,2016>...,Diesel,E6 150 - 3.0,150 hp,180 hp,+ 30 hp,350 Nm,410 Nm,+ 60 Nm
+Iveco,Daily,...>2016,Diesel,2.3D,116 hp,145 hp,+ 29 hp,270 Nm,330 Nm,+ 60 Nm
+Iveco,Daily,2016>...,Diesel,E6 160 - 2.3,156 hp,185 hp,+ 29 hp,350 Nm,410 Nm,+ 60 Nm
+Iveco,Daily,...>2016,Diesel,2.3D,126 hp,155 hp,+ 29 hp,290 Nm,350 Nm,+ 60 Nm
+Iveco,Daily,...>2016,Diesel,2.3D,146 hp,180 hp,+ 34 hp,350 Nm,420 Nm,+ 70 Nm
+Iveco,Daily,2016>...,Diesel,E6 180 - 3.0,180 hp,200 hp,+ 20 hp,430 Nm,480 Nm,+ 50 Nm
+Iveco,Daily,...>2016,Diesel,3.0 CR WG,146 hp,180 hp,+ 34 hp,350 Nm,410 Nm,+ 60 Nm
+Iveco,Daily,2016>...,Diesel,E6 210 - 3.0,205 hp,240 hp,+ 35 hp,470 Nm,560 Nm,+ 90 Nm
+Iveco,Daily,...>2016,Diesel,3.0 CR VGT,170 hp,200 hp,+ 30 hp,400 Nm,460 Nm,+ 60 Nm
+Iveco,Daily,...>2016,Diesel,3.0 CR VGT,176 hp,200 hp,+ 24 hp,400 Nm,460 Nm,+ 60 Nm
+Iveco,Daily,...>2016,Diesel,3.0 CR TWIN T.,205 hp,250 hp,+ 45 hp,470 Nm,560 Nm,+ 90 Nm
+Iveco,Massif,05/2008>...,Diesel,3.0 HPT,176 hp,205 hp,+ 29 hp,400 Nm,480 Nm,+ 80 Nm

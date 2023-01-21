@@ -1,0 +1,539 @@
+brand,model,generation,fuel,para,power_original,power_promoted,power_diff,torque_original,torque_promoted,torque_diff
+Audi,A1,2010>2014,Diesel,2.0 TDI,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A1,2018>...,Gasoline,35 TFSI - (1.5T),150 hp,175 hp,+ 25 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,A1,2015>2018,Gasoline,1.4 TFSI (COD),150 hp,175 hp,+ 25 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A1,2010>2014,Gasoline,1.4 TSI (CAVG),185 hp,210 hp,+ 25 hp,250 Nm,290 Nm,+ 40 Nm
+Audi,A1,2015>2018,Gasoline,1.2 TFSI,86 hp,130 hp,+ 44 hp,160 Nm,215 Nm,+ 55 Nm
+Audi,A1,2015>2018,Gasoline,1.8 TFSI,192 hp,220 hp,+ 28 hp,250 Nm,380 Nm,+ 130 Nm
+Audi,A1,2010>2014,Diesel,2.0 TDI,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A1,2010>2014,Gasoline,1.4 TFSI (CPTA),140 hp,170 hp,+ 30 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,A1,2015>2018,Gasoline,S1 2.0 TFSi,231 hp,300 hp,+ 69 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,A1,2010>2014,Diesel,1.6 TDI,105 hp,136 hp,+ 31 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,A1,2010>2014,Gasoline,1.4 TSI (CTHG),185 hp,210 hp,+ 25 hp,250 Nm,290 Nm,+ 40 Nm
+Audi,A1,2018>...,Gasoline,40 TFSI (2.0T),200 hp,235 hp,+ 35 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A1,2018>...,Gasoline,30 TFSI -  (1.0T),116 hp,130 hp,+ 14 hp,200 Nm,240 Nm,+ 40 Nm
+Audi,A1,2015>2018,Gasoline,1.0 TFSI,95 hp,130 hp,+ 35 hp,160 Nm,240 Nm,+ 80 Nm
+Audi,A1,2015>2018,Diesel,1.4 TDi,90 hp,115 hp,+ 25 hp,230 Nm,280 Nm,+ 50 Nm
+Audi,A1,2010>2014,Gasoline,S1 2.0 TFSi,231 hp,300 hp,+ 69 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,A1,2018>...,Gasoline,25 TFSI - (1.0T),95 hp,130 hp,+ 35 hp,175 Nm,240 Nm,+ 65 Nm
+Audi,A1,2015>2018,Gasoline,1.0 TFSi,82 hp,130 hp,+ 48 hp,160 Nm,240 Nm,+ 80 Nm
+Audi,A1,2010>2014,Gasoline,2.0 TFSi Quattro,256 hp,300 hp,+ 44 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A1,2010>2014,Gasoline,1.4 TFSI,122 hp,145 hp,+ 23 hp,200 Nm,250 Nm,+ 50 Nm
+Audi,A1,2010>2014,Gasoline,1.2 TFSI,105 hp,130 hp,+ 25 hp,175 Nm,215 Nm,+ 40 Nm
+Audi,A1,2015>2018,Diesel,1.6 TDi,116 hp,145 hp,+ 29 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A1,2010>2014,Gasoline,1.2 TFSI,86 hp,130 hp,+ 44 hp,160 Nm,215 Nm,+ 55 Nm
+Audi,A1,2010>2014,Diesel,1.6 TDI,90 hp,136 hp,+ 46 hp,230 Nm,300 Nm,+ 70 Nm
+Audi,A1,2015>2018,Gasoline,1.4 TFSI,125 hp,155 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Audi,A2,1999>2005,Diesel,1.2 TDI,60 hp,88 hp,+ 28 hp,140 Nm,170 Nm,+ 30 Nm
+Audi,A2,1999>2005,Diesel,1.4 TDI,75 hp,100 hp,+ 25 hp,175 Nm,245 Nm,+ 70 Nm
+Audi,A2,1999>2005,Diesel,1.4 TDI,90 hp,110 hp,+ 20 hp,235 Nm,280 Nm,+ 45 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,S3 2.0 TFSI,300 hp,350 hp,+ 50 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,A3 / A3 Berline,2003>2008,Diesel,2.0 TDi DPF,136 hp,175 hp,+ 39 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2012>2016,Diesel,1.6 TDI CR,110 hp,145 hp,+ 35 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2008>2012,Gasoline,1.8 TFSi,160 hp,210 hp,+ 50 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,2.0 TDi cr,140 hp,185 hp,+ 45 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A3 / A3 Berline,2003>2008,Diesel,2.0 TDi,136 hp,180 hp,+ 44 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A3 / A3 Berline,2020>...,Diesel,35 TDI (2.0D),150 hp, hp,0 hp,340 Nm, Nm,0 Nm
+Audi,A3 / A3 Berline,2019>...,Diesel,40 TDI (2.0D),184 hp,220 hp,+ 36 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,2.0 TDi cr,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A3 / A3 Berline,2003>2008,Gasoline,3.2 V6,250 hp,270 hp,+ 20 hp,320 Nm,340 Nm,+ 20 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,1.4 TFSI (CHPA-CPTA),140 hp,170 hp,+ 30 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,2.0 TDi cr,163 hp,205 hp,+ 42 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Gasoline,1.4 TFSI (COD),150 hp,175 hp,+ 25 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2019>...,Gasoline,35 TFSI - (1.5T),150 hp,175 hp,+ 25 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Diesel,1.6 TDi,116 hp,140 hp,+ 24 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,1.4 TFSI,125 hp,155 hp,+ 30 hp,200 Nm,270 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2008>2012,Gasoline,1.4 TSI,125 hp,145 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Audi,A3 / A3 Berline,2003>2008,Gasoline,2.0 TFSi,200 hp,240 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,A3 / A3 Berline,2003>2008,Diesel,1.9 TDi,105 hp,140 hp,+ 35 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2020>...,Diesel,30 TDI (2.0D),115 hp, hp,0 hp,280 Nm, Nm,0 Nm
+Audi,A3 / A3 Berline,2019>...,Gasoline,35 TFSI (1.4T COD),150 hp,175 hp,+ 25 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,1.4 TSI (CMBA-CPVA),122 hp,155 hp,+ 33 hp,200 Nm,270 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2008>2012,Gasoline,1.4 TSi,122 hp,145 hp,+ 23 hp,200 Nm,250 Nm,+ 50 Nm
+Audi,A3 / A3 Berline,2019>...,Gasoline,30 TFSI -  (1.0T),116 hp,130 hp,+ 14 hp,200 Nm,240 Nm,+ 40 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,2.0 TDi cr,170 hp,205 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Gasoline,1.5 TFSI,150 hp,175 hp,+ 25 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,340 Nm,430 Nm,+ 90 Nm
+Audi,A3 / A3 Berline,2019>...,Gasoline,S TFSI (2.0T),310 hp,350 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2003>2008,Gasoline,S3 2.0 TFSI,265 hp,300 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2003>2008,Diesel,2.0 TDi,140 hp,180 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,1.6 TDi,90 hp,140 hp,+ 50 hp,230 Nm,310 Nm,+ 80 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Gasoline,RS3 2.5 TFSI,400 hp,470 hp,+ 70 hp,480 Nm,620 Nm,+ 140 Nm
+Audi,A3 / A3 Berline,2012>2016,Diesel,2.0 TDi CR,136 hp,195 hp,+ 59 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A3 / A3 Berline,2019>...,Gasoline,RS TFSI (2.5T GPF),400 hp,460 hp,+ 60 hp,480 Nm,580 Nm,+ 100 Nm
+Audi,A3 / A3 Berline,2019>...,Diesel,30 TDI (1.6D),116 hp,140 hp,+ 24 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Diesel,2.0 TDI,184 hp,220 hp,+ 36 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,1996>2003,Diesel,1.9 TDi,130 hp,165 hp,+ 35 hp,310 Nm,385 Nm,+ 75 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,2.0 TFSI,220 hp,300 hp,+ 80 hp,350 Nm,440 Nm,+ 90 Nm
+Audi,A3 / A3 Berline,2020>...,Diesel,40 TDI (2.0D),190 hp, hp,0 hp,400 Nm, Nm,0 Nm
+Audi,A3 / A3 Berline,2012>2016,Diesel,2.0 TDi CR,143 hp,195 hp,+ 52 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A3 / A3 Berline,2008>2012,Gasoline,RS3 2.5 TFSI,340 hp,400 hp,+ 60 hp,450 Nm,600 Nm,+ 150 Nm
+Audi,A3 / A3 Berline,2012>2016,Diesel,2.0 TDI CR,110 hp,195 hp,+ 85 hp,250 Nm,430 Nm,+ 180 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Gasoline,S3 2.0 TFSI,310 hp,350 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,RS3 2.5 TFSI,367 hp,420 hp,+ 53 hp,465 Nm,620 Nm,+ 155 Nm
+Audi,A3 / A3 Berline,2020>...,Gasoline,35 TFSI - (1.5T),150 hp,175 hp,+ 25 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,A3 / A3 Berline,2012>2016,Diesel,2.0 TDi CR,150 hp,195 hp,+ 45 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,1.8 TFSi,180 hp,220 hp,+ 40 hp,250 Nm,380 Nm,+ 130 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Gasoline,2.0 TFSI,190 hp,235 hp,+ 45 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A3 / A3 Berline,1996>2003,Diesel,1.9 TDi,110 hp,140 hp,+ 30 hp,235 Nm,310 Nm,+ 75 Nm
+Audi,A3 / A3 Berline,2008>2012,Gasoline,S3 2.0 TFSi,265 hp,300 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Diesel,1.6 TDi,110 hp,140 hp,+ 30 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,2.0 TDi cr,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A3 / A3 Berline,2008>2012,Gasoline,2.0 TFSi,200 hp,250 hp,+ 50 hp,280 Nm,380 Nm,+ 100 Nm
+Audi,A3 / A3 Berline,1996>2003,Diesel,1.9 TDi,100 hp,140 hp,+ 40 hp,240 Nm,320 Nm,+ 80 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,1.4 TFSI,150 hp,170 hp,+ 20 hp,250 Nm,350 Nm,+ 100 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,1.6 TDi,105 hp,140 hp,+ 35 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2008>2012,Diesel,1.9 TDi,105 hp,140 hp,+ 35 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Gasoline,1.4 TFSI,116 hp,155 hp,+ 39 hp,200 Nm,270 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2012>2016,Diesel,2.0 TDi CR,184 hp,220 hp,+ 36 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2012>2016,Diesel,1.6 TDI CR,105 hp,145 hp,+ 40 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,2003>2008,Diesel,2.0 TDi DPF,163 hp,200 hp,+ 37 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2008>2012,Gasoline,1.2 TSi,105 hp,130 hp,+ 25 hp,175 Nm,215 Nm,+ 40 Nm
+Audi,A3 / A3 Berline,2003>2008,Gasoline,1.6 FSi,115 hp,128 hp,+ 13 hp,155 Nm,170 Nm,+ 15 Nm
+Audi,A3 / A3 Berline,07/2016>2019,Gasoline,1.0 TFSi,116 hp,130 hp,+ 14 hp,200 Nm,240 Nm,+ 40 Nm
+Audi,A3 / A3 Berline,1996>2003,Gasoline,1.8 T,180 hp,210 hp,+ 30 hp,235 Nm,340 Nm,+ 105 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,1.2 TSi,105 hp,130 hp,+ 25 hp,175 Nm,215 Nm,+ 40 Nm
+Audi,A3 / A3 Berline,2003>2008,Diesel,2.0 TDi DPF,170 hp,200 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A3 / A3 Berline,2003>2008,Gasoline,1.6 8V,102 hp,114 hp,+ 12 hp,148 Nm,163 Nm,+ 15 Nm
+Audi,A3 / A3 Berline,1996>2003,Gasoline,1.8 T,150 hp,190 hp,+ 40 hp,210 Nm,320 Nm,+ 110 Nm
+Audi,A3 / A3 Berline,2003>2008,Gasoline,2.0 FSi,150 hp,165 hp,+ 15 hp,200 Nm,218 Nm,+ 18 Nm
+Audi,A3 / A3 Berline,2003>2008,Diesel,2.0 TDi DPF,140 hp,175 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A3 / A3 Berline,1996>2003,Gasoline,S3 225,225 hp,255 hp,+ 30 hp,280 Nm,395 Nm,+ 115 Nm
+Audi,A3 / A3 Berline,2012>2016,Gasoline,1.2 TSi,110 hp,130 hp,+ 20 hp,175 Nm,215 Nm,+ 40 Nm
+Audi,A3 / A3 Berline,1996>2003,Gasoline,1.8 20v,125 hp,138 hp,+ 13 hp,170 Nm,190 Nm,+ 20 Nm
+Audi,A3 / A3 Berline,1996>2003,Diesel,1.9 TDi,90 hp,120 hp,+ 30 hp,210 Nm,265 Nm,+ 55 Nm
+Audi,A3 / A3 Berline,1996>2003,Gasoline,S3 210,210 hp,250 hp,+ 40 hp,270 Nm,380 Nm,+ 110 Nm
+Audi,A4,2012>2015,Gasoline,1.8 TFSI,120 hp,210 hp,+ 90 hp,230 Nm,320 Nm,+ 90 Nm
+Audi,A4,07/2015>2019,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A4,2001>2004,Gasoline,1.8 T,190 hp,210 hp,+ 20 hp,235 Nm,340 Nm,+ 105 Nm
+Audi,A4,2004>2008,Gasoline,2.0 FSi,150 hp,165 hp,+ 15 hp,200 Nm,220 Nm,+ 20 Nm
+Audi,A4,2012>2015,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A4,2012>2015,Gasoline,RS4 4.2 V8 FSI,450 hp,475 hp,+ 25 hp,430 Nm,450 Nm,+ 20 Nm
+Audi,A4,07/2015>2019,Diesel,2.0 TDI,163 hp,220 hp,+ 57 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,A4,2004>2008,Diesel,2.0 TDi,140 hp,180 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A4,2004>2008,Gasoline,3.0 V6,220 hp,240 hp,+ 20 hp,300 Nm,320 Nm,+ 20 Nm
+Audi,A4,07/2015>2019,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A4,2012>2015,Diesel,3.0 TDI,245 hp,295 hp,+ 50 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A4,2001>2004,Gasoline,1.8 T,150 hp,190 hp,+ 40 hp,210 Nm,335 Nm,+ 125 Nm
+Audi,A4,2012>2015,Gasoline,2.0 TFSI,211 hp,260 hp,+ 49 hp,350 Nm,400 Nm,+ 50 Nm
+Audi,A4,09/2019>...,Diesel,35 TDI (2.0D),150 hp,185 hp,+ 35 hp,340 Nm,400 Nm,+ 60 Nm
+Audi,A4,2008>2011,Diesel,2.0 TDi,120 hp,185 hp,+ 65 hp,290 Nm,410 Nm,+ 120 Nm
+Audi,A4,2008>2011,Gasoline,1.8 TFSi,160 hp,210 hp,+ 50 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,A4,2001>2004,Gasoline,1.8 T,163 hp,195 hp,+ 32 hp,225 Nm,320 Nm,+ 95 Nm
+Audi,A4,2001>2004,Diesel,1.9 TDi,115 hp,146 hp,+ 31 hp,285 Nm,350 Nm,+ 65 Nm
+Audi,A4,2012>2015,Gasoline,S4 3.0 TFSI,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A4,2008>2011,Gasoline,3.2 FSi,256 hp,276 hp,+ 20 hp,330 Nm,350 Nm,+ 20 Nm
+Audi,A4,07/2015>2019,Diesel,2.0 TDI Ultra,150 hp,195 hp,+ 45 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A4,2012>2015,Diesel,2.0 TDI,190 hp,220 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Audi,A4,2004>2008,Gasoline,2.0 TFSi,200 hp,240 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,A4,2004>2008,Diesel,2.0 TDi DPF,136 hp,175 hp,+ 39 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A4,2008>2011,Gasoline,RS4 4.2 V8 FSI,450 hp,475 hp,+ 25 hp,430 Nm,450 Nm,+ 20 Nm
+Audi,A4,2012>2015,Gasoline,1.8 TFSI,170 hp,220 hp,+ 50 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A4,2012>2015,Diesel,2.0 TDI,177 hp,210 hp,+ 33 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,A4,2001>2004,Diesel,1.9 TDi,130 hp,165 hp,+ 35 hp,310 Nm,365 Nm,+ 55 Nm
+Audi,A4,07/2015>2019,Gasoline,2.0 TFSI,252 hp,300 hp,+ 48 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,A4,2012>2015,Diesel,2.0 TDI,163 hp,210 hp,+ 47 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,A4,07/2015>2019,Diesel,3.0 TDI,272 hp,320 hp,+ 48 hp,600 Nm,680 Nm,+ 80 Nm
+Audi,A4,2004>2008,Gasoline,2.0 TFSi,170 hp,240 hp,+ 70 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,A4,2004>2008,Diesel,3.0 V6 TDi,233 hp,275 hp,+ 42 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A4,2004>2008,Gasoline,3.2 V6,255 hp,275 hp,+ 20 hp,330 Nm,350 Nm,+ 20 Nm
+Audi,A4,2012>2015,Diesel,3.0 TDI,204 hp,270 hp,+ 66 hp,400 Nm,600 Nm,+ 200 Nm
+Audi,A4,07/2015>2019,Gasoline,2.0 TFSI,190 hp,235 hp,+ 45 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A4,2004>2008,Diesel,2.0 TDi DPF,140 hp,175 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A4,2004>2008,Gasoline,S4 4.2 V8,344 hp,365 hp,+ 21 hp,410 Nm,430 Nm,+ 20 Nm
+Audi,A4,07/2015>2019,Diesel,3.0 TDI (Quattro),218 hp,310 hp,+ 92 hp,400 Nm,540 Nm,+ 140 Nm
+Audi,A4,2004>2008,Diesel,2.0 TDi DPF,163 hp,200 hp,+ 37 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A4,2004>2008,Diesel,3.0 V6 TDi,204 hp,275 hp,+ 71 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A4,07/2015>2019,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,A4,07/2015>2019,Gasoline,1.4 TFSI,150 hp,175 hp,+ 25 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A4,07/2015>2019,Diesel,2.0 TDI,136 hp,195 hp,+ 59 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A4,2004>2008,Gasoline,1.8T,163 hp,195 hp,+ 32 hp,225 Nm,320 Nm,+ 95 Nm
+Audi,A4,2001>2004,Gasoline,S4 4.2 V8,344 hp,365 hp,+ 21 hp,410 Nm,430 Nm,+ 20 Nm
+Audi,A4,2001>2004,Diesel,1.9 TDi,100 hp,140 hp,+ 40 hp,240 Nm,320 Nm,+ 80 Nm
+Audi,A4,2012>2015,Gasoline,3.0 TFSI V6,272 hp,400 hp,+ 128 hp,400 Nm,520 Nm,+ 120 Nm
+Audi,A4,2008>2011,Diesel,3.0 TDi DPF,211 hp,290 hp,+ 79 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A4,2004>2008,Diesel,2.7 V6 TDi,163 hp,220 hp,+ 57 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,A4,2012>2015,Diesel,2.0 TDI,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A4,2004>2008,Diesel,2.7 V6 TDi,180 hp,220 hp,+ 40 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,A4,2004>2008,Diesel,2.0 TDi,136 hp,180 hp,+ 44 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A4,2008>2011,Gasoline,1.8 TFSi,120 hp,210 hp,+ 90 hp,230 Nm,310 Nm,+ 80 Nm
+Audi,A4,09/2019>...,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,A4,2012>2015,Gasoline,2.0 TSI,225 hp,300 hp,+ 75 hp,350 Nm,440 Nm,+ 90 Nm
+Audi,A4,2008>2011,Gasoline,3.0 TFSi,290 hp,400 hp,+ 110 hp,420 Nm,520 Nm,+ 100 Nm
+Audi,A4,2008>2011,Diesel,2.7 TDi,190 hp,230 hp,+ 40 hp,400 Nm,480 Nm,+ 80 Nm
+Audi,A4,07/2015>2019,Diesel,2.0 TDI,122 hp,195 hp,+ 73 hp,290 Nm,430 Nm,+ 140 Nm
+Audi,A4,2008>2011,Diesel,2.7 TDi,163 hp,230 hp,+ 67 hp,400 Nm,480 Nm,+ 80 Nm
+Audi,A4,2008>2011,Diesel,2.0 TDi,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A4,2008>2011,Gasoline,2.0 TFSi,211 hp,260 hp,+ 49 hp,350 Nm,400 Nm,+ 50 Nm
+Audi,A4,09/2019>...,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A4,07/2015>2019,Diesel,3.0 TDI (Traction),218 hp,270 hp,+ 52 hp,400 Nm,500 Nm,+ 100 Nm
+Audi,A4,2008>2011,Diesel,2.0 TDi,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A4,07/2015>2019,Gasoline,2.0 TFSI,150 hp,240 hp,+ 90 hp,270 Nm,380 Nm,+ 110 Nm
+Audi,A4,2008>2011,Gasoline,2.0 TFSi,180 hp,260 hp,+ 80 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A4,2004>2008,Gasoline,RS4 4.2 V8,420 hp,440 hp,+ 20 hp,430 Nm,455 Nm,+ 25 Nm
+Audi,A4,2004>2008,Gasoline,2.0 TFSI - DTM edition,220 hp,240 hp,+ 20 hp,300 Nm,360 Nm,+ 60 Nm
+Audi,A4,07/2015>2019,Diesel,2.0 TDI,190 hp,220 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Audi,A4,2008>2011,Diesel,3.0 TDi DPF,240 hp,300 hp,+ 60 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A4,2008>2011,Gasoline,S4 3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A4,2008>2011,Diesel,2.0 TDi,163 hp,205 hp,+ 42 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A4,2012>2015,Gasoline,1.4 TFSI,125 hp,145 hp,+ 20 hp,200 Nm,250 Nm,+ 50 Nm
+Audi,A4,09/2019>...,Diesel,30 TDI (2.0D),122 hp,185 hp,+ 63 hp,270 Nm,400 Nm,+ 130 Nm
+Audi,A4,2012>2015,Diesel,2.0 TDI,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A4,2012>2015,Diesel,2.0 TDI,120 hp,185 hp,+ 65 hp,290 Nm,410 Nm,+ 120 Nm
+Audi,A4,2004>2008,Diesel,1.9 TDi,115 hp,150 hp,+ 35 hp,285 Nm,340 Nm,+ 55 Nm
+Audi,A4,2008>2011,Diesel,2.0 TDi,170 hp,205 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A4,2004>2008,Diesel,2.0 TDi DPF,170 hp,200 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A4,2008>2011,Gasoline,3.2 FSi,265 hp,285 hp,+ 20 hp,330 Nm,350 Nm,+ 20 Nm
+Audi,A4 Cabrio,2006>...,Diesel,3.0 V6 TDi,204 hp,275 hp,+ 71 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A4 Cabrio,2006>...,Diesel,3.0 V6 TDi,233 hp,275 hp,+ 42 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A4 Cabrio,2006>...,Diesel,3.2 V6,255 hp,275 hp,+ 20 hp,330 Nm,350 Nm,+ 20 Nm
+Audi,A4 Cabrio,2006>...,Gasoline,1.8 T,163 hp,195 hp,+ 32 hp,225 Nm,320 Nm,+ 95 Nm
+Audi,A4 Cabrio,2002>2006,Gasoline,1.8 T,163 hp,195 hp,+ 32 hp,225 Nm,320 Nm,+ 95 Nm
+Audi,A4 Cabrio,2006>...,Diesel,2.7 V6 TDi,180 hp,220 hp,+ 40 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,A4 Cabrio,2006>...,Diesel,2.0 TDi DPF,140 hp,175 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A4 Cabrio,2006>...,Gasoline,2.0 TFSi,200 hp,240 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,A4 Cabrio,2006>...,Diesel,2.0 TDi DPF,136 hp,175 hp,+ 39 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A4 Cabrio,2006>...,Gasoline,S4 4.2 V8,344 hp,365 hp,+ 21 hp,410 Nm,430 Nm,+ 20 Nm
+Audi,A4 Cabrio,2006>...,Gasoline,RS4 4.2 V8,420 hp,440 hp,+ 20 hp,430 Nm,455 Nm,+ 25 Nm
+Audi,A4 Cabrio,2002>2006,Gasoline,3.0 V6,220 hp,240 hp,+ 20 hp,300 Nm,320 Nm,+ 20 Nm
+Audi,A5,11/2011>2016,Diesel,2.0 TDI,177 hp,210 hp,+ 33 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,A5,2016>2019,Gasoline,2.0 TFSI,150 hp,240 hp,+ 90 hp,270 Nm,380 Nm,+ 110 Nm
+Audi,A5,2007>2011,Gasoline,1.8 TFSI,160 hp,210 hp,+ 50 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A5,2016>2019,Diesel,2.0 TDI,190 hp,220 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Audi,A5,11/2011>2016,Diesel,2.0 TDI,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A5,11/2011>2016,Gasoline,2.0 TFSi,225 hp,300 hp,+ 75 hp,350 Nm,470 Nm,+ 120 Nm
+Audi,A5,11/2011>2016,Gasoline,1.8 TFSI,177 hp,220 hp,+ 43 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A5,2016>2019,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A5,2007>2011,Diesel,3.0 TDi,211 hp,300 hp,+ 89 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A5,11/2011>2016,Gasoline,2.0 TFSi,230 hp,300 hp,+ 70 hp,350 Nm,440 Nm,+ 90 Nm
+Audi,A5,2007>2011,Gasoline,S5 4.2 V8,354 hp,375 hp,+ 21 hp,440 Nm,465 Nm,+ 25 Nm
+Audi,A5,2007>2011,Diesel,2.0 CR TDi,170 hp,205 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A5,2007>2011,Gasoline,2.0 TFSi,211 hp,260 hp,+ 49 hp,350 Nm,380 Nm,+ 30 Nm
+Audi,A5,2007>2011,Gasoline,1.8 TFSi,170 hp,210 hp,+ 40 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A5,11/2011>2016,Diesel,2.0 TDI,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A5,2007>2011,Diesel,3.0 TDi,204 hp,270 hp,+ 66 hp,400 Nm,600 Nm,+ 200 Nm
+Audi,A5,2007>2011,Diesel,2.7 TDi,190 hp,230 hp,+ 40 hp,400 Nm,480 Nm,+ 80 Nm
+Audi,A5,2007>2011,Diesel,2.0 CR TDi,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A5,11/2011>2016,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A5,2007>2011,Diesel,2.7 TDi,163 hp,230 hp,+ 67 hp,400 Nm,480 Nm,+ 80 Nm
+Audi,A5,2007>2011,Diesel,2.0 CR TDi,177 hp,215 hp,+ 38 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,A5,2016>2019,Gasoline,1.4 TFSI,150 hp,175 hp,+ 25 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,A5,11/2011>2016,Diesel,2.0 TDI,163 hp,210 hp,+ 47 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,A5,2016>2019,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,A5,2007>2011,Diesel,2.0 CR TDi,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A5,2016>2019,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,A5,2019>...,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,A5,2019>...,Diesel,35 TDI (2.0D),150 hp,185 hp,+ 35 hp,340 Nm,400 Nm,+ 60 Nm
+Audi,A5,2007>2011,Gasoline,RS5 4.2 V8,450 hp,470 hp,+ 20 hp,430 Nm,455 Nm,+ 25 Nm
+Audi,A5,11/2011>2016,Diesel,2.0 TDI,190 hp,220 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Audi,A5,2019>...,Diesel,30 TDI (2.0D),122 hp,185 hp,+ 63 hp,270 Nm,400 Nm,+ 130 Nm
+Audi,A5,2016>2019,Gasoline,2.0 TFSI,190 hp,235 hp,+ 45 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A5,11/2011>2016,Diesel,3.0 TDI V6,245 hp,300 hp,+ 55 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A5,11/2011>2016,Diesel,3.0 TDI V6,204 hp,270 hp,+ 66 hp,400 Nm,600 Nm,+ 200 Nm
+Audi,A5,2007>2011,Gasoline,2.0 TFSi,180 hp,260 hp,+ 80 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A5,2016>2019,Diesel,3.0 TDI,272 hp,320 hp,+ 48 hp,600 Nm,680 Nm,+ 80 Nm
+Audi,A5,2016>2019,Diesel,3.0 TDI (Quattro),218 hp,310 hp,+ 92 hp,400 Nm,540 Nm,+ 140 Nm
+Audi,A5,2007>2011,Diesel,3.0 TDi,245 hp,295 hp,+ 50 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A5,2007>2011,Diesel,2.0 CR TDi,163 hp,205 hp,+ 42 hp,350 Nm,410 Nm,+ 60 Nm
+Audi,A5,11/2011>2016,Gasoline,3.0 TFSI V6,272 hp,400 hp,+ 128 hp,400 Nm,520 Nm,+ 120 Nm
+Audi,A5,11/2011>2016,Diesel,3.0 TDI V6,218 hp,320 hp,+ 102 hp,500 Nm,680 Nm,+ 180 Nm
+Audi,A5,2007>2011,Gasoline,S5 3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A5,2016>2019,Gasoline,2.0 TFSI,252 hp,300 hp,+ 48 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,A5,2007>2011,Diesel,3.0 TDi,240 hp,300 hp,+ 60 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A5,11/2011>2016,Gasoline,1.8 TFSI,144 hp,220 hp,+ 76 hp,280 Nm,380 Nm,+ 100 Nm
+Audi,A5,11/2011>2016,Gasoline,S5 3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A5,2019>...,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A5,11/2011>2016,Gasoline,2.0 TFSI,211 hp,260 hp,+ 49 hp,350 Nm,380 Nm,+ 30 Nm
+Audi,A5,2016>2019,Diesel,3.0 TDI (Traction),218 hp,270 hp,+ 52 hp,400 Nm,500 Nm,+ 100 Nm
+Audi,A5,11/2011>2016,Gasoline,1.8 TFSI,170 hp,220 hp,+ 50 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A5,2007>2011,Gasoline,3.2 FSI,265 hp,285 hp,+ 20 hp,330 Nm,350 Nm,+ 20 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDi,190 hp,300 hp,+ 110 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A6,2011>2018,Gasoline,RS6 4.0 TFSi,560 hp,680 hp,+ 120 hp,700 Nm,900 Nm,+ 200 Nm
+Audi,A6,2004>2008,Diesel,2.7 V6 TDi,180 hp,220 hp,+ 40 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDi,204 hp,270 hp,+ 66 hp,400 Nm,600 Nm,+ 200 Nm
+Audi,A6,2008>2010,Diesel,2.7 TDi,190 hp,230 hp,+ 40 hp,450 Nm,520 Nm,+ 70 Nm
+Audi,A6,2011>2018,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,350 Nm,430 Nm,+ 80 Nm
+Audi,A6,2004>2008,Diesel,2.7 V6 TDi,163 hp,220 hp,+ 57 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDi (Traction),218 hp,270 hp,+ 52 hp,400 Nm,500 Nm,+ 100 Nm
+Audi,A6,2004>2008,Gasoline,S6 5.2 FSi V10,435 hp,455 hp,+ 20 hp,520 Nm,545 Nm,+ 25 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDi,211 hp,320 hp,+ 109 hp,500 Nm,680 Nm,+ 180 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDi (Quattro),218 hp,320 hp,+ 102 hp,500 Nm,620 Nm,+ 120 Nm
+Audi,A6,2004>2008,Diesel,2.0 TDi DPF,140 hp,175 hp,+ 35 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A6,2008>2010,Gasoline,RS6 5.0 TFSi,580 hp,680 hp,+ 100 hp,650 Nm,800 Nm,+ 150 Nm
+Audi,A6,1997>2004,Diesel,1.9 TDi,130 hp,165 hp,+ 35 hp,285 Nm,360 Nm,+ 75 Nm
+Audi,A6,2004>2008,Diesel,3.0 V6 TDi,225 hp,275 hp,+ 50 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A6,2008>2010,Diesel,3.0 TDi,240 hp,295 hp,+ 55 hp,500 Nm,580 Nm,+ 80 Nm
+Audi,A6,2008>2010,Diesel,2.0 TDi,140 hp,185 hp,+ 45 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A6,2011>2018,Diesel,2.0 TDI,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A6,1997>2004,Diesel,1.9 TDi,115 hp,146 hp,+ 31 hp,310 Nm,360 Nm,+ 50 Nm
+Audi,A6,2004>2008,Diesel,3.0 V6 TDi,233 hp,275 hp,+ 42 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A6,2008>2010,Diesel,2.0 TDi,163 hp,200 hp,+ 37 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 Bi TDI,313 hp,350 hp,+ 37 hp,650 Nm,720 Nm,+ 70 Nm
+Audi,A6,2011>2018,Diesel,2.0 TDI,163 hp,210 hp,+ 47 hp,350 Nm,430 Nm,+ 80 Nm
+Audi,A6,2008>2010,Diesel,2.0 TDi,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,A6,2008>2010,Gasoline,5.2 FSi,435 hp,460 hp,+ 25 hp,540 Nm,565 Nm,+ 25 Nm
+Audi,A6,2011>2018,Gasoline,RS6 4.0 TFSi Performance,605 hp,680 hp,+ 75 hp,750 Nm,900 Nm,+ 150 Nm
+Audi,A6,2011>2018,Diesel,2.0 TDi,177 hp,210 hp,+ 33 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDi,245 hp,295 hp,+ 50 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A6,2008>2010,Diesel,3.0 TDi,211 hp,295 hp,+ 84 hp,500 Nm,580 Nm,+ 80 Nm
+Audi,A6,2011>2018,Diesel,2.0 TDi,190 hp,220 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Audi,A6,2004>2008,Diesel,2.0 TDi,136 hp,180 hp,+ 44 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A6,2004>2008,Diesel,2.0 TDi,140 hp,180 hp,+ 40 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,A6,1997>2004,Gasoline,S6 4.2 V8,340 hp,360 hp,+ 20 hp,420 Nm,450 Nm,+ 30 Nm
+Audi,A6,2008>2010,Diesel,2.0 TDi,170 hp,200 hp,+ 30 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDi,272 hp,320 hp,+ 48 hp,580 Nm,680 Nm,+ 100 Nm
+Audi,A6,1997>2004,Diesel,1.9 TDi,110 hp,140 hp,+ 30 hp,235 Nm,310 Nm,+ 75 Nm
+Audi,A6,2008>2010,Diesel,2.7 TDi,163 hp,230 hp,+ 67 hp,450 Nm,520 Nm,+ 70 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 Bi TDI Competition,326 hp,405 hp,+ 79 hp,650 Nm,750 Nm,+ 100 Nm
+Audi,A6,1997>2004,Gasoline,3.0 V6,220 hp,240 hp,+ 20 hp,300 Nm,325 Nm,+ 25 Nm
+Audi,A6,2011>2018,Gasoline,2.0 TFSI,180 hp,260 hp,+ 80 hp,320 Nm,420 Nm,+ 100 Nm
+Audi,A6,2011>2018,Diesel,3.0 V6 TDI,320 hp,405 hp,+ 85 hp,650 Nm,750 Nm,+ 100 Nm
+Audi,A6,2008>2010,Gasoline,2.8 FSi,220 hp,248 hp,+ 28 hp,280 Nm,305 Nm,+ 25 Nm
+Audi,A6,2008>2010,Gasoline,2.0 TFSi,170 hp,240 hp,+ 70 hp,280 Nm,380 Nm,+ 100 Nm
+Audi,A6,07/2018>...,Gasoline,2.9 TFSI (USA),450 hp,510 hp,+ 60 hp,600 Nm,780 Nm,+ 180 Nm
+Audi,A6,1997>2004,Gasoline,4.2 V8,300 hp,320 hp,+ 20 hp,400 Nm,430 Nm,+ 30 Nm
+Audi,A6,2011>2018,Gasoline,3.0 TFSi,310 hp,400 hp,+ 90 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A6,2008>2010,Gasoline,3.0 TFSi,290 hp,400 hp,+ 110 hp,420 Nm,520 Nm,+ 100 Nm
+Audi,A6,2011>2018,Gasoline,2.0 TFSI,252 hp,300 hp,+ 48 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,A6,2008>2010,Gasoline,2.8 FSi,190 hp,212 hp,+ 22 hp,280 Nm,305 Nm,+ 25 Nm
+Audi,A6,2004>2008,Gasoline,3.2 FSi V6,255 hp,275 hp,+ 20 hp,330 Nm,350 Nm,+ 20 Nm
+Audi,A6,2011>2018,Gasoline,S6 - 4.0 TFSi,420 hp,540 hp,+ 120 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,A6,2004>2008,Gasoline,2.0 TFSi,200 hp,240 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,A6,2011>2018,Gasoline,3.0 TFSi,300 hp,400 hp,+ 100 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A6,2004>2008,Gasoline,RS6 5.0 TFSi,580 hp,680 hp,+ 100 hp,650 Nm,800 Nm,+ 150 Nm
+Audi,A6,2011>2018,Gasoline,S6 - 4.0 TFSi,450 hp,540 hp,+ 90 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,A6,2008>2010,Gasoline,4.2 FSi,350 hp,367 hp,+ 17 hp,440 Nm,465 Nm,+ 25 Nm
+Audi,A6,1997>2004,Gasoline,1.8 T,150 hp,195 hp,+ 45 hp,210 Nm,320 Nm,+ 110 Nm
+Audi,A6,2004>2008,Gasoline,2.0 TFSi,170 hp,240 hp,+ 70 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,A6,2004>2008,Gasoline,4.2 FSi V8,335 hp,355 hp,+ 20 hp,420 Nm,445 Nm,+ 25 Nm
+Audi,A6,2011>2018,Gasoline,3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A6,1997>2004,Gasoline,2.4 V6,170 hp,190 hp,+ 20 hp,230 Nm,253 Nm,+ 23 Nm
+Audi,A6,1997>2004,Gasoline,2.8 V6,193 hp,211 hp,+ 18 hp,280 Nm,300 Nm,+ 20 Nm
+Audi,A6,2011>2018,Gasoline,1.8 TFSi,190 hp,220 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 TDi,211 hp,320 hp,+ 109 hp,500 Nm,680 Nm,+ 180 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 Bi TDI,313 hp,350 hp,+ 37 hp,650 Nm,720 Nm,+ 70 Nm
+Audi,A7,2010>2018,Gasoline,RS7 4.0 TFSi,560 hp,680 hp,+ 120 hp,700 Nm,900 Nm,+ 200 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 TDI,272 hp,320 hp,+ 48 hp,580 Nm,680 Nm,+ 100 Nm
+Audi,A7,2010>2018,Gasoline,1.8 TFSi,190 hp,220 hp,+ 30 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 TDI,190 hp,270 hp,+ 80 hp,500 Nm,520 Nm,+ 20 Nm
+Audi,A7,2010>2018,Gasoline,3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A7,2010>2018,Gasoline,2.0 TFSi,252 hp,300 hp,+ 48 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,A7,2018>...,Gasoline,2.9 TFSI (USA),450 hp,510 hp,+ 60 hp,600 Nm,780 Nm,+ 180 Nm
+Audi,A7,2010>2018,Gasoline,S7 4.0 TFSi,450 hp,540 hp,+ 90 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 TDi,245 hp,295 hp,+ 50 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 Bi TDI,320 hp,405 hp,+ 85 hp,650 Nm,750 Nm,+ 100 Nm
+Audi,A7,2010>2018,Gasoline,3.0 TFSi,310 hp,400 hp,+ 90 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 TDi,204 hp,270 hp,+ 66 hp,400 Nm,600 Nm,+ 200 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 TDI (Traction),218 hp,270 hp,+ 52 hp,400 Nm,500 Nm,+ 100 Nm
+Audi,A7,2010>2018,Gasoline,3.0 TFSi,300 hp,400 hp,+ 100 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 TDI (Quattro),218 hp,320 hp,+ 102 hp,500 Nm,680 Nm,+ 180 Nm
+Audi,A7,2010>2018,Diesel,3.0 V6 Bi TDI Competition,326 hp,405 hp,+ 79 hp,650 Nm,750 Nm,+ 100 Nm
+Audi,A7,2010>2018,Gasoline,S7 4.0 TFSi,420 hp,540 hp,+ 120 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,A8,2003>2010,Diesel,3.0 V6 TDI,211 hp,275 hp,+ 64 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A8,2003>2010,Diesel,4.0 V8 TDI,275 hp,330 hp,+ 55 hp,650 Nm,770 Nm,+ 120 Nm
+Audi,A8,2003>2010,Diesel,4.2 V8 TDI,326 hp,375 hp,+ 49 hp,650 Nm,770 Nm,+ 120 Nm
+Audi,A8,2010>2015,Diesel,3.0 V6 Bi TDI,313 hp,350 hp,+ 37 hp,550 Nm,720 Nm,+ 170 Nm
+Audi,A8,2010>2015,Gasoline,S8 - 4.0 TFSi,520 hp,680 hp,+ 160 hp,650 Nm,900 Nm,+ 250 Nm
+Audi,A8,2010>2015,Diesel,3.0 V6 TDI,262 hp,310 hp,+ 48 hp,580 Nm,650 Nm,+ 70 Nm
+Audi,A8,2010>2015,Diesel,3.0 V6 TDI,258 hp,310 hp,+ 52 hp,580 Nm,650 Nm,+ 70 Nm
+Audi,A8,2003>2010,Diesel,3.0 V6 TDI,233 hp,275 hp,+ 42 hp,450 Nm,540 Nm,+ 90 Nm
+Audi,A8,2010>2015,Gasoline,4.0 TFSI,435 hp,540 hp,+ 105 hp,600 Nm,800 Nm,+ 200 Nm
+Audi,A8,2010>2015,Gasoline,4.2 FSI,372 hp,395 hp,+ 23 hp,445 Nm,465 Nm,+ 20 Nm
+Audi,A8,2003>2010,Gasoline,6.0 W12,450 hp,476 hp,+ 26 hp,580 Nm,610 Nm,+ 30 Nm
+Audi,A8,2010>2015,Diesel,3.0 V6 TDI,250 hp,310 hp,+ 60 hp,550 Nm,650 Nm,+ 100 Nm
+Audi,A8,2010>2015,Diesel,3.0 V6 TDI,211 hp,320 hp,+ 109 hp,550 Nm,680 Nm,+ 130 Nm
+Audi,A8,2003>2010,Gasoline,5.2 FSI V10,450 hp,476 hp,+ 26 hp,540 Nm,565 Nm,+ 25 Nm
+Audi,A8,2016>2017,Gasoline,6.0 W12 Bi Turbo,608 hp, hp,0 hp,900 Nm, Nm,0 Nm
+Audi,A8,2016>2017,Diesel,3.0 TDI CR,286 hp,350 hp,+ 64 hp,600 Nm,720 Nm,+ 120 Nm
+Audi,A8,2010>2015,Diesel,4.2 V8 TDI,350 hp,400 hp,+ 50 hp,800 Nm,930 Nm,+ 130 Nm
+Audi,A8,2010>2015,Gasoline,3.0 TFSi,290 hp,400 hp,+ 110 hp,420 Nm,520 Nm,+ 100 Nm
+Audi,A8,2003>2010,Gasoline,4.2 FSI V8,350 hp,370 hp,+ 20 hp,440 Nm,465 Nm,+ 25 Nm
+Audi,A8,2010>2015,Gasoline,6.3 FSI W12,500 hp,530 hp,+ 30 hp,625 Nm,655 Nm,+ 30 Nm
+Audi,A8,2016>2017,Gasoline,4.0 TFSI,580 hp,680 hp,+ 100 hp,800 Nm,900 Nm,+ 100 Nm
+Audi,A8,2010>2015,Diesel,4.2 V8 TDI,385 hp,450 hp,+ 65 hp,850 Nm,950 Nm,+ 100 Nm
+Audi,A8,2003>2010,Gasoline,4.2 FSI V8,335 hp,355 hp,+ 20 hp,430 Nm,445 Nm,+ 15 Nm
+Audi,A8,2010>2015,Gasoline,4.0 TFSI,420 hp,540 hp,+ 120 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,A8,2010>2015,Gasoline,3.0 TFSi,310 hp,400 hp,+ 90 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,Q2,2016>2019,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,340 Nm,430 Nm,+ 90 Nm
+Audi,Q2,2019>...,Gasoline,S TFSI (2.0T),310 hp,350 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Audi,Q2,2016>2019,Gasoline,1.0 TFSi,116 hp,130 hp,+ 14 hp,200 Nm,240 Nm,+ 40 Nm
+Audi,Q2,2019>...,Diesel,30 TDI (1.6D),116 hp,140 hp,+ 24 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,Q2,2016>2019,Diesel,1.6 TDI,116 hp,140 hp,+ 24 hp,250 Nm,310 Nm,+ 60 Nm
+Audi,Q2,2019>...,Gasoline,30 TFSI -  (1.0T),116 hp,130 hp,+ 14 hp,200 Nm,240 Nm,+ 40 Nm
+Audi,Q2,2016>2019,Diesel,2.0 TDI,190 hp,220 hp,+ 30 hp,400 Nm,450 Nm,+ 50 Nm
+Audi,Q2,2016>2019,Gasoline,2.0 TFSI,190 hp,235 hp,+ 45 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,Q2,2019>...,Gasoline,35 TFSI (1.4T COD),150 hp,170 hp,+ 20 hp,250 Nm,350 Nm,+ 100 Nm
+Audi,Q2,2019>...,Gasoline,35 TFSI - (1.5T),150 hp,175 hp,+ 25 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,Q2,2016>2019,Gasoline,1.4 TFSi,150 hp,170 hp,+ 20 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,Q2,2019>...,Diesel,35 TDI (2.0D),150 hp,185 hp,+ 35 hp,340 Nm,400 Nm,+ 60 Nm
+Audi,Q3,2015>2018,Diesel,2.0 TDI CR,184 hp,220 hp,+ 36 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,Q3,2015>2018,Gasoline,2.0 TFSI,180 hp,260 hp,+ 80 hp,320 Nm,440 Nm,+ 120 Nm
+Audi,Q3,2018>...,Gasoline,35 TFSI (1.4T COD),150 hp,170 hp,+ 20 hp,250 Nm,350 Nm,+ 100 Nm
+Audi,Q3,2015>2018,Gasoline,1.4 TFSI,150 hp,170 hp,+ 20 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,Q3,2015>2018,Diesel,2.0 TDI CR,150 hp,195 hp,+ 45 hp,340 Nm,410 Nm,+ 70 Nm
+Audi,Q3,09/2011>2014,Gasoline,2.0 TFSI,211 hp,250 hp,+ 39 hp,300 Nm,360 Nm,+ 60 Nm
+Audi,Q3,09/2011>2014,Gasoline,1.4 TFSI,150 hp,170 hp,+ 20 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,Q3,09/2011>2014,Gasoline,2.0 TFSI,170 hp,250 hp,+ 80 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,Q3,2018>...,Gasoline,35 TFSI - (1.5T),150 hp,175 hp,+ 25 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,Q3,2015>2018,Gasoline,2.0 TFSI,220 hp,260 hp,+ 40 hp,350 Nm,440 Nm,+ 90 Nm
+Audi,Q3,2015>2018,Gasoline,1.4 TFSI,125 hp,170 hp,+ 45 hp,220 Nm,300 Nm,+ 80 Nm
+Audi,Q3,2018>...,Gasoline,40 TFSI (2.0T),190 hp,300 hp,+ 110 hp,320 Nm,440 Nm,+ 120 Nm
+Audi,Q3,2015>2018,Gasoline,RSQ3 Performance - 2.5 TFSI,367 hp,420 hp,+ 53 hp,465 Nm,620 Nm,+ 155 Nm
+Audi,Q3,09/2011>2014,Gasoline,RSQ3 - 2.5 TFSI,310 hp,420 hp,+ 110 hp,420 Nm,620 Nm,+ 200 Nm
+Audi,Q3,2018>...,Gasoline,RS TFSI (2.5T GPF),400 hp,460 hp,+ 60 hp,480 Nm,580 Nm,+ 100 Nm
+Audi,Q3,09/2011>2014,Diesel,2.0 TDI CR,140 hp,185 hp,+ 45 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,Q3,2018>...,Gasoline,45 TFSI (2.0T),230 hp,300 hp,+ 70 hp,350 Nm,440 Nm,+ 90 Nm
+Audi,Q3,09/2011>2014,Diesel,2.0 TDI CR,163 hp,210 hp,+ 47 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,Q3,2015>2018,Gasoline,RSQ3 - 2.5 TFSI,340 hp,420 hp,+ 80 hp,450 Nm,620 Nm,+ 170 Nm
+Audi,Q3,2015>2018,Gasoline,RSQ3 - 2.5 TFSI,310 hp,420 hp,+ 110 hp,420 Nm,620 Nm,+ 200 Nm
+Audi,Q3,09/2011>2014,Diesel,2.0 TDI CR,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,Q3,2018>...,Diesel,35 TDI (2.0D),150 hp,185 hp,+ 35 hp,340 Nm,400 Nm,+ 60 Nm
+Audi,Q3,09/2011>2014,Diesel,2.0 TDI CR,177 hp,210 hp,+ 33 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,Q3,2015>2018,Diesel,2.0 TDI CR,120 hp,185 hp,+ 65 hp,290 Nm,410 Nm,+ 120 Nm
+Audi,Q5,2008>2011,Diesel,2.0 TDi,136 hp,185 hp,+ 49 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,Q5,2012>2016,Gasoline,2.0 TFSI,180 hp,260 hp,+ 80 hp,320 Nm,400 Nm,+ 80 Nm
+Audi,Q5,2017>2019,Gasoline,2.0 TFSi,252 hp,300 hp,+ 48 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,Q5,2008>2011,Gasoline,2.0 TFSi,180 hp,260 hp,+ 80 hp,280 Nm,400 Nm,+ 120 Nm
+Audi,Q5,2008>2011,Diesel,2.0 TDi,163 hp,205 hp,+ 42 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,Q5,2012>2016,Diesel,2.0 TDI,163 hp,210 hp,+ 47 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,Q5,2017>2019,Diesel,3.0 TDI CR,286 hp,350 hp,+ 64 hp,600 Nm,720 Nm,+ 120 Nm
+Audi,Q5,2012>2016,Diesel,2.0 TDI,177 hp,210 hp,+ 33 hp,380 Nm,430 Nm,+ 50 Nm
+Audi,Q5,2017>2019,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,Q5,2008>2011,Gasoline,2.0 TFSi,211 hp,260 hp,+ 49 hp,350 Nm,400 Nm,+ 50 Nm
+Audi,Q5,2012>2016,Gasoline,3.0 TFSi,272 hp,400 hp,+ 128 hp,400 Nm,520 Nm,+ 120 Nm
+Audi,Q5,2008>2011,Diesel,3.0 TDi,240 hp,290 hp,+ 50 hp,500 Nm,580 Nm,+ 80 Nm
+Audi,Q5,2008>2011,Diesel,3.0 TDi,211 hp,280 hp,+ 69 hp,500 Nm,580 Nm,+ 80 Nm
+Audi,Q5,2012>2016,Diesel,2.0 TDI,190 hp,215 hp,+ 25 hp,400 Nm,450 Nm,+ 50 Nm
+Audi,Q5,2012>2016,Gasoline,1.4 TFSI,150 hp,180 hp,+ 30 hp,250 Nm,300 Nm,+ 50 Nm
+Audi,Q5,2017>2019,Diesel,2.0 TDI CR,163 hp,220 hp,+ 57 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,Q5,2012>2016,Diesel,SQ5 3.0 V6 Bi TDI,313 hp,350 hp,+ 37 hp,650 Nm,720 Nm,+ 70 Nm
+Audi,Q5,2017>2019,Diesel,2.0 TDI CR,190 hp,220 hp,+ 30 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,Q5,2012>2016,Diesel,3.0 TDI,245 hp,290 hp,+ 45 hp,580 Nm,650 Nm,+ 70 Nm
+Audi,Q5,2012>2016,Diesel,SQ5 3.0 V6 Bi TDI,326 hp,405 hp,+ 79 hp,650 Nm,750 Nm,+ 100 Nm
+Audi,Q5,2012>2016,Gasoline,3.0 TFSI,354 hp,400 hp,+ 46 hp,470 Nm,520 Nm,+ 50 Nm
+Audi,Q5,2012>2016,Diesel,3.0 TDI,258 hp,310 hp,+ 52 hp,580 Nm,650 Nm,+ 70 Nm
+Audi,Q5,2012>2016,Diesel,SQ5 Plus 3.0 V6 Bi TDI,340 hp,400 hp,+ 60 hp,700 Nm,790 Nm,+ 90 Nm
+Audi,Q5,2017>2019,Diesel,2.0 TDI CR,150 hp,195 hp,+ 45 hp,320 Nm,430 Nm,+ 110 Nm
+Audi,Q5,2012>2016,Gasoline,2.0 TFSI,230 hp,260 hp,+ 30 hp,350 Nm,400 Nm,+ 50 Nm
+Audi,Q5,2012>2016,Diesel,2.0 TDI,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,Q5,2012>2016,Gasoline,2.0 TFSI,225 hp,260 hp,+ 35 hp,350 Nm,400 Nm,+ 50 Nm
+Audi,Q5,2008>2011,Diesel,2.7 TDi,163 hp,230 hp,+ 67 hp,400 Nm,480 Nm,+ 80 Nm
+Audi,Q5,2008>2011,Diesel,2.0 TDi,143 hp,185 hp,+ 42 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,Q5,2008>2011,Diesel,2.0 TDi,170 hp,205 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,Q5,2012>2016,Diesel,2.0 TDI,150 hp,195 hp,+ 45 hp,320 Nm,410 Nm,+ 90 Nm
+Audi,Q7,2015>2019,Diesel,3.0 TDI CR,272 hp,320 hp,+ 48 hp,600 Nm,680 Nm,+ 80 Nm
+Audi,Q7,2010>2014,Diesel,4.2 TDi,340 hp,390 hp,+ 50 hp,760 Nm,880 Nm,+ 120 Nm
+Audi,Q7,2015>2019,Diesel,3.0 TDI CR,211 hp,320 hp,+ 109 hp,500 Nm,680 Nm,+ 180 Nm
+Audi,Q7,2015>2019,Gasoline,3.0 TFSI,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,Q7,2010>2014,Diesel,3.0 TDi,240 hp,295 hp,+ 55 hp,550 Nm,600 Nm,+ 50 Nm
+Audi,Q7,2006>2010,Gasoline,4.2 FSi,350 hp,370 hp,+ 20 hp,440 Nm,465 Nm,+ 25 Nm
+Audi,Q7,2006>2010,Gasoline,3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,Q7,2010>2014,Gasoline,3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,Q7,2006>2010,Diesel,3.0 TDi,240 hp,295 hp,+ 55 hp,550 Nm,600 Nm,+ 50 Nm
+Audi,Q7,2006>2010,Diesel,3.0 TDi,211 hp,285 hp,+ 74 hp,500 Nm,580 Nm,+ 80 Nm
+Audi,Q7,2006>2010,Diesel,6.0 TDi,500 hp,600 hp,+ 100 hp,1000 Nm,1200 Nm,+ 200 Nm
+Audi,Q7,2006>2010,Diesel,4.2 TDi,326 hp,375 hp,+ 49 hp,760 Nm,880 Nm,+ 120 Nm
+Audi,Q7,2010>2014,Diesel,3.0 TDi,204 hp,270 hp,+ 66 hp,450 Nm,570 Nm,+ 120 Nm
+Audi,Q7,2006>2010,Gasoline,3.0 TFSi,272 hp,400 hp,+ 128 hp,400 Nm,520 Nm,+ 120 Nm
+Audi,Q7,2006>2010,Diesel,3.0 TDi,233 hp,285 hp,+ 52 hp,500 Nm,580 Nm,+ 80 Nm
+Audi,Q7,2010>2014,Diesel,6.0 TDi,500 hp,600 hp,+ 100 hp,1000 Nm,1200 Nm,+ 200 Nm
+Audi,Q7,2010>2014,Diesel,3.0 TDi,245 hp,295 hp,+ 50 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,Q7,2010>2014,Gasoline,3.0 TFSi,272 hp,400 hp,+ 128 hp,400 Nm,520 Nm,+ 120 Nm
+Audi,Q7,2019>...,Gasoline,SQ7 - 4.0 TFSI,507 hp, hp,0 hp,770 Nm, Nm,0 Nm
+Audi,Q7,2006>2010,Gasoline,3.6 FSi,280 hp,300 hp,+ 20 hp,360 Nm,380 Nm,+ 20 Nm
+Audi,Q7,2015>2019,Diesel,3.0 TDI CR,218 hp,320 hp,+ 102 hp,500 Nm,680 Nm,+ 180 Nm
+Audi,Q8,2018>...,Gasoline,SQ8 - 4.0 TFSI,507 hp, hp,0 hp,770 Nm, Nm,0 Nm
+Audi,R8,2019>...,Gasoline,5.2 V10 Performance,620 hp, hp,0 hp,560 Nm, Nm,0 Nm
+Audi,R8,2019>...,Gasoline,5.2 V10,570 hp, hp,0 hp,550 Nm, Nm,0 Nm
+Audi,R8,2007>2015,Gasoline,5.2 V10,525 hp,585 hp,+ 60 hp,530 Nm,580 Nm,+ 50 Nm
+Audi,R8,2007>2015,Gasoline,GT,560 hp,585 hp,+ 25 hp,540 Nm,580 Nm,+ 40 Nm
+Audi,R8,2019>...,Gasoline,5.2 V10 RWD,540 hp, hp,0 hp, Nm, Nm,0 Nm
+Audi,R8,2007>2015,Gasoline,5.2 V10 +,550 hp,585 hp,+ 35 hp,530 Nm,580 Nm,+ 50 Nm
+Audi,R8,2007>2015,Gasoline,4.2 V8,420 hp,440 hp,+ 20 hp,430 Nm,455 Nm,+ 25 Nm
+Audi,R8,2007>2015,Gasoline,4.2 V8,430 hp,450 hp,+ 20 hp,430 Nm,455 Nm,+ 25 Nm
+Audi,R8,2015>2019,Gasoline,5.2 V10,540 hp,630 hp,+ 90 hp,530 Nm,580 Nm,+ 50 Nm
+Audi,R8,2015>2019,Gasoline,5.2 V10 Plus,610 hp,630 hp,+ 20 hp,560 Nm,580 Nm,+ 20 Nm
+Audi,RS3,2019>...,Gasoline,RS TFSI (2.5T GPF),400 hp,460 hp,+ 60 hp,480 Nm,580 Nm,+ 100 Nm
+Audi,RS3,2017>2019,Gasoline,RS3 2.5 TFSI,400 hp,470 hp,+ 70 hp,480 Nm,620 Nm,+ 140 Nm
+Audi,RS3,2011>2014,Gasoline,RS3 2.5 TFSI,340 hp,400 hp,+ 60 hp,450 Nm,600 Nm,+ 150 Nm
+Audi,RS3,2015>2016,Gasoline,RS3 2.5 TFSI,367 hp,420 hp,+ 53 hp,465 Nm,620 Nm,+ 155 Nm
+Audi,RS4,2004>2008,Gasoline,RS4 4.2 V8,420 hp,440 hp,+ 20 hp,430 Nm,455 Nm,+ 25 Nm
+Audi,RS4,2017>2019,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,RS4,2019>...,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,RS4,2012>...,Gasoline,RS4 4.2 V8 FSI,450 hp,475 hp,+ 25 hp,430 Nm,450 Nm,+ 20 Nm
+Audi,RS5,2019>...,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,RS5,2010>...,Gasoline,RS5 4.2 V8,450 hp,470 hp,+ 20 hp,430 Nm,455 Nm,+ 25 Nm
+Audi,RS5,2017>2019,Gasoline,RS TFSI (2.9 V6 BiTurbo),450 hp,510 hp,+ 60 hp,600 Nm,830 Nm,+ 230 Nm
+Audi,RS6,2004>2011,Gasoline,RS6 5.0 TFSi,580 hp,680 hp,+ 100 hp,650 Nm,800 Nm,+ 150 Nm
+Audi,RS6,2012>2019,Gasoline,RS6 4.0 TFSi Performance,605 hp,680 hp,+ 75 hp,750 Nm,900 Nm,+ 150 Nm
+Audi,RS6,2012>2019,Gasoline,RS6 4.0 TFSi,560 hp,680 hp,+ 120 hp,700 Nm,900 Nm,+ 200 Nm
+Audi,RS7,2013>2019,Gasoline,'Performance',605 hp,680 hp,+ 75 hp,750 Nm,900 Nm,+ 150 Nm
+Audi,RS7,2013>2019,Gasoline,RS7 4.0 TFSI,560 hp,680 hp,+ 120 hp,700 Nm,900 Nm,+ 200 Nm
+Audi,RSQ3,2013>2020,Gasoline,2.5 TFSI,340 hp,420 hp,+ 80 hp,450 Nm,620 Nm,+ 170 Nm
+Audi,RSQ3,2013>2020,Gasoline,2.5 TFSI 'Performance',367 hp,420 hp,+ 53 hp,465 Nm,620 Nm,+ 155 Nm
+Audi,RSQ3,2020>...,Gasoline,RS TFSI (2.5T GPF),400 hp,460 hp,+ 60 hp,480 Nm,580 Nm,+ 100 Nm
+Audi,RSQ3,2013>2020,Gasoline,2.5 TFSI,310 hp,420 hp,+ 110 hp,420 Nm,620 Nm,+ 200 Nm
+Audi,S1,2014>...,Gasoline,S1 2.0 TFSi,231 hp,300 hp,+ 69 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,S3,2019>...,Gasoline,S TFSI (2.0T),310 hp,350 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Audi,S3,1996>2003,Gasoline,S3 1.8T,225 hp,250 hp,+ 25 hp,280 Nm,400 Nm,+ 120 Nm
+Audi,S3,07/2016>2019,Gasoline,S3 2.0 TFSI (GPF),310 hp,350 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Audi,S3,2012>2016,Gasoline,S3 2.0 TFSI,300 hp,350 hp,+ 50 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,S3,2008>2012,Gasoline,S3 2.0 TFSi,265 hp,300 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,S3,2003>2008,Gasoline,S3 2.0 TFSi,265 hp,300 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,S3,07/2016>2019,Gasoline,S3 2.0 TFSI,310 hp,350 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Audi,S3,1996>2003,Gasoline,S3 1.8T,210 hp,250 hp,+ 40 hp,270 Nm,380 Nm,+ 110 Nm
+Audi,S4,2019>...,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,S4,2004>2008,Gasoline,S4 4.2 V8,344 hp,365 hp,+ 21 hp,410 Nm,430 Nm,+ 20 Nm
+Audi,S4,2001>2004,Gasoline,S4 4.2 V8,344 hp,365 hp,+ 21 hp,410 Nm,430 Nm,+ 20 Nm
+Audi,S4,2016>2019,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,S4,2008>2015,Gasoline,S4 3.0 TFSI,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,S5,2007>2016,Gasoline,S5 4.2 V8,354 hp,375 hp,+ 21 hp,440 Nm,465 Nm,+ 25 Nm
+Audi,S5,2007>2016,Gasoline,S5 3.0 TFSi,333 hp,400 hp,+ 67 hp,440 Nm,520 Nm,+ 80 Nm
+Audi,S5,2016>2019,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,S5,2019>...,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,S6,2012>2018,Gasoline,4.0 TFSi,450 hp,540 hp,+ 90 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,S6,2012>2018,Gasoline,4.0 TFSi,420 hp,540 hp,+ 120 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,S6,2019>...,Gasoline,2.9 TFSI (USA),450 hp,510 hp,+ 60 hp,600 Nm,780 Nm,+ 180 Nm
+Audi,S6,2004>2011,Gasoline,S6 5.2 FSI V10,435 hp,455 hp,+ 20 hp,520 Nm,545 Nm,+ 25 Nm
+Audi,S6,1996>2004,Gasoline,S6 4.2 V8,340 hp,360 hp,+ 20 hp,420 Nm,450 Nm,+ 30 Nm
+Audi,S7,2012>2019,Gasoline,4.0 TFSi,420 hp,540 hp,+ 120 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,S7,2012>2019,Gasoline,4.0 TFSi,450 hp,540 hp,+ 90 hp,550 Nm,800 Nm,+ 250 Nm
+Audi,S7,2019>...,Gasoline,2.9 TFSI (USA),450 hp,510 hp,+ 60 hp,600 Nm,780 Nm,+ 180 Nm
+Audi,S8,2006>2009,Gasoline,5.2 FSI V10,450 hp,476 hp,+ 26 hp,540 Nm,565 Nm,+ 25 Nm
+Audi,S8,2012>2019,Gasoline,S8 Plus - 4.0 TFSI,605 hp,680 hp,+ 75 hp,750 Nm,900 Nm,+ 150 Nm
+Audi,S8,2012>2019,Gasoline,4.0 TFSi,520 hp,680 hp,+ 160 hp,650 Nm,900 Nm,+ 250 Nm
+Audi,SQ2,2019>...,Gasoline,S TFSI (2.0T),310 hp,350 hp,+ 40 hp,400 Nm,460 Nm,+ 60 Nm
+Audi,SQ5,2012>2017,Diesel,3.0 V6 Bi TDI,326 hp,405 hp,+ 79 hp,650 Nm,750 Nm,+ 100 Nm
+Audi,SQ5,2012>2017,Gasoline,3.0 TFSI,354 hp,400 hp,+ 46 hp,470 Nm,520 Nm,+ 50 Nm
+Audi,SQ5,2017>2019,Gasoline,S TFSI (3.0T),354 hp,400 hp,+ 46 hp,500 Nm,600 Nm,+ 100 Nm
+Audi,SQ5,2012>2017,Diesel,3.0 V6 Bi TDI - Plus,340 hp,400 hp,+ 60 hp,700 Nm,790 Nm,+ 90 Nm
+Audi,SQ5,2012>2017,Diesel,3.0 V6 Bi TDI,313 hp,350 hp,+ 37 hp,650 Nm,720 Nm,+ 70 Nm
+Audi,SQ7,2020>...,Gasoline,SQ7 - 4.0 TFSI,507 hp, hp,0 hp,770 Nm, Nm,0 Nm
+Audi,SQ8,2019>...,Gasoline,SQ8 - 4.0 TFSI,507 hp, hp,0 hp,770 Nm, Nm,0 Nm
+Audi,TT,2014>2018,Gasoline,S - 2.0 TFSi,310 hp,350 hp,+ 40 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,TT,11/1997>10/2006,Gasoline,3.2 V6,250 hp,270 hp,+ 20 hp,320 Nm,340 Nm,+ 20 Nm
+Audi,TT,09/2018>...,Gasoline,RS TFSI (2.5T GPF),400 hp,460 hp,+ 60 hp,480 Nm,580 Nm,+ 100 Nm
+Audi,TT,11/1997>10/2006,Gasoline,1.8 T,225 hp,250 hp,+ 25 hp,280 Nm,350 Nm,+ 70 Nm
+Audi,TT,2006>2014,Diesel,2.0 TDI CR,170 hp,205 hp,+ 35 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,TT,09/2018>...,Gasoline,40 TFSI (2.0T),197 hp,240 hp,+ 43 hp,320 Nm,380 Nm,+ 60 Nm
+Audi,TT,2006>2014,Gasoline,3.2 V6,250 hp,270 hp,+ 20 hp,320 Nm,340 Nm,+ 20 Nm
+Audi,TT,2006>2014,Gasoline,2.5 TFSI RS Plus,360 hp,400 hp,+ 40 hp,465 Nm,600 Nm,+ 135 Nm
+Audi,TT,11/1997>10/2006,Gasoline,1.8 T,150 hp,190 hp,+ 40 hp,210 Nm,320 Nm,+ 110 Nm
+Audi,TT,2014>2018,Gasoline,2.0 TFSi,230 hp,300 hp,+ 70 hp,370 Nm,440 Nm,+ 70 Nm
+Audi,TT,2014>2018,Diesel,2.0 TDi CR,184 hp,220 hp,+ 36 hp,380 Nm,450 Nm,+ 70 Nm
+Audi,TT,2006>2014,Gasoline,1.8 TFSI,160 hp,210 hp,+ 50 hp,250 Nm,320 Nm,+ 70 Nm
+Audi,TT,11/1997>10/2006,Gasoline,1.8 T,180 hp,210 hp,+ 30 hp,235 Nm,340 Nm,+ 105 Nm
+Audi,TT,2006>2014,Gasoline,2.0 TFSI S,272 hp,300 hp,+ 28 hp,350 Nm,420 Nm,+ 70 Nm
+Audi,TT,2014>2018,Gasoline,RS - 2.5 TFSI,400 hp,470 hp,+ 70 hp,480 Nm,620 Nm,+ 140 Nm
+Audi,TT,2014>2018,Gasoline,1.8 TFSi,180 hp,220 hp,+ 40 hp,250 Nm,380 Nm,+ 130 Nm
+Audi,TT,09/2018>...,Gasoline,S (2.0 TFSI),306 hp,350 hp,+ 44 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,TT,2006>2014,Gasoline,2.0 TFSI,211 hp,260 hp,+ 49 hp,350 Nm,380 Nm,+ 30 Nm
+Audi,TT,2006>2014,Gasoline,2.0 TFSI,200 hp,240 hp,+ 40 hp,280 Nm,360 Nm,+ 80 Nm
+Audi,TT,2006>2014,Gasoline,2.5 TFSI RS,340 hp,400 hp,+ 60 hp,450 Nm,520 Nm,+ 70 Nm
+Audi,TT RS,2018>...,Gasoline,RS TFSI (2.5T GPF),400 hp,460 hp,+ 60 hp,480 Nm,580 Nm,+ 100 Nm
+Audi,TT RS,2006>2014,Gasoline,2.5 TFSI RS,340 hp,400 hp,+ 60 hp,450 Nm,600 Nm,+ 150 Nm
+Audi,TT RS,2014>2018,Gasoline,RS - 2.5 TFSI,400 hp,470 hp,+ 70 hp,480 Nm,620 Nm,+ 140 Nm
+Audi,TT RS,2006>2014,Gasoline,2.5 TFSI RS Plus,360 hp,400 hp,+ 40 hp,465 Nm,600 Nm,+ 135 Nm
+Audi,TT S,09/2018>...,Gasoline,S (2.0 TFSI),306 hp,350 hp,+ 44 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,TT S,2014>2018,Gasoline,8S - 2.0 TSi,310 hp,350 hp,+ 40 hp,380 Nm,460 Nm,+ 80 Nm
+Audi,TT S,2006>2014,Gasoline,8J - 2.0 TFSI,272 hp,300 hp,+ 28 hp,350 Nm,420 Nm,+ 70 Nm

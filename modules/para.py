@@ -2,14 +2,19 @@
 #-*- coding: utf-8 -*-
 
 from modules.generation import Generation
+from modules.spider import Spider
 
 # e.g. "2.0 TS 150hp"
 class Para(Generation):
-    def __init__(self, brand_url, model_url, generation_url, para_url):
-        super(Para, self).__init__(brand_url, model_url, generation_url)
-        self.para_url = "{0}{1}".format(self.base_url, para_url)
+    def __init__(self, generation_url, para_url):
+        super(Para, self).__init__(generation_url)
+
+        if para_url[:10] != 'chiptuning':
+            para_url = 'chiptuning' + para_url
+
+        self.para_url = "{0}{1}".format(Spider.base_url, para_url)
         self.relative_para_url = para_url
-        self.soup = self.get_soup(self.para_url)
+        self.soup = Spider.get_soup(self.para_url)
         self.power_data = {
             "power_original": [],
             "power_promoted": [],
@@ -34,7 +39,19 @@ class Para(Generation):
         self.car_info.update(self.torque_data)
 
     def get_car_info(self):
-        navigation_bar = self.soup.find('h1', text="Chiptuning").parent
+        count = 10
+        faulty = True
+        while count > 0:
+            try:
+                navigation_bar = self.soup.find('h1', text="Chiptuning").parent
+                faulty = False
+                break
+            except Exception:
+                self.soup = Spider.get_soup(self.para_url)
+                count -= 1
+        if faulty:
+            raise
+
         self.car_info["brand"].append(navigation_bar.find('h3').find('a').get_text())
         self.car_info["model"].append(navigation_bar.find('h4').find('a').get_text())
         try:
@@ -46,6 +63,8 @@ class Para(Generation):
             self.car_info["fuel"].append("Gasoline")
         elif self.relative_para_url in self.diesel_urls:
             self.car_info["fuel"].append("Diesel")
+        else:
+            self.car_info["fuel"].append("Gasoline(default)")
 
     def get_power_data(self):
         power_data = list()
@@ -61,13 +80,17 @@ class Para(Generation):
 
     def get_torque_data(self):
         torque_data = list()
-        items = self.soup.find(text="Torque").parent.next_siblings
-        for i in items:
-            try:
-                torque_data.append(i.get_text())
-            except AttributeError:
-                continue
-        self.torque_data["torque_original"].append(torque_data[0])
-        self.torque_data["torque_promoted"].append(torque_data[1])
-        self.torque_data["torque_diff"].append(torque_data[2])
-
+        try:
+            items = self.soup.find(text="Torque").parent.next_siblings
+            for i in items:
+                try:
+                    torque_data.append(i.get_text())
+                except AttributeError:
+                    continue
+            self.torque_data["torque_original"].append(torque_data[0])
+            self.torque_data["torque_promoted"].append(torque_data[1])
+            self.torque_data["torque_diff"].append(torque_data[2])
+        except Exception:
+            self.torque_data["torque_original"].append('NONE')
+            self.torque_data["torque_promoted"].append('NONE')
+            self.torque_data["torque_diff"].append('NONE')
